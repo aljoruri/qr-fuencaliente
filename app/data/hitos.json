@@ -1,0 +1,3965 @@
+[
+  {
+    "id": "H001",
+    "nombre": "Mirador de Los Canarios",
+    "slug": "mirador-los-canarios",
+    "url": "/hitos/mirador-los-canarios",
+    "categorias": [
+      "mirador",
+      "area_recreativa"
+    ],
+    "rutas": [
+      "R01",
+      "R05",
+      "R08"
+    ],
+    "orden_en_rutas": {
+      "R01": 1,
+      "R05": null,
+      "R08": null
+    },
+    "ubicacion": {
+      "texto": "Los Canarios",
+      "latitud": null,
+      "longitud": null,
+      "como_llegar_url": null
+    },
+    "contenido": {
+      "secciones": [
+        {
+          "titulo": "Qué estás viendo",
+          "visibilidad": "publica",
+          "contenido_markdown": "Este mirador ofrece una perspectiva sobre el núcleo de Los Canarios y el Volcán de San Antonio. Su cercanía al casco urbano y la presencia de mesas y bancos lo convierten en un punto de descanso desde el que comenzar a interpretar el paisaje volcánico de Fuencaliente."
+        },
+        {
+          "titulo": "La décima",
+          "visibilidad": "publica",
+          "contenido_markdown": "Una de las placas de la primera fase de **Rincones y paisajes de la Décima** está dedicada a este lugar."
+        },
+        {
+          "titulo": "Información práctica",
+          "visibilidad": "publica",
+          "contenido_markdown": "- Acceso en vehículo desde Los Canarios, según la ficha turística municipal.\n- Mesas y bancos publicados como equipamiento.\n- Coordenadas y accesibilidad exacta pendientes de validación."
+        },
+        {
+          "titulo": "Pendiente",
+          "visibilidad": "interna",
+          "contenido_markdown": "Texto y autor de la décima; fotografía principal; confirmar si las dos entradas municipales con nombres similares representan el mismo espacio."
+        }
+      ]
+    },
+    "media": {
+      "imagen_principal": null,
+      "galeria": [],
+      "estado": "oficial_provisional"
+    },
+    "fuentes": [
+      "https://fuencalientedelapalma.es/2024/01/15/el-ayuntamiento-de-fuencaliente-impulsa-una-ruta-literaria-para-poner-en-valor-la-decima-y-los-versadores/",
+      "https://turismofuencalientedelapalma.com/lugares/"
+    ],
+    "estado": {
+      "inventario": "VERIFICADO",
+      "contenido": [
+        "base_oficial_disponible"
+      ],
+      "qr": "pendiente",
+      "prueba_movil": "pendiente",
+      "validacion_municipal": "pendiente"
+    },
+    "observaciones_internas": "El catálogo turístico parece duplicarlo como Mirador de Los Canarios y M. Los Canarios. Tratar como un solo hito hasta validación municipal."
+  },
+  {
+    "id": "H002",
+    "nombre": "Punto de Información Turística de Plaza Minerva",
+    "slug": "informacion-turistica-plaza-minerva",
+    "url": "/hitos/informacion-turistica-plaza-minerva",
+    "categorias": [
+      "oficina_turismo"
+    ],
+    "rutas": [
+      "R01"
+    ],
+    "orden_en_rutas": {
+      "R01": 2
+    },
+    "ubicacion": {
+      "texto": "Plaza Minerva, Los Canarios",
+      "latitud": null,
+      "longitud": null,
+      "como_llegar_url": null
+    },
+    "contenido": {
+      "secciones": [
+        {
+          "titulo": "Qué estás viendo",
+          "visibilidad": "publica",
+          "contenido_markdown": "Plaza Minerva es uno de los puntos de referencia de Los Canarios y el lugar donde se encuentra la Oficina de Información Turística de Fuencaliente. Desde aquí parten varios de los recorridos municipales a pie y puede obtenerse información para organizar la visita al municipio."
+        },
+        {
+          "titulo": "La décima",
+          "visibilidad": "publica",
+          "contenido_markdown": "La plaza forma parte de la primera fase de la Ruta de la Décima y cuenta con una composición dedicada a este punto."
+        },
+        {
+          "titulo": "Información práctica",
+          "visibilidad": "publica",
+          "contenido_markdown": "- Ubicación: Plaza Minerva, Los Canarios.\n- Teléfono turístico publicado: +34 615 390 616.\n- Los horarios deben consultarse en la fuente oficial."
+        },
+        {
+          "titulo": "Pendiente",
+          "visibilidad": "interna",
+          "contenido_markdown": "Texto y autor de la décima; confirmar denominación pública «Punto» u «Oficina de Información Turística»; coordenadas."
+        }
+      ]
+    },
+    "media": {
+      "imagen_principal": null,
+      "galeria": [],
+      "estado": "placeholder"
+    },
+    "fuentes": [
+      "https://fuencalientedelapalma.es/2024/01/15/el-ayuntamiento-de-fuencaliente-impulsa-una-ruta-literaria-para-poner-en-valor-la-decima-y-los-versadores/"
+    ],
+    "estado": {
+      "inventario": "VERIFICADO",
+      "contenido": [
+        "decima_pendiente",
+        "datos_practicos_disponibles"
+      ],
+      "qr": "pendiente",
+      "prueba_movil": "pendiente",
+      "validacion_municipal": "pendiente"
+    },
+    "observaciones_internas": "La denominación pública final debe decidir si será Oficina o Punto de Información Turística."
+  },
+  {
+    "id": "H003",
+    "nombre": "Volcán de San Antonio",
+    "slug": "volcan-san-antonio",
+    "url": "/hitos/volcan-san-antonio",
+    "categorias": [
+      "volcan"
+    ],
+    "rutas": [
+      "R01",
+      "R03",
+      "R04"
+    ],
+    "orden_en_rutas": {
+      "R01": 3,
+      "R03": null,
+      "R04": null
+    },
+    "ubicacion": {
+      "texto": "Entorno de Los Canarios",
+      "latitud": null,
+      "longitud": null,
+      "como_llegar_url": null
+    },
+    "contenido": {
+      "secciones": [
+        {
+          "titulo": "Qué estás viendo",
+          "visibilidad": "publica",
+          "contenido_markdown": "El Volcán de San Antonio es uno de los grandes referentes del paisaje de Fuencaliente. Su entorno permite observar la relación entre vulcanismo, poblamiento, agricultura y costa, y sirve como punto de partida para comprender cómo las erupciones han transformado la historia del municipio."
+        },
+        {
+          "titulo": "Conoce este lugar",
+          "visibilidad": "publica",
+          "contenido_markdown": "El paisaje que rodea el Volcán de San Antonio está estrechamente vinculado a la actividad eruptiva histórica del sur de La Palma. Las erupciones modificaron el relieve, afectaron a antiguos terrenos de cultivo y contribuyeron a formar nuevas plataformas costeras. También están relacionadas con uno de los episodios más conocidos de la historia local: el sepultamiento de la Fuente Santa en el siglo XVII.\n\nJunto al volcán se encuentra el Centro de Visitantes, donde se interpreta el origen geológico de La Palma, los riesgos y beneficios asociados al vulcanismo y la erupción del Teneguía de 1971. Desde el recinto parte un recorrido por el borde del cráter hasta un mirador con vistas sobre la vertiente sur y oeste de la isla."
+        },
+        {
+          "titulo": "La décima",
+          "visibilidad": "publica",
+          "contenido_markdown": "**Texto y autor de esta placa:** pendientes de documentación municipal o fotografía legible de la placa."
+        },
+        {
+          "titulo": "Información práctica",
+          "visibilidad": "publica",
+          "contenido_markdown": "- **Ubicación:** entorno de Los Canarios.\n- **Acceso al cráter:** vinculado al Centro de Visitantes del Volcán de San Antonio.\n- **Duración orientativa del recorrido del borde:** la información municipal indica unos 30 minutos entre ida y vuelta.\n- **Horarios y tarifas:** consultar la información oficial actualizada; no se fijan en esta ficha por ser datos dinámicos.\n- **Coordenadas:** pendientes de validación cartográfica."
+        },
+        {
+          "titulo": "Recomendaciones",
+          "visibilidad": "publica",
+          "contenido_markdown": "- Permanecer en los senderos habilitados.\n- Protegerse del sol y del viento.\n- No retirar rocas ni alterar las formaciones volcánicas.\n- Consultar las condiciones de acceso antes de desplazarse."
+        },
+        {
+          "titulo": "Control interno",
+          "visibilidad": "interna",
+          "contenido_markdown": "- No afirmar que todo el cono actual se formó en 1677 sin una revisión geológica especializada.\n- Enlazar la ficha del Centro de Visitantes como elemento relacionado, sin duplicar horarios."
+        },
+        {
+          "titulo": "Fuentes de trabajo",
+          "visibilidad": "interna",
+          "contenido_markdown": "- Turismo de Fuencaliente, Centro de Visitantes: https://turismofuencalientedelapalma.com/fuencaliente/centro-volcan-san-antonio/\n- Turismo de Fuencaliente, historia municipal: https://turismofuencalientedelapalma.com/fuencaliente/historia/\n- Ayuntamiento de Fuencaliente, Ruta de la Décima: https://fuencalientedelapalma.es/2024/01/15/el-ayuntamiento-de-fuencaliente-impulsa-una-ruta-literaria-para-poner-en-valor-la-decima-y-los-versadores/"
+        }
+      ]
+    },
+    "media": {
+      "imagen_principal": null,
+      "galeria": [],
+      "estado": "oficial_provisional"
+    },
+    "fuentes": [
+      "https://fuencalientedelapalma.es/2024/01/15/el-ayuntamiento-de-fuencaliente-impulsa-una-ruta-literaria-para-poner-en-valor-la-decima-y-los-versadores/",
+      "https://turismofuencalientedelapalma.com/fuencaliente/volcan-san-antonio/"
+    ],
+    "estado": {
+      "inventario": "VERIFICADO",
+      "contenido": [
+        "base_oficial_disponible",
+        "decima_pendiente"
+      ],
+      "qr": "pendiente",
+      "prueba_movil": "pendiente",
+      "validacion_municipal": "pendiente"
+    },
+    "observaciones_internas": "La pertenencia a R03 es propuesta editorial pendiente de validación."
+  },
+  {
+    "id": "H004",
+    "nombre": "Mirador de Los Jablitos",
+    "slug": "mirador-los-jablitos",
+    "url": "/hitos/mirador-los-jablitos",
+    "categorias": [
+      "mirador"
+    ],
+    "rutas": [
+      "R01",
+      "R05"
+    ],
+    "orden_en_rutas": {
+      "R01": 4,
+      "R05": null
+    },
+    "ubicacion": {
+      "texto": "Fuencaliente de La Palma",
+      "latitud": null,
+      "longitud": null,
+      "como_llegar_url": null
+    },
+    "contenido": {
+      "secciones": [
+        {
+          "titulo": "Qué estás viendo",
+          "visibilidad": "publica",
+          "contenido_markdown": "El Mirador de Los Jablitos forma parte del conjunto de balcones paisajísticos de Fuencaliente y de la primera fase de la Ruta de la Décima. Su ficha reúne la lectura del paisaje con la composición poética instalada en el lugar."
+        },
+        {
+          "titulo": "La décima",
+          "visibilidad": "publica",
+          "contenido_markdown": "Contenido pendiente de transcribir desde la placa original o de recibir desde el Ayuntamiento."
+        },
+        {
+          "titulo": "Información práctica",
+          "visibilidad": "publica",
+          "contenido_markdown": "- Ubicación y coordenadas: pendientes de validación cartográfica.\n- Acceso, aparcamiento y accesibilidad: pendientes de revisión."
+        },
+        {
+          "titulo": "Pendiente",
+          "visibilidad": "interna",
+          "contenido_markdown": "No redactar una descripción específica de las vistas hasta comprobar la orientación y el entorno del mirador."
+        }
+      ]
+    },
+    "media": {
+      "imagen_principal": null,
+      "galeria": [],
+      "estado": "oficial_provisional"
+    },
+    "fuentes": [
+      "https://fuencalientedelapalma.es/2024/01/15/el-ayuntamiento-de-fuencaliente-impulsa-una-ruta-literaria-para-poner-en-valor-la-decima-y-los-versadores/",
+      "https://turismofuencalientedelapalma.com/lugares/"
+    ],
+    "estado": {
+      "inventario": "VERIFICADO",
+      "contenido": [
+        "base_oficial_disponible",
+        "decima_pendiente"
+      ],
+      "qr": "pendiente",
+      "prueba_movil": "pendiente",
+      "validacion_municipal": "pendiente"
+    },
+    "observaciones_internas": null
+  },
+  {
+    "id": "H005",
+    "nombre": "Parque Fuente de Los Quemados",
+    "slug": "parque-fuente-los-quemados",
+    "url": "/hitos/parque-fuente-los-quemados",
+    "categorias": [
+      "parque",
+      "area_recreativa"
+    ],
+    "rutas": [
+      "R01",
+      "R08"
+    ],
+    "orden_en_rutas": {
+      "R01": 5,
+      "R08": null
+    },
+    "ubicacion": {
+      "texto": "Los Quemados",
+      "latitud": null,
+      "longitud": null,
+      "como_llegar_url": null
+    },
+    "contenido": {
+      "secciones": [
+        {
+          "titulo": "Qué estás viendo",
+          "visibilidad": "publica",
+          "contenido_markdown": "Este parque del barrio de Los Quemados es una de las paradas de la Ruta de la Décima. La incorporación de poesía a un espacio de uso cotidiano permite acercar la tradición de los versadores tanto a residentes como a visitantes."
+        },
+        {
+          "titulo": "La décima",
+          "visibilidad": "publica",
+          "contenido_markdown": "Contenido pendiente de transcribir desde la placa original o de recibir desde el Ayuntamiento."
+        },
+        {
+          "titulo": "Información práctica",
+          "visibilidad": "publica",
+          "contenido_markdown": "- Ubicación: barrio de Los Quemados.\n- Servicios, accesibilidad y coordenadas: pendientes de validación."
+        },
+        {
+          "titulo": "Pendiente",
+          "visibilidad": "interna",
+          "contenido_markdown": "Confirmar el nombre oficial del parque y si coincide con alguna otra zona recreativa del catálogo turístico."
+        }
+      ]
+    },
+    "media": {
+      "imagen_principal": null,
+      "galeria": [],
+      "estado": "placeholder"
+    },
+    "fuentes": [
+      "https://fuencalientedelapalma.es/2024/01/15/el-ayuntamiento-de-fuencaliente-impulsa-una-ruta-literaria-para-poner-en-valor-la-decima-y-los-versadores/"
+    ],
+    "estado": {
+      "inventario": "VERIFICADO",
+      "contenido": [
+        "decima_pendiente",
+        "servicios_pendientes"
+      ],
+      "qr": "pendiente",
+      "prueba_movil": "pendiente",
+      "validacion_municipal": "pendiente"
+    },
+    "observaciones_internas": "Confirmar si coincide con otro elemento del catálogo turístico y su denominación exacta."
+  },
+  {
+    "id": "H006",
+    "nombre": "Mirador de Los Espigones",
+    "slug": "mirador-los-espigones",
+    "url": "/hitos/mirador-los-espigones",
+    "categorias": [
+      "mirador"
+    ],
+    "rutas": [
+      "R01",
+      "R05"
+    ],
+    "orden_en_rutas": {
+      "R01": 6,
+      "R05": null
+    },
+    "ubicacion": {
+      "texto": "Fuencaliente de La Palma",
+      "latitud": null,
+      "longitud": null,
+      "como_llegar_url": null
+    },
+    "contenido": {
+      "secciones": [
+        {
+          "titulo": "Qué estás viendo",
+          "visibilidad": "publica",
+          "contenido_markdown": "El Mirador de Los Espigones integra paisaje y literatura dentro de la primera fase de la Ruta de la Décima. Su página permitirá escuchar o leer la composición dedicada al lugar y continuar hacia los demás miradores del municipio."
+        },
+        {
+          "titulo": "La décima",
+          "visibilidad": "publica",
+          "contenido_markdown": "Contenido pendiente de transcribir desde la placa original o de recibir desde el Ayuntamiento."
+        },
+        {
+          "titulo": "Información práctica",
+          "visibilidad": "publica",
+          "contenido_markdown": "- Coordenadas, acceso, estacionamiento y accesibilidad: pendientes de validación."
+        },
+        {
+          "titulo": "Pendiente",
+          "visibilidad": "interna",
+          "contenido_markdown": "Fotografía del entorno y descripción precisa de la panorámica."
+        }
+      ]
+    },
+    "media": {
+      "imagen_principal": null,
+      "galeria": [],
+      "estado": "oficial_provisional"
+    },
+    "fuentes": [
+      "https://fuencalientedelapalma.es/2024/01/15/el-ayuntamiento-de-fuencaliente-impulsa-una-ruta-literaria-para-poner-en-valor-la-decima-y-los-versadores/",
+      "https://turismofuencalientedelapalma.com/lugares/"
+    ],
+    "estado": {
+      "inventario": "VERIFICADO",
+      "contenido": [
+        "base_oficial_disponible",
+        "decima_pendiente"
+      ],
+      "qr": "pendiente",
+      "prueba_movil": "pendiente",
+      "validacion_municipal": "pendiente"
+    },
+    "observaciones_internas": null
+  },
+  {
+    "id": "H007",
+    "nombre": "Mirador de Las Calderetitas",
+    "slug": "mirador-las-calderetitas",
+    "url": "/hitos/mirador-las-calderetitas",
+    "categorias": [
+      "mirador"
+    ],
+    "rutas": [
+      "R01",
+      "R05"
+    ],
+    "orden_en_rutas": {
+      "R01": 7,
+      "R05": null
+    },
+    "ubicacion": {
+      "texto": "Fuencaliente de La Palma",
+      "latitud": null,
+      "longitud": null,
+      "como_llegar_url": null
+    },
+    "contenido": {
+      "secciones": [
+        {
+          "titulo": "Qué estás viendo",
+          "visibilidad": "publica",
+          "contenido_markdown": "Las Calderetitas es uno de los miradores incluidos en el catálogo turístico y en la primera fase de la Ruta de la Décima. La placa poética convierte la parada en un punto de interpretación tanto del paisaje como de la tradición oral local."
+        },
+        {
+          "titulo": "La décima",
+          "visibilidad": "publica",
+          "contenido_markdown": "Contenido pendiente de transcribir desde la placa original o de recibir desde el Ayuntamiento."
+        },
+        {
+          "titulo": "Información práctica",
+          "visibilidad": "publica",
+          "contenido_markdown": "- Coordenadas, acceso, estacionamiento y accesibilidad: pendientes de validación."
+        },
+        {
+          "titulo": "Pendiente",
+          "visibilidad": "interna",
+          "contenido_markdown": "Confirmar la denominación. La noticia municipal de 2024 escribe «Las Celderitas» y Turismo de Fuencaliente utiliza «Las Calderetitas»."
+        }
+      ]
+    },
+    "media": {
+      "imagen_principal": null,
+      "galeria": [],
+      "estado": "oficial_provisional"
+    },
+    "fuentes": [
+      "https://fuencalientedelapalma.es/2024/01/15/el-ayuntamiento-de-fuencaliente-impulsa-una-ruta-literaria-para-poner-en-valor-la-decima-y-los-versadores/",
+      "https://turismofuencalientedelapalma.com/lugares/"
+    ],
+    "estado": {
+      "inventario": "VERIFICADO",
+      "contenido": [
+        "base_oficial_disponible",
+        "decima_pendiente"
+      ],
+      "qr": "pendiente",
+      "prueba_movil": "pendiente",
+      "validacion_municipal": "pendiente"
+    },
+    "observaciones_internas": "La noticia de la Décima escribe Las Celderitas y Turismo escribe Las Calderetitas. Se adopta provisionalmente Las Calderetitas."
+  },
+  {
+    "id": "H008",
+    "nombre": "Mirador de La Zamora",
+    "slug": "mirador-la-zamora",
+    "url": "/hitos/mirador-la-zamora",
+    "categorias": [
+      "mirador"
+    ],
+    "rutas": [
+      "R01",
+      "R05"
+    ],
+    "orden_en_rutas": {
+      "R01": 8,
+      "R05": null
+    },
+    "ubicacion": {
+      "texto": "La Zamora",
+      "latitud": null,
+      "longitud": null,
+      "como_llegar_url": null
+    },
+    "contenido": {
+      "secciones": [
+        {
+          "titulo": "Qué estás viendo",
+          "visibilidad": "publica",
+          "contenido_markdown": "El Mirador de La Zamora es una de las paradas costeras de la Ruta de la Décima. Desde su página puede continuarse hacia la ficha de la playa y descubrir otros puntos del litoral de Fuencaliente."
+        },
+        {
+          "titulo": "La décima",
+          "visibilidad": "publica",
+          "contenido_markdown": "Contenido pendiente de transcribir desde la placa original o de recibir desde el Ayuntamiento."
+        },
+        {
+          "titulo": "Información práctica",
+          "visibilidad": "publica",
+          "contenido_markdown": "- Ubicación general: entorno de La Zamora.\n- Punto exacto, acceso y estacionamiento: pendientes de validación."
+        },
+        {
+          "titulo": "Pendiente",
+          "visibilidad": "interna",
+          "contenido_markdown": "Confirmar que existe una infraestructura de mirador diferenciada de la playa y evitar confundir ambas ubicaciones."
+        }
+      ]
+    },
+    "media": {
+      "imagen_principal": null,
+      "galeria": [],
+      "estado": "placeholder"
+    },
+    "fuentes": [
+      "https://fuencalientedelapalma.es/2024/01/15/el-ayuntamiento-de-fuencaliente-impulsa-una-ruta-literaria-para-poner-en-valor-la-decima-y-los-versadores/"
+    ],
+    "estado": {
+      "inventario": "VERIFICADO",
+      "contenido": [
+        "decima_pendiente",
+        "ficha_mirador_pendiente"
+      ],
+      "qr": "pendiente",
+      "prueba_movil": "pendiente",
+      "validacion_municipal": "pendiente"
+    },
+    "observaciones_internas": "No confundir con la playa de La Zamora H045."
+  },
+  {
+    "id": "H009",
+    "nombre": "Mirador de El Faro",
+    "slug": "mirador-el-faro",
+    "url": "/hitos/mirador-el-faro",
+    "categorias": [
+      "mirador"
+    ],
+    "rutas": [
+      "R01",
+      "R05"
+    ],
+    "orden_en_rutas": {
+      "R01": 9,
+      "R05": null
+    },
+    "ubicacion": {
+      "texto": "Entorno del Faro de Fuencaliente",
+      "latitud": null,
+      "longitud": null,
+      "como_llegar_url": null
+    },
+    "contenido": {
+      "secciones": [
+        {
+          "titulo": "Qué estás viendo",
+          "visibilidad": "publica",
+          "contenido_markdown": "Esta parada de la Ruta de la Décima se sitúa en el entorno del extremo sur de La Palma, donde el paisaje reúne volcanes, océano, faros y salinas. La ficha enlaza con los principales elementos patrimoniales y naturales de la costa de Fuencaliente."
+        },
+        {
+          "titulo": "La décima",
+          "visibilidad": "publica",
+          "contenido_markdown": "Contenido pendiente de transcribir desde la placa original o de recibir desde el Ayuntamiento."
+        },
+        {
+          "titulo": "Información práctica",
+          "visibilidad": "publica",
+          "contenido_markdown": "- Ubicación general: entorno de los Faros de Fuencaliente.\n- Punto exacto y accesibilidad: pendientes de validación."
+        },
+        {
+          "titulo": "Pendiente",
+          "visibilidad": "interna",
+          "contenido_markdown": "Diferenciar claramente el mirador de la ficha patrimonial de los dos faros."
+        }
+      ]
+    },
+    "media": {
+      "imagen_principal": null,
+      "galeria": [],
+      "estado": "placeholder"
+    },
+    "fuentes": [
+      "https://fuencalientedelapalma.es/2024/01/15/el-ayuntamiento-de-fuencaliente-impulsa-una-ruta-literaria-para-poner-en-valor-la-decima-y-los-versadores/"
+    ],
+    "estado": {
+      "inventario": "VERIFICADO",
+      "contenido": [
+        "decima_pendiente",
+        "ficha_mirador_pendiente"
+      ],
+      "qr": "pendiente",
+      "prueba_movil": "pendiente",
+      "validacion_municipal": "pendiente"
+    },
+    "observaciones_internas": "No confundir con los faros H018."
+  },
+  {
+    "id": "H010",
+    "nombre": "Mirador de Puntalarga",
+    "slug": "mirador-puntalarga",
+    "url": "/hitos/mirador-puntalarga",
+    "categorias": [
+      "mirador"
+    ],
+    "rutas": [
+      "R01",
+      "R05"
+    ],
+    "orden_en_rutas": {
+      "R01": 10,
+      "R05": null
+    },
+    "ubicacion": {
+      "texto": "Puntalarga",
+      "latitud": null,
+      "longitud": null,
+      "como_llegar_url": null
+    },
+    "contenido": {
+      "secciones": [
+        {
+          "titulo": "Qué estás viendo",
+          "visibilidad": "publica",
+          "contenido_markdown": "El Mirador de Puntalarga forma parte de la primera fase de la Ruta de la Décima y conecta la tradición literaria del municipio con uno de sus enclaves costeros. Desde esta ficha puede accederse también a la playa, el área recreativa y la escultura dedicada a las costas."
+        },
+        {
+          "titulo": "La décima",
+          "visibilidad": "publica",
+          "contenido_markdown": "Contenido pendiente de transcribir desde la placa original o de recibir desde el Ayuntamiento."
+        },
+        {
+          "titulo": "Información práctica",
+          "visibilidad": "publica",
+          "contenido_markdown": "- Ubicación general: Puntalarga.\n- Punto exacto, estacionamiento y accesibilidad: pendientes de validación."
+        },
+        {
+          "titulo": "Pendiente",
+          "visibilidad": "interna",
+          "contenido_markdown": "No confundir mirador, playa, área recreativa y escultura: son elementos relacionados, pero deben conservar fichas e identificadores diferentes."
+        }
+      ]
+    },
+    "media": {
+      "imagen_principal": null,
+      "galeria": [],
+      "estado": "placeholder"
+    },
+    "fuentes": [
+      "https://fuencalientedelapalma.es/2024/01/15/el-ayuntamiento-de-fuencaliente-impulsa-una-ruta-literaria-para-poner-en-valor-la-decima-y-los-versadores/"
+    ],
+    "estado": {
+      "inventario": "VERIFICADO",
+      "contenido": [
+        "decima_pendiente",
+        "ficha_mirador_pendiente"
+      ],
+      "qr": "pendiente",
+      "prueba_movil": "pendiente",
+      "validacion_municipal": "pendiente"
+    },
+    "observaciones_internas": "No confundir con la playa H043 ni con el área recreativa H040."
+  },
+  {
+    "id": "H011",
+    "nombre": "Mirador de Las Indias",
+    "slug": "mirador-las-indias",
+    "url": "/hitos/mirador-las-indias",
+    "categorias": [
+      "mirador",
+      "arte_publico",
+      "literatura"
+    ],
+    "rutas": [
+      "R01",
+      "R02",
+      "R03",
+      "R05"
+    ],
+    "orden_en_rutas": {
+      "R01": null,
+      "R02": null,
+      "R03": null,
+      "R05": null
+    },
+    "ubicacion": {
+      "texto": "LP-2, sobre los barrios de Las Indias y La Fajana",
+      "latitud": null,
+      "longitud": null,
+      "como_llegar_url": null
+    },
+    "contenido": {
+      "secciones": [
+        {
+          "titulo": "Qué estás viendo",
+          "visibilidad": "publica",
+          "contenido_markdown": "El Mirador de Las Indias reúne en un mismo espacio paisaje, arte y tradición oral. Desde este balcón sobre los barrios de Las Indias y La Fajana se contempla el litoral del sur de La Palma, las zonas de cultivo y, cuando la visibilidad lo permite, la silueta de El Hierro."
+        },
+        {
+          "titulo": "Conoce este lugar",
+          "visibilidad": "publica",
+          "contenido_markdown": "Inaugurado en agosto de 2026, este mirador fue concebido como algo más que un punto desde el que observar el paisaje. El espacio incorpora una décima de Miguel Martín Méndez, natural del barrio de Las Indias, y una escultura del artista fuencalentero Gustavo Díaz.\n\nLa combinación de estos elementos conecta el territorio con dos formas de expresión muy ligadas a la identidad local: la décima, presente en la tradición oral de Fuencaliente, y la creación artística contemporánea. La panorámica permite reconocer parte del paisaje agrícola y costero del municipio y convierte el mirador en un punto de encuentro entre naturaleza, memoria y cultura."
+        },
+        {
+          "titulo": "La décima",
+          "visibilidad": "publica",
+          "contenido_markdown": "**Autor:** Miguel Martín Méndez  \n**Texto:** pendiente de transcripción o entrega municipal.  \n**Audio:** pendiente de confirmar."
+        },
+        {
+          "titulo": "La escultura",
+          "visibilidad": "publica",
+          "contenido_markdown": "**Autor:** Gustavo Díaz  \n**Título:** pendiente de confirmar.  \n**Materiales y fecha:** pendientes de ficha técnica."
+        },
+        {
+          "titulo": "Información práctica",
+          "visibilidad": "publica",
+          "contenido_markdown": "- **Ubicación:** junto a la carretera LP-2, sobre los barrios de Las Indias y La Fajana.\n- **Coordenadas:** pendientes de validación cartográfica.\n- **Accesibilidad y aparcamiento:** pendientes de validación municipal.\n- **Recomendación:** no invadir la calzada y utilizar únicamente los espacios habilitados."
+        },
+        {
+          "titulo": "Control interno",
+          "visibilidad": "interna",
+          "contenido_markdown": "- Utilizar como fotografía provisional una imagen institucional de la inauguración, sujeta a autorización.\n- Es el mejor QR para demostrar franjas múltiples y módulos diferentes en una sola ficha.\n- Confirmar el título de la obra de Gustavo Díaz antes de la versión definitiva."
+        },
+        {
+          "titulo": "Fuentes de trabajo",
+          "visibilidad": "interna",
+          "contenido_markdown": "- Ayuntamiento de Fuencaliente, 7 de agosto de 2026: https://fuencalientedelapalma.es/2026/08/07/fuencaliente-inaugura-el-nuevo-mirador-de-las-indias-un-nuevo-referente-paisajistico-y-cultural/"
+        }
+      ]
+    },
+    "media": {
+      "imagen_principal": null,
+      "galeria": [],
+      "estado": "oficial_disponible"
+    },
+    "fuentes": [
+      "https://fuencalientedelapalma.es/2026/08/07/fuencaliente-inaugura-el-nuevo-mirador-de-las-indias-un-nuevo-referente-paisajistico-y-cultural/"
+    ],
+    "estado": {
+      "inventario": "VERIFICADO",
+      "contenido": [
+        "base_oficial_disponible",
+        "decima_identificada",
+        "autor_escultura_identificado"
+      ],
+      "qr": "pendiente",
+      "prueba_movil": "pendiente",
+      "validacion_municipal": "pendiente"
+    },
+    "observaciones_internas": "Inaugurado el 07/08/2026. Décima de Miguel Martín Méndez y escultura de Gustavo Díaz. Confirmar título de la escultura y orden en R01."
+  },
+  {
+    "id": "H012",
+    "nombre": "El Caminante",
+    "slug": "el-caminante",
+    "url": "/hitos/el-caminante",
+    "categorias": [
+      "escultura"
+    ],
+    "rutas": [
+      "R02",
+      "R07"
+    ],
+    "orden_en_rutas": {
+      "R02": null,
+      "R07": null
+    },
+    "ubicacion": {
+      "texto": "Los Canarios, junto a la Iglesia de San Antonio Abad y al paso del GR-131",
+      "latitud": null,
+      "longitud": null,
+      "como_llegar_url": null
+    },
+    "contenido": {
+      "secciones": [
+        {
+          "titulo": "Qué estás viendo",
+          "visibilidad": "publica",
+          "contenido_markdown": "Junto a la iglesia de San Antonio Abad, en Los Canarios, esta figura de bronce reconoce a quienes recorren los caminos de Fuencaliente. Su emplazamiento al paso del GR-131 conecta la obra con la experiencia real del senderismo y la convierte en un punto de bienvenida y homenaje."
+        },
+        {
+          "titulo": "Conoce este lugar",
+          "visibilidad": "publica",
+          "contenido_markdown": "La información municipal describe una escultura de aproximadamente 1,90 metros de altura. Más que representar a una persona concreta, **El Caminante** funciona como símbolo de quienes atraviesan el municipio a pie y descubren su territorio volcánico."
+        },
+        {
+          "titulo": "Información práctica",
+          "visibilidad": "publica",
+          "contenido_markdown": "- Ubicación general: Los Canarios, junto a la iglesia de San Antonio Abad.\n- Relación senderista: entorno del GR-131.\n- Autor, fecha exacta, coordenadas y accesibilidad: pendientes de validación."
+        }
+      ]
+    },
+    "media": {
+      "imagen_principal": null,
+      "galeria": [],
+      "estado": "oficial_disponible"
+    },
+    "fuentes": [
+      "https://fuencalientedelapalma.es/2015/01/26/el-caminante/"
+    ],
+    "estado": {
+      "inventario": "VERIFICADO",
+      "contenido": [
+        "base_oficial_disponible",
+        "material_bronce_y_altura_aprox_disponibles"
+      ],
+      "qr": "pendiente",
+      "prueba_movil": "pendiente",
+      "validacion_municipal": "pendiente"
+    },
+    "observaciones_internas": "Escultura de bronce de aproximadamente 1,90 m. Autor pendiente de localizar."
+  },
+  {
+    "id": "H013",
+    "nombre": "Monumento al Viticultor",
+    "slug": "monumento-al-viticultor",
+    "url": "/hitos/monumento-al-viticultor",
+    "categorias": [
+      "monumento",
+      "arte_publico"
+    ],
+    "rutas": [
+      "R02",
+      "R10",
+      "R11"
+    ],
+    "orden_en_rutas": {
+      "R02": null,
+      "R10": null,
+      "R11": null
+    },
+    "ubicacion": {
+      "texto": "Fuencaliente de La Palma",
+      "latitud": null,
+      "longitud": null,
+      "como_llegar_url": null
+    },
+    "contenido": {
+      "secciones": [
+        {
+          "titulo": "Qué estás viendo",
+          "visibilidad": "publica",
+          "contenido_markdown": "Este monumento está dedicado a los viticultores de Fuencaliente y reconoce el esfuerzo que ha permitido mantener el cultivo de la vid en un territorio volcánico exigente y dar prestigio a vinos como la malvasía."
+        },
+        {
+          "titulo": "Conoce este lugar",
+          "visibilidad": "publica",
+          "contenido_markdown": "La obra funciona como una entrada al paisaje cultural del vino. Su significado no se limita a la elaboración en bodega: representa también la preparación del terreno, el cuidado manual de las viñas, la vendimia y la transmisión de conocimientos entre generaciones."
+        },
+        {
+          "titulo": "Información práctica",
+          "visibilidad": "publica",
+          "contenido_markdown": "- Ubicación y coordenadas: pendientes de validación.\n- Autor, año, materiales y accesibilidad: pendientes de ficha técnica."
+        }
+      ]
+    },
+    "media": {
+      "imagen_principal": null,
+      "galeria": [],
+      "estado": "oficial_disponible"
+    },
+    "fuentes": [
+      "https://turismofuencalientedelapalma.com/fuencaliente/monumento-al-viticultor/"
+    ],
+    "estado": {
+      "inventario": "VERIFICADO",
+      "contenido": [
+        "base_oficial_disponible"
+      ],
+      "qr": "pendiente",
+      "prueba_movil": "pendiente",
+      "validacion_municipal": "pendiente"
+    },
+    "observaciones_internas": "Autor, fecha, materiales y coordenadas pendientes."
+  },
+  {
+    "id": "H014",
+    "nombre": "Águila del parque de La Fajana",
+    "slug": "aguila-parque-la-fajana",
+    "url": "/hitos/aguila-parque-la-fajana",
+    "categorias": [
+      "escultura_madera"
+    ],
+    "rutas": [
+      "R02"
+    ],
+    "orden_en_rutas": {
+      "R02": null
+    },
+    "ubicacion": {
+      "texto": "Parque de La Fajana",
+      "latitud": null,
+      "longitud": null,
+      "como_llegar_url": null
+    },
+    "contenido": {
+      "secciones": [
+        {
+          "titulo": "Qué estás viendo",
+          "visibilidad": "publica",
+          "contenido_markdown": "Esta talla de madera forma parte de la obra del escultor autodidacta Juan Manuel Hernández Lorenzo, conocido como **Juanito**. El artista trabaja especialmente con maderas de pino canario y castaño y donó una de sus águilas al parque de La Fajana."
+        },
+        {
+          "titulo": "Conoce este lugar",
+          "visibilidad": "publica",
+          "contenido_markdown": "La pieza permite incorporar a la ruta una expresión artística ligada a los materiales naturales y al trabajo artesanal local. En la demo se presenta como una parada dedicada a la escultura en madera; la interpretación definitiva deberá completarse con información directa del autor o del Ayuntamiento."
+        },
+        {
+          "titulo": "Información práctica",
+          "visibilidad": "publica",
+          "contenido_markdown": "- Ubicación general: parque de La Fajana.\n- Autor: Juan Manuel Hernández Lorenzo, «Juanito».\n- Título oficial, año, madera empleada, coordenadas y estado actual: pendientes de confirmación."
+        }
+      ]
+    },
+    "media": {
+      "imagen_principal": null,
+      "galeria": [],
+      "estado": "oficial_provisional"
+    },
+    "fuentes": [
+      "https://turismofuencalientedelapalma.com/cultura/escultores/"
+    ],
+    "estado": {
+      "inventario": "VERIFICADO",
+      "contenido": [
+        "base_oficial_disponible",
+        "autor_identificado"
+      ],
+      "qr": "pendiente",
+      "prueba_movil": "pendiente",
+      "validacion_municipal": "pendiente"
+    },
+    "observaciones_internas": "Obra donada por Juan Manuel Hernández Lorenzo, Juanito. Confirmar título exacto y estado actual."
+  },
+  {
+    "id": "H015",
+    "nombre": "Escultura dedicada a las costas de Puntalarga",
+    "slug": "escultura-costas-puntalarga",
+    "url": "/hitos/escultura-costas-puntalarga",
+    "categorias": [
+      "escultura_reciclaje"
+    ],
+    "rutas": [
+      "R02",
+      "R09"
+    ],
+    "orden_en_rutas": {
+      "R02": null,
+      "R09": null
+    },
+    "ubicacion": {
+      "texto": "Puntalarga",
+      "latitud": null,
+      "longitud": null,
+      "como_llegar_url": null
+    },
+    "contenido": {
+      "secciones": [
+        {
+          "titulo": "Qué estás viendo",
+          "visibilidad": "publica",
+          "contenido_markdown": "Obra de Gustavo Díaz dedicada al litoral de Puntalarga y a la conservación del océano. Su presencia permite relacionar el arte público con la identidad marinera y el cuidado del paisaje costero de Fuencaliente."
+        },
+        {
+          "titulo": "Conoce este lugar",
+          "visibilidad": "publica",
+          "contenido_markdown": "La referencia municipal disponible es breve, por lo que esta ficha funciona como contenido provisional de demo. La versión definitiva deberá explicar el título, los materiales, la fecha de instalación y el significado concreto de la pieza sin deducirlos únicamente de su aspecto."
+        },
+        {
+          "titulo": "Información práctica",
+          "visibilidad": "publica",
+          "contenido_markdown": "- Entorno: Puntalarga.\n- Autor: Gustavo Díaz.\n- Título, materiales, año, coordenadas y accesibilidad: pendientes de validación.\n- La inclusión en la Ruta de Playas es una propuesta editorial."
+        }
+      ]
+    },
+    "media": {
+      "imagen_principal": null,
+      "galeria": [],
+      "estado": "placeholder"
+    },
+    "fuentes": [
+      "https://www.facebook.com/aytofuencaliente/videos/3169856883187480/"
+    ],
+    "estado": {
+      "inventario": "VALIDACION_NECESARIA",
+      "contenido": [
+        "referencia_oficial_breve",
+        "titulo_pendiente"
+      ],
+      "qr": "pendiente",
+      "prueba_movil": "pendiente",
+      "validacion_municipal": "pendiente"
+    },
+    "observaciones_internas": "Obra de Gustavo Díaz. Confirmar título, coordenadas, fecha, materiales y si se incorpora formalmente a R09."
+  },
+  {
+    "id": "H016",
+    "nombre": "Paseo de la Fama de la Transvulcania",
+    "slug": "paseo-fama-transvulcania",
+    "url": "/hitos/paseo-fama-transvulcania",
+    "categorias": [
+      "monumento_deportivo",
+      "recorrido_urbano"
+    ],
+    "rutas": [
+      "R06",
+      "R10"
+    ],
+    "orden_en_rutas": {
+      "R06": null,
+      "R10": null
+    },
+    "ubicacion": {
+      "texto": "Los Canarios",
+      "latitud": null,
+      "longitud": null,
+      "como_llegar_url": null
+    },
+    "contenido": {
+      "secciones": [
+        {
+          "titulo": "Qué estás viendo",
+          "visibilidad": "publica",
+          "contenido_markdown": "El Paseo de la Fama de la Transvulcania reconoce a los hombres y mujeres que han alcanzado los puestos más destacados de una de las grandes pruebas deportivas de La Palma. El espacio vincula Fuencaliente con la memoria de la carrera y con quienes han dejado su nombre en ella."
+        },
+        {
+          "titulo": "Conoce este lugar",
+          "visibilidad": "publica",
+          "contenido_markdown": "La Transvulcania es una carrera de montaña que atraviesa algunos de los paisajes más representativos de La Palma. Su recorrido principal ha llegado a superar los setenta kilómetros y exige una gran preparación física, pero su identidad no depende solo de los corredores: también se ha construido con el apoyo de voluntariado, organización y público.\n\nEl Paseo de la Fama homenajea a deportistas que han alcanzado los puestos más destacados de la prueba desde 2016. Para la demo, el paseo se presenta como un único hito con una introducción general y un módulo destinado a reunir a las personas homenajeadas."
+        },
+        {
+          "titulo": "Deportistas homenajeados",
+          "visibilidad": "publica",
+          "contenido_markdown": "**Listado completo, año y resultado:** pendientes de documentación oficial actualizada.\n\nNo se publicarán nombres ni marcas deportivas hasta disponer de una relación fiable que permita evitar omisiones o errores."
+        },
+        {
+          "titulo": "Información práctica",
+          "visibilidad": "publica",
+          "contenido_markdown": "- **Ubicación:** Los Canarios; punto exacto pendiente de validación cartográfica.\n- **Accesibilidad:** pendiente de confirmar.\n- **Relación con el evento actual:** enlazar a la web oficial de la Transvulcania, ya que recorridos, distancias y programación pueden cambiar."
+        },
+        {
+          "titulo": "Control interno",
+          "visibilidad": "interna",
+          "contenido_markdown": "- Mantener una sola URL estable para el paseo.\n- Si el Ayuntamiento entrega el inventario de placas, modelar cada homenajeado como subelemento, no necesariamente como QR independiente.\n- No fijar la distancia vigente de la carrera en un texto permanente."
+        },
+        {
+          "titulo": "Fuentes de trabajo",
+          "visibilidad": "interna",
+          "contenido_markdown": "- Turismo de Fuencaliente: https://turismofuencalientedelapalma.com/fuencaliente/transvulcania/"
+        }
+      ]
+    },
+    "media": {
+      "imagen_principal": null,
+      "galeria": [],
+      "estado": "oficial_provisional"
+    },
+    "fuentes": [
+      "https://turismofuencalientedelapalma.com/fuencaliente/transvulcania/"
+    ],
+    "estado": {
+      "inventario": "VERIFICADO",
+      "contenido": [
+        "base_oficial_disponible",
+        "listado_de_homenajeados_pendiente"
+      ],
+      "qr": "pendiente",
+      "prueba_movil": "pendiente",
+      "validacion_municipal": "pendiente"
+    },
+    "observaciones_internas": "Para la demo se trata como un hito único. Decidir después si cada homenajeado será subficha."
+  },
+  {
+    "id": "H017",
+    "nombre": "Los Canarios",
+    "slug": "los-canarios",
+    "url": "/hitos/los-canarios",
+    "categorias": [
+      "casco_urbano",
+      "barrio"
+    ],
+    "rutas": [
+      "R03"
+    ],
+    "orden_en_rutas": {
+      "R03": null
+    },
+    "ubicacion": {
+      "texto": "Los Canarios",
+      "latitud": null,
+      "longitud": null,
+      "como_llegar_url": null
+    },
+    "contenido": {
+      "secciones": [
+        {
+          "titulo": "Qué estás viendo",
+          "visibilidad": "publica",
+          "contenido_markdown": "Los Canarios es el principal núcleo de Fuencaliente y un punto natural para comenzar a conocer el municipio. Aquí se concentran servicios y conexiones con varios itinerarios, mientras el paisaje urbano conserva una relación inmediata con viñedos, pinares y volcanes."
+        },
+        {
+          "titulo": "Conoce este lugar",
+          "visibilidad": "publica",
+          "contenido_markdown": "Su papel en la demo es servir de puerta de entrada al sistema de rutas. Desde Los Canarios parten varios senderos municipales y se accede a lugares como el Volcán de San Antonio. La selección como «área emblemática» es editorial y deberá ser ratificada por el Ayuntamiento."
+        },
+        {
+          "titulo": "Información práctica",
+          "visibilidad": "publica",
+          "contenido_markdown": "- Núcleo principal del municipio.\n- Punto de partida de diversos recorridos turísticos y senderistas.\n- Servicios concretos, aparcamientos, accesibilidad y límites de la ficha: pendientes de revisión."
+        }
+      ]
+    },
+    "media": {
+      "imagen_principal": null,
+      "galeria": [],
+      "estado": "oficial_provisional"
+    },
+    "fuentes": [
+      "https://turismofuencalientedelapalma.com/lugares/"
+    ],
+    "estado": {
+      "inventario": "PROPUESTA",
+      "contenido": [
+        "base_oficial_disponible"
+      ],
+      "qr": "pendiente",
+      "prueba_movil": "pendiente",
+      "validacion_municipal": "pendiente"
+    },
+    "observaciones_internas": "Pertenencia a Áreas emblemáticas propuesta para la demo."
+  },
+  {
+    "id": "H018",
+    "nombre": "Faros de Fuencaliente",
+    "slug": "faros-fuencaliente",
+    "url": "/hitos/faros-fuencaliente",
+    "categorias": [
+      "patrimonio_marítimo"
+    ],
+    "rutas": [
+      "R03",
+      "R09",
+      "R10"
+    ],
+    "orden_en_rutas": {
+      "R03": null,
+      "R09": null,
+      "R10": null
+    },
+    "ubicacion": {
+      "texto": "Extremo sur de La Palma, junto a las Salinas",
+      "latitud": null,
+      "longitud": null,
+      "como_llegar_url": null
+    },
+    "contenido": {
+      "secciones": [
+        {
+          "titulo": "Qué estás viendo",
+          "visibilidad": "publica",
+          "contenido_markdown": "En el extremo sur de La Palma conviven dos faros de épocas distintas. La torre histórica comenzó a construirse en 1892 y entró en servicio en 1903; el faro moderno se levantó a partir de 1983 para asumir la señalización marítima."
+        },
+        {
+          "titulo": "Conoce este lugar",
+          "visibilidad": "publica",
+          "contenido_markdown": "El conjunto permite leer la evolución de la navegación y del patrimonio costero. El edificio antiguo, afectado por episodios sísmicos y posteriormente restaurado, alberga el Centro de Interpretación de la Reserva Marina. A su alrededor, volcanes, salinas y océano forman uno de los paisajes más reconocibles del municipio."
+        },
+        {
+          "titulo": "Información práctica",
+          "visibilidad": "publica",
+          "contenido_markdown": "- Ubicación: costa sur, junto a las Salinas de Fuencaliente.\n- No confundir este conjunto patrimonial con el Mirador de El Faro.\n- Visita interior, horarios, aparcamiento y accesibilidad: consultar y validar antes de publicar."
+        }
+      ]
+    },
+    "media": {
+      "imagen_principal": null,
+      "galeria": [],
+      "estado": "oficial_disponible"
+    },
+    "fuentes": [
+      "https://turismofuencalientedelapalma.com/fuencaliente/faro-de-fuencaliente/"
+    ],
+    "estado": {
+      "inventario": "VERIFICADO",
+      "contenido": [
+        "base_oficial_disponible"
+      ],
+      "qr": "pendiente",
+      "prueba_movil": "pendiente",
+      "validacion_municipal": "pendiente"
+    },
+    "observaciones_internas": "La ficha debe explicar el faro histórico y el moderno. Pertenencia a R03 propuesta."
+  },
+  {
+    "id": "H019",
+    "nombre": "Salinas de Fuencaliente",
+    "slug": "salinas-fuencaliente",
+    "url": "/hitos/salinas-fuencaliente",
+    "categorias": [
+      "patrimonio_industrial",
+      "paisaje"
+    ],
+    "rutas": [
+      "R03",
+      "R10"
+    ],
+    "orden_en_rutas": {
+      "R03": null,
+      "R10": null
+    },
+    "ubicacion": {
+      "texto": "Extremo sur de La Palma",
+      "latitud": null,
+      "longitud": null,
+      "como_llegar_url": null
+    },
+    "contenido": {
+      "secciones": [
+        {
+          "titulo": "Qué estás viendo",
+          "visibilidad": "publica",
+          "contenido_markdown": "Las salinas crean un paisaje geométrico donde el blanco de la sal contrasta con la roca volcánica y el océano. La producción artesanal de Sal Marina Teneguía mantiene vivo un oficio estrechamente ligado al clima y a la costa de Fuencaliente."
+        },
+        {
+          "titulo": "Conoce este lugar",
+          "visibilidad": "publica",
+          "contenido_markdown": "Los tajos, canales y estanques permiten comprender cómo se conduce y evapora el agua de mar hasta obtener la sal. Además de su valor productivo, el enclave reúne interés paisajístico y científico. La observación debe realizarse respetando las zonas de trabajo y las indicaciones del recinto."
+        },
+        {
+          "titulo": "Información práctica",
+          "visibilidad": "publica",
+          "contenido_markdown": "- Ubicación: extremo sur de La Palma, junto a los faros.\n- Actividad productiva en funcionamiento.\n- Horarios, visitas, accesibilidad y condiciones de acceso: información dinámica que debe consultarse en la fuente oficial."
+        }
+      ]
+    },
+    "media": {
+      "imagen_principal": null,
+      "galeria": [],
+      "estado": "oficial_disponible"
+    },
+    "fuentes": [
+      "https://turismofuencalientedelapalma.com/fuencaliente/centros-y-museos/",
+      "https://turismofuencalientedelapalma.com/lugares/"
+    ],
+    "estado": {
+      "inventario": "VERIFICADO",
+      "contenido": [
+        "base_oficial_disponible"
+      ],
+      "qr": "pendiente",
+      "prueba_movil": "pendiente",
+      "validacion_municipal": "pendiente"
+    },
+    "observaciones_internas": "Pertenencia a R03 propuesta."
+  },
+  {
+    "id": "H020",
+    "nombre": "Fuente Santa",
+    "slug": "fuente-santa",
+    "url": "/hitos/fuente-santa",
+    "categorias": [
+      "patrimonio_historico",
+      "aguas_termales"
+    ],
+    "rutas": [
+      "R03",
+      "R10"
+    ],
+    "orden_en_rutas": {
+      "R03": null,
+      "R10": null
+    },
+    "ubicacion": {
+      "texto": "Costa sur de Fuencaliente",
+      "latitud": null,
+      "longitud": null,
+      "como_llegar_url": null
+    },
+    "contenido": {
+      "secciones": [
+        {
+          "titulo": "Qué estás viendo",
+          "visibilidad": "publica",
+          "contenido_markdown": "Fuente Santa es un manantial termal histórico situado en la costa de Fuencaliente. Fue conocido durante los siglos XVI y XVII, quedó sepultado por la erupción de 1677 y fue localizado de nuevo tras un prolongado trabajo de investigación y excavación."
+        },
+        {
+          "titulo": "Conoce este lugar",
+          "visibilidad": "publica",
+          "contenido_markdown": "La historia de la fuente reúne geología, memoria y búsqueda científica. La información municipal sitúa su redescubrimiento en 2005 y caracteriza sus aguas como termales, cloruradas sódicas y carbónicas. Esta descripción no debe convertirse en una recomendación sanitaria ni en promesas terapéuticas."
+        },
+        {
+          "titulo": "Información práctica",
+          "visibilidad": "publica",
+          "contenido_markdown": "- Entorno general: costa sur de Fuencaliente.\n- No presentar el enclave como balneario o lugar de baño abierto.\n- Acceso, situación operativa, régimen de visitas y coordenadas: pendientes de confirmación municipal."
+        }
+      ]
+    },
+    "media": {
+      "imagen_principal": null,
+      "galeria": [],
+      "estado": "oficial_provisional"
+    },
+    "fuentes": [
+      "https://turismofuencalientedelapalma.com/fuencaliente/fuente-santa/"
+    ],
+    "estado": {
+      "inventario": "VERIFICADO",
+      "contenido": [
+        "base_oficial_amplia_disponible"
+      ],
+      "qr": "pendiente",
+      "prueba_movil": "pendiente",
+      "validacion_municipal": "pendiente"
+    },
+    "observaciones_internas": "Acceso, estado actual y forma de visita pendientes de validar. Pertenencia a R03 propuesta."
+  },
+  {
+    "id": "H021",
+    "nombre": "Volcán Teneguía",
+    "slug": "volcan-teneguia",
+    "url": "/hitos/volcan-teneguia",
+    "categorias": [
+      "volcan"
+    ],
+    "rutas": [
+      "R03",
+      "R04"
+    ],
+    "orden_en_rutas": {
+      "R03": null,
+      "R04": null
+    },
+    "ubicacion": {
+      "texto": "Monumento Natural de los Volcanes de Teneguía",
+      "latitud": null,
+      "longitud": null,
+      "como_llegar_url": null
+    },
+    "contenido": {
+      "secciones": [
+        {
+          "titulo": "Qué estás viendo",
+          "visibilidad": "publica",
+          "contenido_markdown": "El Teneguía nació durante la erupción iniciada el 26 de octubre de 1971. Durante 23 días, la apertura de bocas eruptivas, la expulsión de cenizas y el avance de las coladas transformaron el extremo sur de La Palma y ampliaron parte de su costa."
+        },
+        {
+          "titulo": "Conoce este lugar",
+          "visibilidad": "publica",
+          "contenido_markdown": "El volcán tomó su nombre del cercano Roque Teneguía. La erupción atrajo a periodistas, científicos y visitantes y convirtió el nuevo paisaje en uno de los símbolos de Fuencaliente. Sus materiales afectaron a zonas de viñedo, pero también crearon nuevos terrenos y un entorno geológico que hoy ayuda a explicar la relación del municipio con el volcanismo."
+        },
+        {
+          "titulo": "Información práctica",
+          "visibilidad": "publica",
+          "contenido_markdown": "- Acceder únicamente por recorridos habilitados.\n- Consultar cierres, meteorología y riesgo de incendio.\n- Coordenadas y punto de observación recomendado: pendientes de validación."
+        },
+        {
+          "titulo": "Pendiente",
+          "visibilidad": "interna",
+          "contenido_markdown": "Revisión geológica y de seguridad; definir si el QR se coloca en un mirador, acceso o punto interpretativo."
+        }
+      ]
+    },
+    "media": {
+      "imagen_principal": null,
+      "galeria": [],
+      "estado": "oficial_disponible"
+    },
+    "fuentes": [
+      "https://turismofuencalientedelapalma.com/fuencaliente/volcan-teneguia/"
+    ],
+    "estado": {
+      "inventario": "VERIFICADO",
+      "contenido": [
+        "base_oficial_disponible"
+      ],
+      "qr": "pendiente",
+      "prueba_movil": "pendiente",
+      "validacion_municipal": "pendiente"
+    },
+    "observaciones_internas": "Pertenencia a R03 propuesta."
+  },
+  {
+    "id": "H022",
+    "nombre": "Roque Teneguía",
+    "slug": "roque-teneguia",
+    "url": "/hitos/roque-teneguia",
+    "categorias": [
+      "geologia",
+      "arqueologia"
+    ],
+    "rutas": [
+      "R03",
+      "R04",
+      "R10"
+    ],
+    "orden_en_rutas": {
+      "R03": null,
+      "R04": null,
+      "R10": null
+    },
+    "ubicacion": {
+      "texto": "Ladera suroeste del volcán de San Antonio",
+      "latitud": null,
+      "longitud": null,
+      "como_llegar_url": null
+    },
+    "contenido": {
+      "secciones": [
+        {
+          "titulo": "Qué estás viendo",
+          "visibilidad": "publica",
+          "contenido_markdown": "El Roque Teneguía es una formación geológica mucho más antigua que los volcanes históricos que la rodean. En sus superficies se conserva uno de los conjuntos de grabados rupestres más destacados de La Palma, además de valores botánicos y paisajísticos excepcionales."
+        },
+        {
+          "titulo": "Conoce este lugar",
+          "visibilidad": "publica",
+          "contenido_markdown": "La información turística municipal sitúa el roque en la ladera suroeste del Volcán de San Antonio y señala la presencia de más de 150 motivos rupestres, entre ellos meandros y espirales. El lugar también constituye el último refugio silvestre conocido de la cabezuela, una planta endémica palmera amenazada.\n\nSu fragilidad obliga a interpretar el enclave sin favorecer el contacto directo con los grabados ni la salida de los recorridos autorizados."
+        },
+        {
+          "titulo": "Información práctica",
+          "visibilidad": "publica",
+          "contenido_markdown": "- Espacio arqueológico y natural sensible.\n- No tocar, pisar, remarcar ni fotografiar con técnicas que puedan dañar los grabados.\n- Acceso y punto de observación seguros: pendientes de validación institucional."
+        },
+        {
+          "titulo": "Pendiente",
+          "visibilidad": "interna",
+          "contenido_markdown": "Confirmar categoría y fecha vigente de protección, condiciones de visita y criterios de geolocalización pública."
+        }
+      ]
+    },
+    "media": {
+      "imagen_principal": null,
+      "galeria": [],
+      "estado": "oficial_provisional"
+    },
+    "fuentes": [
+      "https://turismofuencalientedelapalma.com/fuencaliente/arqueologia/",
+      "https://turismofuencalientedelapalma.com/lugares/"
+    ],
+    "estado": {
+      "inventario": "VERIFICADO",
+      "contenido": [
+        "base_oficial_amplia_disponible",
+        "proteccion_y_acceso_a_revisar"
+      ],
+      "qr": "pendiente",
+      "prueba_movil": "pendiente",
+      "validacion_municipal": "pendiente"
+    },
+    "observaciones_internas": "Pertenencia a R03 propuesta. Evitar indicaciones que favorezcan daños en grabados rupestres."
+  },
+  {
+    "id": "H023",
+    "nombre": "Playa de Echentive",
+    "slug": "playa-echentive",
+    "url": "/hitos/playa-echentive",
+    "categorias": [
+      "playa",
+      "paisaje_volcanico"
+    ],
+    "rutas": [
+      "R03",
+      "R09"
+    ],
+    "orden_en_rutas": {
+      "R03": null,
+      "R09": null
+    },
+    "ubicacion": {
+      "texto": "Costa sur de Fuencaliente",
+      "latitud": null,
+      "longitud": null,
+      "como_llegar_url": null
+    },
+    "contenido": {
+      "secciones": [
+        {
+          "titulo": "Qué estás viendo",
+          "visibilidad": "publica",
+          "contenido_markdown": "La Playa de Echentive, también conocida como Playa Nueva, nació del encuentro entre la lava y el océano durante la erupción del Teneguía de 1971. Callaos, gravas oscuras, acantilados y charcas naturales forman un paisaje costero de origen volcánico reciente."
+        },
+        {
+          "titulo": "Conoce este lugar",
+          "visibilidad": "publica",
+          "contenido_markdown": "Entre octubre y noviembre de 1971, las coladas del volcán Teneguía alcanzaron el mar y ampliaron la superficie de La Palma. Sobre ese nuevo terreno se formó la Playa de Echentive, un enclave que permite observar de manera directa cómo el volcanismo sigue construyendo el litoral de la isla.\n\nLa playa tiene aproximadamente 275 metros de longitud según la información turística municipal. En ella predominan los callaos y las gravas de distinto tamaño. En el entorno existen senderos y dos charcas naturales situadas al pie del acantilado, elementos de gran interés paisajístico.\n\nMuy cerca se encuentra la galería de la Fuente Santa, el histórico manantial termal que quedó sepultado por una erupción del siglo XVII y fue localizado de nuevo siglos después. La galería no debe presentarse como una visita pública sin confirmación oficial."
+        },
+        {
+          "titulo": "Información práctica",
+          "visibilidad": "publica",
+          "contenido_markdown": "- **Tipo de playa:** callaos y grava volcánica.\n- **Longitud orientativa:** aproximadamente 275 m, según Turismo de Fuencaliente.\n- **Servicios, vigilancia y accesibilidad:** pendientes de validación.\n- **Coordenadas:** pendientes de validación cartográfica.\n- **Estado del mar:** consultar avisos oficiales el mismo día de la visita."
+        },
+        {
+          "titulo": "Recomendaciones",
+          "visibilidad": "publica",
+          "contenido_markdown": "- Extremar la precaución con el oleaje y las corrientes.\n- Utilizar calzado adecuado para callaos y superficies irregulares.\n- No situarse bajo zonas inestables del acantilado.\n- No abandonar residuos ni alterar las charcas naturales."
+        },
+        {
+          "titulo": "Control interno",
+          "visibilidad": "interna",
+          "contenido_markdown": "- La seguridad debe redactarse de forma genérica y enlazar a avisos actuales.\n- Confirmar si la denominación pública preferida es Playa de Echentive o Playa Nueva."
+        },
+        {
+          "titulo": "Fuentes de trabajo",
+          "visibilidad": "interna",
+          "contenido_markdown": "- Turismo de Fuencaliente: https://turismofuencalientedelapalma.com/fuencaliente/playa-de-echentive/"
+        }
+      ]
+    },
+    "media": {
+      "imagen_principal": null,
+      "galeria": [],
+      "estado": "oficial_provisional"
+    },
+    "fuentes": [
+      "https://turismofuencalientedelapalma.com/playas/",
+      "https://turismofuencalientedelapalma.com/lugares/"
+    ],
+    "estado": {
+      "inventario": "VERIFICADO",
+      "contenido": [
+        "base_oficial_disponible",
+        "seguridad_dinamica_pendiente"
+      ],
+      "qr": "pendiente",
+      "prueba_movil": "pendiente",
+      "validacion_municipal": "pendiente"
+    },
+    "observaciones_internas": "También conocida como Playa Nueva. Pertenencia a R03 propuesta."
+  },
+  {
+    "id": "H024",
+    "nombre": "Pino de la Virgen",
+    "slug": "pino-de-la-virgen",
+    "url": "/hitos/pino-de-la-virgen",
+    "categorias": [
+      "naturaleza",
+      "tradicion",
+      "area_de_estancia"
+    ],
+    "rutas": [
+      "R03",
+      "R08",
+      "R10"
+    ],
+    "orden_en_rutas": {
+      "R03": null,
+      "R08": null,
+      "R10": null
+    },
+    "ubicacion": {
+      "texto": "Pinar, a unos 5 km de Los Canarios por pista",
+      "latitud": null,
+      "longitud": null,
+      "como_llegar_url": null
+    },
+    "contenido": {
+      "secciones": [
+        {
+          "titulo": "Qué estás viendo",
+          "visibilidad": "publica",
+          "contenido_markdown": "En el pinar, una pequeña imagen de la Virgen convierte este árbol y su entorno en un lugar de encuentro entre naturaleza y tradición. El espacio es también punto de celebración de una romería local durante el mes de agosto."
+        },
+        {
+          "titulo": "Conoce este lugar",
+          "visibilidad": "publica",
+          "contenido_markdown": "La página municipal sitúa el enclave a unos cinco kilómetros de Los Canarios por pista de tierra y señala que la romería se celebra tradicionalmente el segundo domingo de agosto. La fecha concreta de cada edición debe consultarse en la programación oficial."
+        },
+        {
+          "titulo": "Información práctica",
+          "visibilidad": "publica",
+          "contenido_markdown": "- Equipamiento publicado: aparcamiento, aseos, mesas y bancos.\n- Acceso por pista; revisar su estado antes de la visita.\n- Restricciones de fuego, disponibilidad de servicios, accesibilidad y coordenadas: datos dinámicos pendientes de validación."
+        }
+      ]
+    },
+    "media": {
+      "imagen_principal": null,
+      "galeria": [],
+      "estado": "oficial_provisional"
+    },
+    "fuentes": [
+      "https://turismofuencalientedelapalma.com/fuencaliente/pino-de-la-virgen/?lang=en"
+    ],
+    "estado": {
+      "inventario": "VERIFICADO",
+      "contenido": [
+        "base_oficial_disponible",
+        "servicios_disponibles"
+      ],
+      "qr": "pendiente",
+      "prueba_movil": "pendiente",
+      "validacion_municipal": "pendiente"
+    },
+    "observaciones_internas": "Pertenencias a R03 y R10 propuestas. Acceso por pista y condiciones deben validarse."
+  },
+  {
+    "id": "H025",
+    "nombre": "Volcán de Martín",
+    "slug": "volcan-martin",
+    "url": "/hitos/volcan-martin",
+    "categorias": [
+      "volcan"
+    ],
+    "rutas": [
+      "R04"
+    ],
+    "orden_en_rutas": {
+      "R04": null
+    },
+    "ubicacion": {
+      "texto": "Fuencaliente de La Palma",
+      "latitud": null,
+      "longitud": null,
+      "como_llegar_url": null
+    },
+    "contenido": {
+      "secciones": [
+        {
+          "titulo": "Qué estás viendo",
+          "visibilidad": "publica",
+          "contenido_markdown": "El Volcán de Martín se encuentra en el extremo sur de Cumbre Vieja y está vinculado a la erupción de 1646. Su cráter combina tonos rojizos, amarillos y negros, mientras sus lavas se extendieron hacia la vertiente oriental de la isla."
+        },
+        {
+          "titulo": "Conoce este lugar",
+          "visibilidad": "publica",
+          "contenido_markdown": "La erupción afectó a terrenos de cultivo y pastoreo y dejó una huella profunda en la memoria local. Junto a la interpretación geológica, la tradición religiosa recuerda las rogativas a la Virgen de las Nieves durante el episodio eruptivo. Ambos relatos deben presentarse diferenciando la explicación científica de la tradición histórica."
+        },
+        {
+          "titulo": "Información práctica",
+          "visibilidad": "publica",
+          "contenido_markdown": "- Acceso, dificultad, distancia y coordenadas: pendientes de incorporar desde una fuente senderista validada.\n- Consultar cierres y condiciones meteorológicas."
+        },
+        {
+          "titulo": "Pendiente",
+          "visibilidad": "interna",
+          "contenido_markdown": "Revisión geológica; decidir el punto físico del QR y evitar presentar la tradición religiosa como explicación científica del final de la erupción."
+        }
+      ]
+    },
+    "media": {
+      "imagen_principal": null,
+      "galeria": [],
+      "estado": "oficial_provisional"
+    },
+    "fuentes": [
+      "https://turismofuencalientedelapalma.com/lugares/"
+    ],
+    "estado": {
+      "inventario": "VERIFICADO",
+      "contenido": [
+        "base_oficial_disponible"
+      ],
+      "qr": "pendiente",
+      "prueba_movil": "pendiente",
+      "validacion_municipal": "pendiente"
+    },
+    "observaciones_internas": "Coordenadas, acceso seguro y texto específico pendientes."
+  },
+  {
+    "id": "H026",
+    "nombre": "Caldera del Búcaro",
+    "slug": "caldera-bucaro",
+    "url": "/hitos/caldera-bucaro",
+    "categorias": [
+      "volcan"
+    ],
+    "rutas": [
+      "R04"
+    ],
+    "orden_en_rutas": {
+      "R04": null
+    },
+    "ubicacion": {
+      "texto": "Fuencaliente de La Palma",
+      "latitud": null,
+      "longitud": null,
+      "como_llegar_url": null
+    },
+    "contenido": {
+      "secciones": [
+        {
+          "titulo": "Qué estás viendo",
+          "visibilidad": "publica",
+          "contenido_markdown": "La Caldera del Búcaro es un enclave volcánico costero situado en El Puertito. Está relacionada con una de las emisiones de la erupción del Volcán de Martín de 1646 y conserva dos pequeños hornitos volcánicos."
+        },
+        {
+          "titulo": "Conoce este lugar",
+          "visibilidad": "publica",
+          "contenido_markdown": "Los materiales emitidos formaron una reducida plataforma costera con aspecto de delta. El nombre del lugar se asocia a la forma de los dos hornitos, que recuerdan a un búcaro. Su interés combina geología, transformación del litoral y valor paisajístico."
+        },
+        {
+          "titulo": "Información práctica",
+          "visibilidad": "publica",
+          "contenido_markdown": "- Ubicación general: El Puertito.\n- Punto de observación, acceso seguro y coordenadas: pendientes de validación.\n- No aproximarse a bordes, taludes o zonas afectadas por el oleaje."
+        },
+        {
+          "titulo": "Pendiente",
+          "visibilidad": "interna",
+          "contenido_markdown": "Revisión geológica y de seguridad costera; fotografía que permita interpretar las formas sin abandonar una zona segura."
+        }
+      ]
+    },
+    "media": {
+      "imagen_principal": null,
+      "galeria": [],
+      "estado": "oficial_provisional"
+    },
+    "fuentes": [
+      "https://turismofuencalientedelapalma.com/lugares/"
+    ],
+    "estado": {
+      "inventario": "VERIFICADO",
+      "contenido": [
+        "base_oficial_disponible"
+      ],
+      "qr": "pendiente",
+      "prueba_movil": "pendiente",
+      "validacion_municipal": "pendiente"
+    },
+    "observaciones_internas": "Coordenadas, acceso seguro y texto específico pendientes."
+  },
+  {
+    "id": "H027",
+    "nombre": "Centro de Visitantes del Volcán de San Antonio",
+    "slug": "centro-visitantes-volcan-san-antonio",
+    "url": "/hitos/centro-visitantes-volcan-san-antonio",
+    "categorias": [
+      "centro_interpretacion"
+    ],
+    "rutas": [
+      "R04"
+    ],
+    "orden_en_rutas": {
+      "R04": null
+    },
+    "ubicacion": {
+      "texto": "Entorno del Volcán de San Antonio",
+      "latitud": null,
+      "longitud": null,
+      "como_llegar_url": null
+    },
+    "contenido": {
+      "secciones": [
+        {
+          "titulo": "Qué estás viendo",
+          "visibilidad": "publica",
+          "contenido_markdown": "Este centro ayuda a comprender el origen volcánico de La Palma, los riesgos asociados a las erupciones y los beneficios que el volcanismo ha aportado al paisaje y a la agricultura de Fuencaliente."
+        },
+        {
+          "titulo": "Conoce este lugar",
+          "visibilidad": "publica",
+          "contenido_markdown": "Las salas de exposición reúnen contenidos sobre vulcanología y la erupción del Teneguía de 1971. El espacio incorpora recursos audiovisuales y un área dedicada a la relación entre astronomía y volcanismo. En el exterior parte un recorrido por el borde del Volcán de San Antonio hasta un mirador sobre las vertientes sur y oeste."
+        },
+        {
+          "titulo": "Información práctica",
+          "visibilidad": "publica",
+          "contenido_markdown": "- Horarios y tarifas: consultar siempre la página oficial actualizada.\n- El recorrido exterior dura aproximadamente 30 minutos entre ida y vuelta según la información municipal.\n- La disponibilidad de silla joëlette y otras medidas de accesibilidad debe confirmarse previamente."
+        },
+        {
+          "titulo": "Pendiente",
+          "visibilidad": "interna",
+          "contenido_markdown": "Coordenadas; enlace de compra o contacto; fecha de revisión de horarios, tarifas y accesibilidad."
+        }
+      ]
+    },
+    "media": {
+      "imagen_principal": null,
+      "galeria": [],
+      "estado": "oficial_disponible"
+    },
+    "fuentes": [
+      "https://turismofuencalientedelapalma.com/fuencaliente/centro-volcan-san-antonio/"
+    ],
+    "estado": {
+      "inventario": "VERIFICADO",
+      "contenido": [
+        "base_oficial_amplia_disponible",
+        "horarios_y_tarifas_dinamicos"
+      ],
+      "qr": "pendiente",
+      "prueba_movil": "pendiente",
+      "validacion_municipal": "pendiente"
+    },
+    "observaciones_internas": "No fijar horarios o tarifas sin fecha de actualización y enlace oficial."
+  },
+  {
+    "id": "H028",
+    "nombre": "Mirador de La Fajana",
+    "slug": "mirador-la-fajana",
+    "url": "/hitos/mirador-la-fajana",
+    "categorias": [
+      "mirador"
+    ],
+    "rutas": [
+      "R05"
+    ],
+    "orden_en_rutas": {
+      "R05": null
+    },
+    "ubicacion": {
+      "texto": "La Fajana",
+      "latitud": null,
+      "longitud": null,
+      "como_llegar_url": null
+    },
+    "contenido": {
+      "secciones": [
+        {
+          "titulo": "Qué estás viendo",
+          "visibilidad": "publica",
+          "contenido_markdown": "El Mirador de La Fajana forma parte del catálogo municipal de lugares de interés. Su incorporación amplía la ruta más allá de las paradas de la Décima y permite acercarse al paisaje del barrio y su entorno."
+        },
+        {
+          "titulo": "Información práctica",
+          "visibilidad": "publica",
+          "contenido_markdown": "- Ubicación general: La Fajana.\n- Coordenadas, orientación de las vistas, acceso y accesibilidad: pendientes de validación."
+        },
+        {
+          "titulo": "Pendiente",
+          "visibilidad": "interna",
+          "contenido_markdown": "Texto principal y fotografía específica. No confundirlo con el Mirador de Las Indias, situado sobre Las Indias y La Fajana."
+        }
+      ]
+    },
+    "media": {
+      "imagen_principal": null,
+      "galeria": [],
+      "estado": "oficial_provisional"
+    },
+    "fuentes": [
+      "https://turismofuencalientedelapalma.com/lugares/"
+    ],
+    "estado": {
+      "inventario": "VERIFICADO",
+      "contenido": [
+        "base_oficial_disponible"
+      ],
+      "qr": "pendiente",
+      "prueba_movil": "pendiente",
+      "validacion_municipal": "pendiente"
+    },
+    "observaciones_internas": null
+  },
+  {
+    "id": "H029",
+    "nombre": "Mirador de El Charco",
+    "slug": "mirador-el-charco",
+    "url": "/hitos/mirador-el-charco",
+    "categorias": [
+      "mirador"
+    ],
+    "rutas": [
+      "R05"
+    ],
+    "orden_en_rutas": {
+      "R05": null
+    },
+    "ubicacion": {
+      "texto": "El Charco",
+      "latitud": null,
+      "longitud": null,
+      "como_llegar_url": null
+    },
+    "contenido": {
+      "secciones": [
+        {
+          "titulo": "Qué estás viendo",
+          "visibilidad": "publica",
+          "contenido_markdown": "El Mirador de El Charco es uno de los puntos finales relacionados con el sendero T.1 desde Los Canarios. La información del recorrido municipal indica que puede alcanzarse mediante una prolongación aproximada de 700 metros desde la Casa de Camineros de El Charco."
+        },
+        {
+          "titulo": "Información práctica",
+          "visibilidad": "publica",
+          "contenido_markdown": "- Ubicación general: El Charco.\n- El acceso final descrito discurre por carretera y debe comprobarse sobre el terreno.\n- Coordenadas y condiciones de estacionamiento: pendientes."
+        },
+        {
+          "titulo": "Pendiente",
+          "visibilidad": "interna",
+          "contenido_markdown": "Validar la seguridad del enlace a pie desde el final de T.1 y redactar la panorámica tras revisar fotografías o ubicación."
+        }
+      ]
+    },
+    "media": {
+      "imagen_principal": null,
+      "galeria": [],
+      "estado": "oficial_provisional"
+    },
+    "fuentes": [
+      "https://turismofuencalientedelapalma.com/lugares/"
+    ],
+    "estado": {
+      "inventario": "VERIFICADO",
+      "contenido": [
+        "base_oficial_disponible"
+      ],
+      "qr": "pendiente",
+      "prueba_movil": "pendiente",
+      "validacion_municipal": "pendiente"
+    },
+    "observaciones_internas": null
+  },
+  {
+    "id": "H030",
+    "nombre": "T.1 Los Canarios - El Charco",
+    "slug": "t1-los-canarios-el-charco",
+    "url": "/hitos/t1-los-canarios-el-charco",
+    "categorias": [
+      "sendero"
+    ],
+    "rutas": [
+      "R07"
+    ],
+    "orden_en_rutas": {
+      "R07": null
+    },
+    "ubicacion": {
+      "texto": "Inicio: Los Canarios | Fin: El Charco",
+      "latitud": null,
+      "longitud": null,
+      "como_llegar_url": null
+    },
+    "contenido": {
+      "secciones": [
+        {
+          "titulo": "Qué estás recorriendo",
+          "visibilidad": "publica",
+          "contenido_markdown": "Este sendero une Los Canarios con El Charco a través de caminos oficiales, pinares, áreas recreativas y zonas de viñedo. El recorrido parte de Plaza Minerva y combina tramos del GR-131 y del GR-130 antes de descender hacia la Casa de Camineros y el entorno de El Charco."
+        },
+        {
+          "titulo": "Datos del recorrido",
+          "visibilidad": "publica",
+          "contenido_markdown": "- **Tipo:** lineal, solo ida.\n- **Inicio:** Plaza Minerva, Los Canarios, a unos 715 m de altitud.\n- **Final:** entorno de la Casa de Camineros de El Charco.\n- **Distancia publicada:** 7,52 km.\n- **Duración estimada publicada:** 2 h 30 min solo ida; 5 h ida y vuelta.\n- **Desnivel positivo publicado:** 274 m.\n- **Desnivel negativo publicado:** aproximadamente 223 m.\n- **Dificultad:** la ficha de Wikiloc la clasifica como fácil, mientras su texto en inglés indica moderada. Se mostrará **moderada** de forma provisional hasta validación municipal.\n- **GPX:** pendiente de incorporar desde la fuente municipal o Wikiloc oficial."
+        },
+        {
+          "titulo": "Descripción del recorrido",
+          "visibilidad": "publica",
+          "contenido_markdown": "La ruta comienza en Plaza Minerva, junto a la Oficina de Información Turística. Desde allí se dirige hacia la Iglesia de San Antonio Abad y continúa por el GR-131. Después enlaza con el GR-130 en dirección a Los Llanos de Aridane.\n\nEl itinerario pasa cerca del área recreativa de Pino de Santo Domingo y asciende entre pinares y zonas de viñedo. Dependiendo de la época del año pueden observarse especies características del monte y del paisaje abierto de Fuencaliente. Los claros del pinar ofrecen vistas hacia la costa suroriental antes de iniciar el descenso hacia la Casa de Camineros de El Charco.\n\nDesde el final publicado puede continuarse unos 700 metros por carretera hasta el Mirador de El Charco. Esta extensión debe representarse como opcional y separada del trazado principal."
+        },
+        {
+          "titulo": "Seguridad",
+          "visibilidad": "publica",
+          "contenido_markdown": "- Consultar el estado oficial del sendero antes de salir.\n- Llevar agua, protección solar, calzado de montaña y batería suficiente en el teléfono.\n- No depender únicamente de la cobertura móvil.\n- Evitar el recorrido con alertas meteorológicas, riesgo de incendio o cierres oficiales.\n- En caso de emergencia, llamar al 112."
+        },
+        {
+          "titulo": "Control interno",
+          "visibilidad": "interna",
+          "contenido_markdown": "- El estado municipal consultado el 1/09/2026 mostraba T.1 abierta, pero este dato no se incrusta en la ficha.\n- Resolver la contradicción de dificultad antes de la versión definitiva.\n- Revisar transporte de regreso: las líneas y horarios pueden cambiar."
+        },
+        {
+          "titulo": "Fuentes de trabajo",
+          "visibilidad": "interna",
+          "contenido_markdown": "- Turismo de Fuencaliente, senderos: https://turismofuencalientedelapalma.com/senderos/\n- Perfil oficial de la Oficina de Turismo en Wikiloc: https://es.wikiloc.com/rutas-senderismo/ruta-turistica-na1-los-canarios-a-el-charco-from-los-canarios-to-the-charco-50673959"
+        }
+      ]
+    },
+    "media": {
+      "imagen_principal": null,
+      "galeria": [],
+      "estado": "placeholder"
+    },
+    "fuentes": [
+      "https://turismofuencalientedelapalma.com/senderos/"
+    ],
+    "estado": {
+      "inventario": "VERIFICADO",
+      "contenido": [
+        "ficha_y_folleto_oficiales_disponibles",
+        "trazado_gpx_pendiente"
+      ],
+      "qr": "pendiente",
+      "prueba_movil": "pendiente",
+      "validacion_municipal": "pendiente"
+    },
+    "observaciones_internas": "El estado abierto o cerrado es dinámico y debe enlazarse, no fijarse permanentemente."
+  },
+  {
+    "id": "H031",
+    "nombre": "T.2 Los Canarios - La Zamora",
+    "slug": "t2-los-canarios-la-zamora",
+    "url": "/hitos/t2-los-canarios-la-zamora",
+    "categorias": [
+      "sendero"
+    ],
+    "rutas": [
+      "R07"
+    ],
+    "orden_en_rutas": {
+      "R07": null
+    },
+    "ubicacion": {
+      "texto": "Inicio: Los Canarios | Fin: La Zamora",
+      "latitud": null,
+      "longitud": null,
+      "como_llegar_url": null
+    },
+    "contenido": {
+      "secciones": [
+        {
+          "titulo": "Qué estás viendo",
+          "visibilidad": "publica",
+          "contenido_markdown": "Itinerario descendente que enlaza el núcleo de Los Canarios con la costa de La Zamora. El recorrido permite pasar del paisaje de medianías al litoral y comprender, a pie, el fuerte desnivel que caracteriza esta vertiente de Fuencaliente."
+        },
+        {
+          "titulo": "Datos provisionales de la ficha oficial",
+          "visibilidad": "publica",
+          "contenido_markdown": "- Longitud: 6,24 km, solo ida.\n- Desnivel de descenso: aproximadamente 697 m.\n- Duración orientativa publicada: 2 horas, solo ida.\n- Inicio: Los Canarios, en torno a 715 m de altitud."
+        },
+        {
+          "titulo": "Pendiente",
+          "visibilidad": "interna",
+          "contenido_markdown": "Validar trazado GPX, dificultad, punto exacto de llegada, posibilidad de regreso y vigencia de las cifras antes de publicación definitiva."
+        }
+      ]
+    },
+    "media": {
+      "imagen_principal": null,
+      "galeria": [],
+      "estado": "placeholder"
+    },
+    "fuentes": [
+      "https://turismofuencalientedelapalma.com/senderos/"
+    ],
+    "estado": {
+      "inventario": "VERIFICADO",
+      "contenido": [
+        "ficha_y_folleto_oficiales_disponibles",
+        "trazado_gpx_pendiente"
+      ],
+      "qr": "pendiente",
+      "prueba_movil": "pendiente",
+      "validacion_municipal": "pendiente"
+    },
+    "observaciones_internas": "El estado abierto o cerrado es dinámico y debe enlazarse, no fijarse permanentemente."
+  },
+  {
+    "id": "H032",
+    "nombre": "T.3 Los Canarios - Puntalarga",
+    "slug": "t3-los-canarios-puntalarga",
+    "url": "/hitos/t3-los-canarios-puntalarga",
+    "categorias": [
+      "sendero"
+    ],
+    "rutas": [
+      "R07"
+    ],
+    "orden_en_rutas": {
+      "R07": null
+    },
+    "ubicacion": {
+      "texto": "Inicio: Los Canarios | Fin: Puntalarga",
+      "latitud": null,
+      "longitud": null,
+      "como_llegar_url": null
+    },
+    "contenido": {
+      "secciones": [
+        {
+          "titulo": "Qué estás viendo",
+          "visibilidad": "publica",
+          "contenido_markdown": "Este sendero baja desde Plaza Minerva hasta Puntalarga. Atraviesa un paisaje de viñedos y pinar, pasa por Los Quemados y continúa hacia la costa entre antiguas laderas y zonas de cultivo."
+        },
+        {
+          "titulo": "Datos provisionales de la ficha oficial",
+          "visibilidad": "publica",
+          "contenido_markdown": "- Longitud: 3,54 km, solo ida.\n- Desnivel de descenso: aproximadamente 694 m.\n- Duración orientativa publicada: 2 h 15 min, solo ida.\n- Dificultad descrita: media-baja, pendiente de homologación editorial."
+        },
+        {
+          "titulo": "Pendiente",
+          "visibilidad": "interna",
+          "contenido_markdown": "Incorporar GPX oficial, confirmar logística de regreso y revisar el estado del itinerario. La existencia de transporte o servicios no debe darse por garantizada."
+        }
+      ]
+    },
+    "media": {
+      "imagen_principal": null,
+      "galeria": [],
+      "estado": "placeholder"
+    },
+    "fuentes": [
+      "https://turismofuencalientedelapalma.com/senderos/"
+    ],
+    "estado": {
+      "inventario": "VERIFICADO",
+      "contenido": [
+        "ficha_y_folleto_oficiales_disponibles",
+        "trazado_gpx_pendiente"
+      ],
+      "qr": "pendiente",
+      "prueba_movil": "pendiente",
+      "validacion_municipal": "pendiente"
+    },
+    "observaciones_internas": "El estado abierto o cerrado es dinámico y debe enlazarse, no fijarse permanentemente."
+  },
+  {
+    "id": "H033",
+    "nombre": "T.4 Los Canarios - El Faro",
+    "slug": "t4-los-canarios-el-faro",
+    "url": "/hitos/t4-los-canarios-el-faro",
+    "categorias": [
+      "sendero"
+    ],
+    "rutas": [
+      "R07"
+    ],
+    "orden_en_rutas": {
+      "R07": null
+    },
+    "ubicacion": {
+      "texto": "Inicio: Los Canarios | Fin: El Faro",
+      "latitud": null,
+      "longitud": null,
+      "como_llegar_url": null
+    },
+    "contenido": {
+      "secciones": [
+        {
+          "titulo": "Qué estás viendo",
+          "visibilidad": "publica",
+          "contenido_markdown": "Recorrido descendente desde Plaza Minerva hacia el extremo sur de la isla. El camino conecta el núcleo de Los Canarios con el paisaje vitivinícola, el entorno del Teneguía y el conjunto formado por los faros, las salinas y la Reserva Marina."
+        },
+        {
+          "titulo": "Datos provisionales de la ficha oficial",
+          "visibilidad": "publica",
+          "contenido_markdown": "- Longitud: aproximadamente 7,2 km, solo ida.\n- Desnivel de descenso: aproximadamente 692 m.\n- Dificultad publicada: moderada o media-baja según el campo consultado; debe unificarse.\n- Inicio: Plaza Minerva."
+        },
+        {
+          "titulo": "Pendiente",
+          "visibilidad": "interna",
+          "contenido_markdown": "Duración, GPX, punto final exacto y opciones de regreso. Consultar el estado oficial antes de caminar."
+        }
+      ]
+    },
+    "media": {
+      "imagen_principal": null,
+      "galeria": [],
+      "estado": "placeholder"
+    },
+    "fuentes": [
+      "https://turismofuencalientedelapalma.com/senderos/"
+    ],
+    "estado": {
+      "inventario": "VERIFICADO",
+      "contenido": [
+        "ficha_y_folleto_oficiales_disponibles",
+        "trazado_gpx_pendiente"
+      ],
+      "qr": "pendiente",
+      "prueba_movil": "pendiente",
+      "validacion_municipal": "pendiente"
+    },
+    "observaciones_internas": "El estado abierto o cerrado es dinámico y debe enlazarse, no fijarse permanentemente."
+  },
+  {
+    "id": "H034",
+    "nombre": "T.5 Los Canarios - El Puertito",
+    "slug": "t5-los-canarios-el-puertito",
+    "url": "/hitos/t5-los-canarios-el-puertito",
+    "categorias": [
+      "sendero"
+    ],
+    "rutas": [
+      "R07"
+    ],
+    "orden_en_rutas": {
+      "R07": null
+    },
+    "ubicacion": {
+      "texto": "Inicio: Los Canarios | Fin: El Puertito",
+      "latitud": null,
+      "longitud": null,
+      "como_llegar_url": null
+    },
+    "contenido": {
+      "secciones": [
+        {
+          "titulo": "Qué estás viendo",
+          "visibilidad": "publica",
+          "contenido_markdown": "Ruta exigente que une Los Canarios con El Puertito atravesando Las Caletas, zonas de cultivo, matorral costero y malpaís volcánico. En el tramo litoral aparecen elementos etnográficos como bancales y antiguos secaderos de chochos o percheles."
+        },
+        {
+          "titulo": "Datos provisionales del folleto oficial",
+          "visibilidad": "publica",
+          "contenido_markdown": "- Longitud: 10,70 km ida y vuelta.\n- Desnivel acumulado publicado: 749 m de subida y 749 m de bajada.\n- Duración: unas 2 h 30 min solo ida y 6 horas ida y vuelta.\n- Dificultad: media-alta."
+        },
+        {
+          "titulo": "Información práctica",
+          "visibilidad": "publica",
+          "contenido_markdown": "El folleto advierte que no existe transporte de regreso y plantea volver caminando. Confirmar esta circunstancia, el GPX y el estado del sendero antes de la salida."
+        }
+      ]
+    },
+    "media": {
+      "imagen_principal": null,
+      "galeria": [],
+      "estado": "placeholder"
+    },
+    "fuentes": [
+      "https://turismofuencalientedelapalma.com/senderos/"
+    ],
+    "estado": {
+      "inventario": "VERIFICADO",
+      "contenido": [
+        "ficha_y_folleto_oficiales_disponibles",
+        "trazado_gpx_pendiente"
+      ],
+      "qr": "pendiente",
+      "prueba_movil": "pendiente",
+      "validacion_municipal": "pendiente"
+    },
+    "observaciones_internas": "El estado abierto o cerrado es dinámico y debe enlazarse, no fijarse permanentemente."
+  },
+  {
+    "id": "H035",
+    "nombre": "GR-131 Ruta de los Volcanes",
+    "slug": "gr131-ruta-volcanes",
+    "url": "/hitos/gr131-ruta-volcanes",
+    "categorias": [
+      "sendero_gran_recorrido"
+    ],
+    "rutas": [
+      "R04",
+      "R07"
+    ],
+    "orden_en_rutas": {
+      "R04": null,
+      "R07": null
+    },
+    "ubicacion": {
+      "texto": "Tramo con llegada o paso por Los Canarios",
+      "latitud": null,
+      "longitud": null,
+      "como_llegar_url": null
+    },
+    "contenido": {
+      "secciones": [
+        {
+          "titulo": "Qué estás recorriendo",
+          "visibilidad": "publica",
+          "contenido_markdown": "El tramo sur del GR-131 atraviesa el paisaje volcánico desde Los Canarios hacia el Faro de Fuencaliente. El folleto municipal describe un recorrido de aproximadamente 7,4 km solo ida, con un descenso acumulado cercano a 706 m."
+        },
+        {
+          "titulo": "Recorrido",
+          "visibilidad": "publica",
+          "contenido_markdown": "La propuesta parte de Plaza Minerva, enlaza con el Centro de Visitantes y el Volcán de San Antonio y continúa hacia el Teneguía. El descenso atraviesa campos de lava, zonas de viñedo y vegetación colonizadora hasta alcanzar los faros y las Salinas de Fuencaliente."
+        },
+        {
+          "titulo": "Datos publicados",
+          "visibilidad": "publica",
+          "contenido_markdown": "- Distancia: 7,4 km solo ida; aproximadamente 14 km ida y vuelta.\n- Duración: 3 h solo ida; 5 h ida y vuelta.\n- Descenso acumulado: aproximadamente 706 m.\n- Datos sujetos a comprobación sobre el trazado oficial vigente."
+        },
+        {
+          "titulo": "Seguridad",
+          "visibilidad": "publica",
+          "contenido_markdown": "- Consultar el estado del GR-131 antes de salir.\n- Llevar agua, protección solar, calzado de montaña y trazado descargado.\n- Organizar previamente el regreso desde la costa."
+        },
+        {
+          "titulo": "Pendiente",
+          "visibilidad": "interna",
+          "contenido_markdown": "GPX oficial, dificultad homologada, desnivel positivo y revisión de transporte público."
+        }
+      ]
+    },
+    "media": {
+      "imagen_principal": null,
+      "galeria": [],
+      "estado": "placeholder"
+    },
+    "fuentes": [
+      "https://turismofuencalientedelapalma.com/senderos/"
+    ],
+    "estado": {
+      "inventario": "VERIFICADO",
+      "contenido": [
+        "base_oficial_disponible",
+        "trazado_gpx_pendiente"
+      ],
+      "qr": "pendiente",
+      "prueba_movil": "pendiente",
+      "validacion_municipal": "pendiente"
+    },
+    "observaciones_internas": "No confundir la ficha del recorrido con la ruta temática R04."
+  },
+  {
+    "id": "H036",
+    "nombre": "Área recreativa Fuente de Los Roques",
+    "slug": "area-recreativa-fuente-los-roques",
+    "url": "/hitos/area-recreativa-fuente-los-roques",
+    "categorias": [
+      "area_recreativa"
+    ],
+    "rutas": [
+      "R07",
+      "R08"
+    ],
+    "orden_en_rutas": {
+      "R07": null,
+      "R08": null
+    },
+    "ubicacion": {
+      "texto": "Pinar de Fuencaliente, a más de 1000 m de altitud",
+      "latitud": null,
+      "longitud": null,
+      "como_llegar_url": null
+    },
+    "contenido": {
+      "secciones": [
+        {
+          "titulo": "Qué estás viendo",
+          "visibilidad": "publica",
+          "contenido_markdown": "Fuente de Los Roques es un área recreativa situada a más de mil metros de altitud, en un paisaje donde el pinar canario se encuentra con los terrenos volcánicos del sur de La Palma. Su posición la vincula al entorno senderista de la Ruta de los Volcanes."
+        },
+        {
+          "titulo": "Conoce este lugar",
+          "visibilidad": "publica",
+          "contenido_markdown": "El área recreativa ofrece un espacio de descanso en plena naturaleza. El contraste entre el verde del pino canario y los tonos oscuros y ocres del terreno volcánico resume uno de los paisajes característicos de Fuencaliente.\n\nLa ficha turística municipal indica que el lugar dispone de mesas y bancos, fogones, aseos, zona infantil, aparcamiento y acceso para sillas de ruedas. También advierte de que el acceso se realiza por pista y que sus condiciones pueden hacer recomendable un vehículo adecuado.\n\nComo estos servicios y accesos pueden cambiar, la versión pública debe invitar a comprobar el estado de la pista, las restricciones por riesgo de incendio y la disponibilidad real de agua o fogones antes de organizar la visita."
+        },
+        {
+          "titulo": "Información práctica",
+          "visibilidad": "publica",
+          "contenido_markdown": "- **Entorno:** pinar y paisaje volcánico, a más de 1000 m de altitud.\n- **Acceso:** por pista forestal; condiciones pendientes de revisión actualizada.\n- **Servicios publicados:** mesas, bancos, fogones, aseos, zona infantil y aparcamiento.\n- **Accesibilidad publicada:** la fuente municipal señala acceso para sillas de ruedas; debe comprobarse sobre el terreno.\n- **Coordenadas:** pendientes de validación cartográfica."
+        },
+        {
+          "titulo": "Recomendaciones",
+          "visibilidad": "publica",
+          "contenido_markdown": "- Consultar restricciones por riesgo de incendio antes de utilizar fogones.\n- No encender fuego fuera de las instalaciones y periodos autorizados.\n- Llevar agua propia aunque exista una fuente.\n- Retirar todos los residuos generados.\n- Comprobar el estado de la pista antes de acceder."
+        },
+        {
+          "titulo": "Control interno",
+          "visibilidad": "interna",
+          "contenido_markdown": "- No mostrar como garantizados los servicios sin fecha de revisión.\n- Añadir enlace a las alertas de incendios y a la administración gestora en la versión definitiva."
+        },
+        {
+          "titulo": "Fuentes de trabajo",
+          "visibilidad": "interna",
+          "contenido_markdown": "- Turismo de Fuencaliente: https://turismofuencalientedelapalma.com/fuencaliente/fuente-de-los-roques/"
+        }
+      ]
+    },
+    "media": {
+      "imagen_principal": null,
+      "galeria": [],
+      "estado": "oficial_provisional"
+    },
+    "fuentes": [
+      "https://turismofuencalientedelapalma.com/fuencaliente/fuente-de-los-roques/"
+    ],
+    "estado": {
+      "inventario": "VERIFICADO",
+      "contenido": [
+        "base_oficial_amplia_disponible",
+        "servicios_disponibles"
+      ],
+      "qr": "pendiente",
+      "prueba_movil": "pendiente",
+      "validacion_municipal": "pendiente"
+    },
+    "observaciones_internas": "La fuente municipal indica que está enclavada en la Ruta de los Volcanes. Acceso y servicios deben revisarse antes de publicar."
+  },
+  {
+    "id": "H037",
+    "nombre": "Pino de Santo Domingo",
+    "slug": "pino-santo-domingo",
+    "url": "/hitos/pino-santo-domingo",
+    "categorias": [
+      "area_recreativa",
+      "naturaleza"
+    ],
+    "rutas": [
+      "R08"
+    ],
+    "orden_en_rutas": {
+      "R08": null
+    },
+    "ubicacion": {
+      "texto": "Fuencaliente de La Palma",
+      "latitud": null,
+      "longitud": null,
+      "como_llegar_url": null
+    },
+    "contenido": {
+      "secciones": [
+        {
+          "titulo": "Qué estás viendo",
+          "visibilidad": "publica",
+          "contenido_markdown": "Este gran pino canario marca un antiguo cruce de caminos reales y ofrece sombra a una zona de descanso. La tradición oral relaciona su nombre con Santo Domingo de la Calzada y cuenta que un sacerdote participó en su plantación y cuidado."
+        },
+        {
+          "titulo": "Conoce este lugar",
+          "visibilidad": "publica",
+          "contenido_markdown": "Según la información turística municipal, el árbol alcanza unos 21 metros de altura y un perímetro de tronco de 5,20 metros. Estas mediciones deben conservarse atribuidas a la fuente municipal hasta una revisión técnica."
+        },
+        {
+          "titulo": "Información práctica",
+          "visibilidad": "publica",
+          "contenido_markdown": "- Altitud publicada: aproximadamente 785 m.\n- Equipamiento descrito: mesas y capacidad aproximada para 70 personas.\n- Acceso, servicios, conservación, coordenadas y accesibilidad: pendientes de validación."
+        }
+      ]
+    },
+    "media": {
+      "imagen_principal": null,
+      "galeria": [],
+      "estado": "oficial_provisional"
+    },
+    "fuentes": [
+      "https://turismofuencalientedelapalma.com/lugares/"
+    ],
+    "estado": {
+      "inventario": "VERIFICADO",
+      "contenido": [
+        "base_oficial_disponible"
+      ],
+      "qr": "pendiente",
+      "prueba_movil": "pendiente",
+      "validacion_municipal": "pendiente"
+    },
+    "observaciones_internas": "Servicios, acceso y coordenadas pendientes."
+  },
+  {
+    "id": "H038",
+    "nombre": "Área de descanso de Los Canarios",
+    "slug": "area-descanso-los-canarios",
+    "url": "/hitos/area-descanso-los-canarios",
+    "categorias": [
+      "area_descanso"
+    ],
+    "rutas": [
+      "R08"
+    ],
+    "orden_en_rutas": {
+      "R08": null
+    },
+    "ubicacion": {
+      "texto": "Los Canarios",
+      "latitud": null,
+      "longitud": null,
+      "como_llegar_url": null
+    },
+    "contenido": {
+      "secciones": [
+        {
+          "titulo": "Qué estás viendo",
+          "visibilidad": "publica",
+          "contenido_markdown": "Espacio de descanso próximo al núcleo de Los Canarios, con vistas hacia el casco y el Volcán de San Antonio. Su fácil acceso lo convierte en una parada útil para hacer una pausa antes o después de recorrer el municipio."
+        },
+        {
+          "titulo": "Información práctica",
+          "visibilidad": "publica",
+          "contenido_markdown": "- Acceso en vehículo desde Los Canarios, según la ficha municipal.\n- Equipamiento publicado: mesas, agua potable, almacén, aseos y fogones o barbacoa.\n- Nombre abreviado en el catálogo: «A.D. Los Canarios».\n- Confirmar disponibilidad real de servicios, accesibilidad y restricciones estacionales de fuego antes de publicar."
+        }
+      ]
+    },
+    "media": {
+      "imagen_principal": null,
+      "galeria": [],
+      "estado": "oficial_provisional"
+    },
+    "fuentes": [
+      "https://turismofuencalientedelapalma.com/lugares/",
+      "https://turismofuencalientedelapalma.com/fuencaliente/los-canarios-rest-area/?lang=en"
+    ],
+    "estado": {
+      "inventario": "VERIFICADO",
+      "contenido": [
+        "base_oficial_disponible",
+        "servicios_disponibles"
+      ],
+      "qr": "pendiente",
+      "prueba_movil": "pendiente",
+      "validacion_municipal": "pendiente"
+    },
+    "observaciones_internas": "El catálogo usa A.D. Los Canarios. Confirmar nombre público en español."
+  },
+  {
+    "id": "H039",
+    "nombre": "El Pinalejo",
+    "slug": "el-pinalejo",
+    "url": "/hitos/el-pinalejo",
+    "categorias": [
+      "area_descanso"
+    ],
+    "rutas": [
+      "R08"
+    ],
+    "orden_en_rutas": {
+      "R08": null
+    },
+    "ubicacion": {
+      "texto": "Carretera LP-2, salida de Los Canarios hacia Los Llanos de Aridane",
+      "latitud": null,
+      "longitud": null,
+      "como_llegar_url": null
+    },
+    "contenido": {
+      "secciones": [
+        {
+          "titulo": "Qué estás viendo",
+          "visibilidad": "publica",
+          "contenido_markdown": "Pequeña zona de descanso situada junto a la carretera LP-2, a la salida de Los Canarios en dirección a Los Llanos de Aridane. Es una parada sencilla, pensada para descansar durante un desplazamiento por carretera."
+        },
+        {
+          "titulo": "Información práctica",
+          "visibilidad": "publica",
+          "contenido_markdown": "- Equipamiento publicado: mesas, bancos de piedra y una pequeña zona infantil.\n- Entorno de carretera: extremar la atención en accesos y movimientos con menores.\n- Coordenadas, estacionamiento, accesibilidad, conservación y disponibilidad actual del equipamiento: pendientes de comprobación."
+        }
+      ]
+    },
+    "media": {
+      "imagen_principal": null,
+      "galeria": [],
+      "estado": "oficial_provisional"
+    },
+    "fuentes": [
+      "https://turismofuencalientedelapalma.com/lugares/",
+      "https://turismofuencalientedelapalma.com/fuencaliente/el-pinalejo-rest-area/?lang=en"
+    ],
+    "estado": {
+      "inventario": "VERIFICADO",
+      "contenido": [
+        "base_oficial_disponible",
+        "servicios_disponibles"
+      ],
+      "qr": "pendiente",
+      "prueba_movil": "pendiente",
+      "validacion_municipal": "pendiente"
+    },
+    "observaciones_internas": null
+  },
+  {
+    "id": "H040",
+    "nombre": "Área recreativa de Puntalarga",
+    "slug": "area-recreativa-puntalarga",
+    "url": "/hitos/area-recreativa-puntalarga",
+    "categorias": [
+      "area_recreativa"
+    ],
+    "rutas": [
+      "R08"
+    ],
+    "orden_en_rutas": {
+      "R08": null
+    },
+    "ubicacion": {
+      "texto": "Puntalarga",
+      "latitud": null,
+      "longitud": null,
+      "como_llegar_url": null
+    },
+    "contenido": {
+      "secciones": [
+        {
+          "titulo": "Qué estás viendo",
+          "visibilidad": "publica",
+          "contenido_markdown": "Área de estancia vinculada directamente al litoral de Puntalarga. Su proximidad a la playa permite combinar el descanso con el descubrimiento de este pequeño enclave costero."
+        },
+        {
+          "titulo": "Información práctica",
+          "visibilidad": "publica",
+          "contenido_markdown": "- Ubicación general: Puntalarga, con acceso directo a la playa según la información municipal.\n- Capacidad publicada: aproximadamente 40 personas.\n- No confundir con la Playa de Puntalarga ni con el Mirador de Puntalarga, que tienen fichas propias.\n- Equipamiento, aparcamiento, accesibilidad, seguridad costera y funcionamiento de servicios cercanos: pendientes de validación."
+        }
+      ]
+    },
+    "media": {
+      "imagen_principal": null,
+      "galeria": [],
+      "estado": "oficial_provisional"
+    },
+    "fuentes": [
+      "https://turismofuencalientedelapalma.com/lugares/"
+    ],
+    "estado": {
+      "inventario": "VERIFICADO",
+      "contenido": [
+        "base_oficial_disponible",
+        "servicios_pendientes"
+      ],
+      "qr": "pendiente",
+      "prueba_movil": "pendiente",
+      "validacion_municipal": "pendiente"
+    },
+    "observaciones_internas": "No confundir con playa H043 ni mirador H010."
+  },
+  {
+    "id": "H041",
+    "nombre": "Área recreativa Llano del Tanque",
+    "slug": "area-recreativa-llano-tanque",
+    "url": "/hitos/area-recreativa-llano-tanque",
+    "categorias": [
+      "area_recreativa"
+    ],
+    "rutas": [
+      "R08"
+    ],
+    "orden_en_rutas": {
+      "R08": null
+    },
+    "ubicacion": {
+      "texto": "Llano del Tanque",
+      "latitud": null,
+      "longitud": null,
+      "como_llegar_url": null
+    },
+    "contenido": {
+      "secciones": [
+        {
+          "titulo": "Qué estás viendo",
+          "visibilidad": "publica",
+          "contenido_markdown": "Zona recreativa próxima al Pino de la Virgen. La Cruz del Llano del Tanque vincula además este espacio con la tradición de las cruces de mayo y añade una lectura cultural al uso recreativo del lugar."
+        },
+        {
+          "titulo": "Información práctica",
+          "visibilidad": "publica",
+          "contenido_markdown": "- Equipamiento publicado: mesas, aparcamiento, zona infantil, almacén, aseos, agua potable y fogones o barbacoa.\n- Consultar prohibiciones y restricciones por riesgo de incendio.\n- Coordenadas, acceso exacto, aforo, accesibilidad y disponibilidad de los servicios: pendientes de revisión."
+        }
+      ]
+    },
+    "media": {
+      "imagen_principal": null,
+      "galeria": [],
+      "estado": "oficial_provisional"
+    },
+    "fuentes": [
+      "https://turismofuencalientedelapalma.com/lugares/"
+    ],
+    "estado": {
+      "inventario": "VERIFICADO",
+      "contenido": [
+        "base_oficial_disponible",
+        "servicios_pendientes"
+      ],
+      "qr": "pendiente",
+      "prueba_movil": "pendiente",
+      "validacion_municipal": "pendiente"
+    },
+    "observaciones_internas": null
+  },
+  {
+    "id": "H042",
+    "nombre": "Playa de Las Cabras",
+    "slug": "playa-las-cabras",
+    "url": "/hitos/playa-las-cabras",
+    "categorias": [
+      "playa"
+    ],
+    "rutas": [
+      "R09"
+    ],
+    "orden_en_rutas": {
+      "R09": null
+    },
+    "ubicacion": {
+      "texto": "Costa de Fuencaliente",
+      "latitud": null,
+      "longitud": null,
+      "como_llegar_url": null
+    },
+    "contenido": {
+      "secciones": [
+        {
+          "titulo": "Qué estás viendo",
+          "visibilidad": "publica",
+          "contenido_markdown": "Pequeña cala de arena oscura en la costa sureste de Fuencaliente. El paisaje combina el océano con relieves volcánicos y conserva un carácter apartado."
+        },
+        {
+          "titulo": "Información práctica",
+          "visibilidad": "publica",
+          "contenido_markdown": "- La ficha municipal describe oleaje moderado y acceso por pista de tierra.\n- El Ayuntamiento recomienda vehículo todoterreno para el acceso rodado.\n- No interpretar esa recomendación como garantía de transitabilidad.\n- Estado de la pista, aparcamiento, cobertura, socorrismo, mareas, baño y accesibilidad: deben consultarse y validarse antes de la visita."
+        }
+      ]
+    },
+    "media": {
+      "imagen_principal": null,
+      "galeria": [],
+      "estado": "oficial_provisional"
+    },
+    "fuentes": [
+      "https://turismofuencalientedelapalma.com/playas/"
+    ],
+    "estado": {
+      "inventario": "VERIFICADO",
+      "contenido": [
+        "base_oficial_disponible",
+        "seguridad_dinamica_pendiente"
+      ],
+      "qr": "pendiente",
+      "prueba_movil": "pendiente",
+      "validacion_municipal": "pendiente"
+    },
+    "observaciones_internas": null
+  },
+  {
+    "id": "H043",
+    "nombre": "Puntalarga",
+    "slug": "playa-puntalarga",
+    "url": "/hitos/playa-puntalarga",
+    "categorias": [
+      "playa",
+      "nucleo_costero"
+    ],
+    "rutas": [
+      "R09"
+    ],
+    "orden_en_rutas": {
+      "R09": null
+    },
+    "ubicacion": {
+      "texto": "Puntalarga",
+      "latitud": null,
+      "longitud": null,
+      "como_llegar_url": null
+    },
+    "contenido": {
+      "secciones": [
+        {
+          "titulo": "Qué estás viendo",
+          "visibilidad": "publica",
+          "contenido_markdown": "Pequeña bahía de arena y callao, protegida parcialmente por rocas y vinculada a un núcleo de tradición pesquera. La información municipal estima unas dimensiones aproximadas de 100 metros de largo por 20 de ancho y menciona un pequeño charco junto a la costa."
+        },
+        {
+          "titulo": "Información práctica",
+          "visibilidad": "publica",
+          "contenido_markdown": "- Entorno con casetas de pescadores y área recreativa.\n- La presencia y horario de restauración son datos dinámicos.\n- No confundir la playa con el área recreativa ni con el mirador del mismo nombre.\n- Acceso, aparcamiento, oleaje, mareas, socorrismo y accesibilidad: consultar antes de acudir."
+        }
+      ]
+    },
+    "media": {
+      "imagen_principal": null,
+      "galeria": [],
+      "estado": "oficial_provisional"
+    },
+    "fuentes": [
+      "https://turismofuencalientedelapalma.com/playas/"
+    ],
+    "estado": {
+      "inventario": "VERIFICADO",
+      "contenido": [
+        "base_oficial_disponible",
+        "seguridad_dinamica_pendiente"
+      ],
+      "qr": "pendiente",
+      "prueba_movil": "pendiente",
+      "validacion_municipal": "pendiente"
+    },
+    "observaciones_internas": "Confirmar si el nombre público debe ser Playa de Puntalarga."
+  },
+  {
+    "id": "H044",
+    "nombre": "El Puertito",
+    "slug": "el-puertito",
+    "url": "/hitos/el-puertito",
+    "categorias": [
+      "playa",
+      "nucleo_costero"
+    ],
+    "rutas": [
+      "R09"
+    ],
+    "orden_en_rutas": {
+      "R09": null
+    },
+    "ubicacion": {
+      "texto": "El Puertito",
+      "latitud": null,
+      "longitud": null,
+      "como_llegar_url": null
+    },
+    "contenido": {
+      "secciones": [
+        {
+          "titulo": "Qué estás viendo",
+          "visibilidad": "publica",
+          "contenido_markdown": "Enclave costero del sureste, de callaos y paisaje volcánico, al que se llega descendiendo una ladera pronunciada. En la playa se conservan antiguos secaderos de chochos, conocidos también como percheles, que aportan una lectura etnográfica al lugar."
+        },
+        {
+          "titulo": "Información práctica",
+          "visibilidad": "publica",
+          "contenido_markdown": "- Acceso descrito por la fuente municipal: a pie o en vehículo todoterreno.\n- Zona expuesta al viento; las condiciones pueden cambiar con rapidez.\n- El sendero T.5 conecta Los Canarios con El Puertito, pero su estado debe comprobarse.\n- Pista, aparcamiento, baño, mareas, cobertura, rescate y accesibilidad: pendientes de información actualizada."
+        }
+      ]
+    },
+    "media": {
+      "imagen_principal": null,
+      "galeria": [],
+      "estado": "oficial_provisional"
+    },
+    "fuentes": [
+      "https://turismofuencalientedelapalma.com/playas/"
+    ],
+    "estado": {
+      "inventario": "VERIFICADO",
+      "contenido": [
+        "base_oficial_disponible",
+        "seguridad_dinamica_pendiente"
+      ],
+      "qr": "pendiente",
+      "prueba_movil": "pendiente",
+      "validacion_municipal": "pendiente"
+    },
+    "observaciones_internas": null
+  },
+  {
+    "id": "H045",
+    "nombre": "La Zamora",
+    "slug": "playa-la-zamora",
+    "url": "/hitos/playa-la-zamora",
+    "categorias": [
+      "playa"
+    ],
+    "rutas": [
+      "R09"
+    ],
+    "orden_en_rutas": {
+      "R09": null
+    },
+    "ubicacion": {
+      "texto": "La Zamora",
+      "latitud": null,
+      "longitud": null,
+      "como_llegar_url": null
+    },
+    "contenido": {
+      "secciones": [
+        {
+          "titulo": "Qué estás viendo",
+          "visibilidad": "publica",
+          "contenido_markdown": "Playa de arena negra situada bajo el acantilado en la vertiente occidental de Fuencaliente. Un conjunto de rocas marinas protege parcialmente su abertura y el arenal se distribuye en dos sectores conocidos como Zamora Chica y Zamora Grande."
+        },
+        {
+          "titulo": "Información práctica",
+          "visibilidad": "publica",
+          "contenido_markdown": "- Dimensiones aproximadas publicadas: 150 metros de largo y 15 de ancho.\n- Acceso por carretera a través de Las Indias, según la ficha turística.\n- No confundir esta playa con el Mirador de La Zamora.\n- Estado del acceso, aparcamiento, oleaje, mareas, desprendimientos, socorrismo y accesibilidad: información dinámica que debe comprobarse."
+        }
+      ]
+    },
+    "media": {
+      "imagen_principal": null,
+      "galeria": [],
+      "estado": "oficial_provisional"
+    },
+    "fuentes": [
+      "https://turismofuencalientedelapalma.com/playas/"
+    ],
+    "estado": {
+      "inventario": "VERIFICADO",
+      "contenido": [
+        "base_oficial_disponible",
+        "seguridad_dinamica_pendiente"
+      ],
+      "qr": "pendiente",
+      "prueba_movil": "pendiente",
+      "validacion_municipal": "pendiente"
+    },
+    "observaciones_internas": "No confundir con mirador H008."
+  },
+  {
+    "id": "H046",
+    "nombre": "Iglesia de Santa Cecilia",
+    "slug": "iglesia-santa-cecilia",
+    "url": "/hitos/iglesia-santa-cecilia",
+    "categorias": [
+      "iglesia",
+      "patrimonio"
+    ],
+    "rutas": [
+      "R10"
+    ],
+    "orden_en_rutas": {
+      "R10": null
+    },
+    "ubicacion": {
+      "texto": "Fuencaliente de La Palma",
+      "latitud": null,
+      "longitud": null,
+      "como_llegar_url": null
+    },
+    "contenido": {
+      "secciones": [
+        {
+          "titulo": "Qué estás viendo",
+          "visibilidad": "publica",
+          "contenido_markdown": "Templo de planta circular situado en El Charco y rodeado por el paisaje de las coladas de 1712. Su origen se vincula a José Miguel de Sotomayor, quien promovió la construcción en recuerdo de su esposa, Cecilia Narváez Oliván."
+        },
+        {
+          "titulo": "Conoce este lugar",
+          "visibilidad": "publica",
+          "contenido_markdown": "La iglesia fue levantada entre 1948 y 1949 junto a una pequeña escuela. En su interior destaca un retablo de inspiración neogótica. La festividad de Santa Cecilia se asocia tradicionalmente al 22 de noviembre, aunque cualquier acto o concierto debe consultarse en la programación anual."
+        },
+        {
+          "titulo": "Información práctica",
+          "visibilidad": "publica",
+          "contenido_markdown": "- Ubicación: El Charco.\n- Horario de culto, visita interior, accesibilidad y estacionamiento: pendientes de confirmación."
+        }
+      ]
+    },
+    "media": {
+      "imagen_principal": null,
+      "galeria": [],
+      "estado": "oficial_provisional"
+    },
+    "fuentes": [
+      "https://turismofuencalientedelapalma.com/lugares/"
+    ],
+    "estado": {
+      "inventario": "VERIFICADO",
+      "contenido": [
+        "base_oficial_disponible"
+      ],
+      "qr": "pendiente",
+      "prueba_movil": "pendiente",
+      "validacion_municipal": "pendiente"
+    },
+    "observaciones_internas": null
+  },
+  {
+    "id": "H047",
+    "nombre": "Iglesia Nuestra Señora Madre de la Iglesia",
+    "slug": "iglesia-nuestra-senora-madre",
+    "url": "/hitos/iglesia-nuestra-senora-madre",
+    "categorias": [
+      "iglesia",
+      "patrimonio"
+    ],
+    "rutas": [
+      "R10"
+    ],
+    "orden_en_rutas": {
+      "R10": null
+    },
+    "ubicacion": {
+      "texto": "Las Indias",
+      "latitud": null,
+      "longitud": null,
+      "como_llegar_url": null
+    },
+    "contenido": {
+      "secciones": [
+        {
+          "titulo": "Qué estás viendo",
+          "visibilidad": "publica",
+          "contenido_markdown": "Iglesia de lenguaje moderno y funcional situada en Las Indias. Su historia está vinculada al esfuerzo comunitario de vecinos de Las Indias y Los Quemados, que impulsaron la creación de un nuevo espacio religioso para la zona."
+        },
+        {
+          "titulo": "Conoce este lugar",
+          "visibilidad": "publica",
+          "contenido_markdown": "La iniciativa comenzó en diciembre de 1975 y el proyecto fue elaborado por los arquitectos Hernández Cabrera y Cabrera Núñez. La ficha definitiva puede ampliarse con fechas de obra, arte interior y testimonios vecinales una vez validados."
+        },
+        {
+          "titulo": "Información práctica",
+          "visibilidad": "publica",
+          "contenido_markdown": "- Ubicación general: Las Indias.\n- Horario de culto, apertura, accesibilidad, aparcamiento y denominación litúrgica completa: pendientes de confirmación."
+        }
+      ]
+    },
+    "media": {
+      "imagen_principal": null,
+      "galeria": [],
+      "estado": "oficial_disponible"
+    },
+    "fuentes": [
+      "https://turismofuencalientedelapalma.com/fuencaliente/iglesia-madre-iglesia/"
+    ],
+    "estado": {
+      "inventario": "VERIFICADO",
+      "contenido": [
+        "base_oficial_disponible"
+      ],
+      "qr": "pendiente",
+      "prueba_movil": "pendiente",
+      "validacion_municipal": "pendiente"
+    },
+    "observaciones_internas": null
+  },
+  {
+    "id": "H048",
+    "nombre": "Iglesia de San Antonio Abad",
+    "slug": "iglesia-san-antonio-abad",
+    "url": "/hitos/iglesia-san-antonio-abad",
+    "categorias": [
+      "iglesia",
+      "bien_interes_cultural"
+    ],
+    "rutas": [
+      "R10"
+    ],
+    "orden_en_rutas": {
+      "R10": null
+    },
+    "ubicacion": {
+      "texto": "Los Canarios",
+      "latitud": null,
+      "longitud": null,
+      "como_llegar_url": null
+    },
+    "contenido": {
+      "secciones": [
+        {
+          "titulo": "Qué estás viendo",
+          "visibilidad": "publica",
+          "contenido_markdown": "La Iglesia de San Antonio Abad es la principal construcción religiosa de Fuencaliente y uno de sus bienes patrimoniales más destacados. Su historia se remonta al siglo XVI y refleja el crecimiento de la comunidad de Los Canarios y su proceso de independencia parroquial."
+        },
+        {
+          "titulo": "Conoce este lugar",
+          "visibilidad": "publica",
+          "contenido_markdown": "La iglesia aparece documentada desde 1576, cuando funcionaba como ermita vinculada a la parroquia de Mazo. La creación de la parroquia de San Antonio Abad se resolvió en 1832, después de las peticiones de los vecinos motivadas por la distancia que los separaba de los servicios religiosos.\n\nEl edificio fue transformándose y ampliándose durante los siglos XVIII y XIX. En su imagen actual destacan la construcción de un solo cuerpo, la espadaña de cantería y los arcos de piedra de sus accesos. El campanario data de 1866 y los frescos del techo del presbiterio fueron realizados por Ubaldo Bordanova Moreno en 1904.\n\nEn el interior se conservan varias tallas de interés, entre ellas el Cristo del Entierro, el grupo del Calvario, la Virgen del Carmen y dos imágenes de San Antonio Abad. El inmueble fue declarado Bien de Interés Cultural con categoría de monumento en 1996."
+        },
+        {
+          "titulo": "Información práctica",
+          "visibilidad": "publica",
+          "contenido_markdown": "- **Ubicación:** Los Canarios.\n- **Protección:** Bien de Interés Cultural, categoría de monumento.\n- **Horario de visita:** pendiente de confirmación.\n- **Coordenadas:** pendientes de validación cartográfica."
+        },
+        {
+          "titulo": "Recomendaciones",
+          "visibilidad": "publica",
+          "contenido_markdown": "- Respetar el uso religioso y el desarrollo de celebraciones.\n- Mantener silencio durante la visita.\n- Consultar previamente si el interior se encuentra abierto."
+        },
+        {
+          "titulo": "Control interno",
+          "visibilidad": "interna",
+          "contenido_markdown": "- Relacionar con El Caminante, situado en sus inmediaciones y junto al paso del GR-131.\n- Confirmar si se permite fotografía interior."
+        },
+        {
+          "titulo": "Fuentes de trabajo",
+          "visibilidad": "interna",
+          "contenido_markdown": "- Turismo de Fuencaliente: https://turismofuencalientedelapalma.com/fuencaliente/iglesia-de-san-antonio/"
+        }
+      ]
+    },
+    "media": {
+      "imagen_principal": null,
+      "galeria": [],
+      "estado": "oficial_disponible"
+    },
+    "fuentes": [
+      "https://turismofuencalientedelapalma.com/fuencaliente/iglesia-de-san-antonio/"
+    ],
+    "estado": {
+      "inventario": "VERIFICADO",
+      "contenido": [
+        "base_oficial_amplia_disponible"
+      ],
+      "qr": "pendiente",
+      "prueba_movil": "pendiente",
+      "validacion_municipal": "pendiente"
+    },
+    "observaciones_internas": null
+  },
+  {
+    "id": "H049",
+    "nombre": "Centro Cultural de Los Canarios",
+    "slug": "centro-cultural-los-canarios",
+    "url": "/hitos/centro-cultural-los-canarios",
+    "categorias": [
+      "centro_cultural"
+    ],
+    "rutas": [
+      "R10"
+    ],
+    "orden_en_rutas": {
+      "R10": null
+    },
+    "ubicacion": {
+      "texto": "Los Canarios",
+      "latitud": null,
+      "longitud": null,
+      "como_llegar_url": null
+    },
+    "contenido": {
+      "secciones": [
+        {
+          "titulo": "Qué estás viendo",
+          "visibilidad": "publica",
+          "contenido_markdown": "Equipamiento cultural del principal núcleo de Fuencaliente. Su inclusión permite que la ruta digital conecte el patrimonio permanente con la actividad social y cultural contemporánea del municipio."
+        },
+        {
+          "titulo": "Información práctica",
+          "visibilidad": "publica",
+          "contenido_markdown": "- Ubicación general: Los Canarios.\n- La programación, apertura y condiciones de acceso dependen de cada actividad.\n- La ficha de demo no presupone que sea un espacio turístico de visita libre.\n- Nombre oficial completo, dirección, funciones, historia del edificio, accesibilidad y contacto: pendientes de validación municipal."
+        }
+      ]
+    },
+    "media": {
+      "imagen_principal": null,
+      "galeria": [],
+      "estado": "placeholder"
+    },
+    "fuentes": [
+      "https://turismofuencalientedelapalma.com/lugares/"
+    ],
+    "estado": {
+      "inventario": "VERIFICADO",
+      "contenido": [
+        "base_oficial_disponible"
+      ],
+      "qr": "pendiente",
+      "prueba_movil": "pendiente",
+      "validacion_municipal": "pendiente"
+    },
+    "observaciones_internas": "Contenido turístico específico pendiente."
+  },
+  {
+    "id": "H050",
+    "nombre": "Centro Cultural de Las Indias",
+    "slug": "centro-cultural-las-indias",
+    "url": "/hitos/centro-cultural-las-indias",
+    "categorias": [
+      "centro_cultural"
+    ],
+    "rutas": [
+      "R10"
+    ],
+    "orden_en_rutas": {
+      "R10": null
+    },
+    "ubicacion": {
+      "texto": "Las Indias",
+      "latitud": null,
+      "longitud": null,
+      "como_llegar_url": null
+    },
+    "contenido": {
+      "secciones": [
+        {
+          "titulo": "Qué estás viendo",
+          "visibilidad": "publica",
+          "contenido_markdown": "Espacio cultural y comunitario de Las Indias. Dentro de la demo actúa como punto de conexión con la vida vecinal y con las actividades temporales que puedan celebrarse en el barrio."
+        },
+        {
+          "titulo": "Información práctica",
+          "visibilidad": "publica",
+          "contenido_markdown": "- Ubicación general: Las Indias.\n- No presentar el edificio como museo ni como espacio abierto permanentemente.\n- Agenda, horarios, dirección exacta, contacto, accesibilidad, servicios y contenido histórico: pendientes de información municipal."
+        }
+      ]
+    },
+    "media": {
+      "imagen_principal": null,
+      "galeria": [],
+      "estado": "placeholder"
+    },
+    "fuentes": [
+      "https://turismofuencalientedelapalma.com/lugares/"
+    ],
+    "estado": {
+      "inventario": "VERIFICADO",
+      "contenido": [
+        "base_oficial_disponible"
+      ],
+      "qr": "pendiente",
+      "prueba_movil": "pendiente",
+      "validacion_municipal": "pendiente"
+    },
+    "observaciones_internas": "Contenido turístico específico pendiente."
+  },
+  {
+    "id": "H051",
+    "nombre": "Centro Social de Los Quemados",
+    "slug": "centro-social-los-quemados",
+    "url": "/hitos/centro-social-los-quemados",
+    "categorias": [
+      "centro_cultural"
+    ],
+    "rutas": [
+      "R10"
+    ],
+    "orden_en_rutas": {
+      "R10": null
+    },
+    "ubicacion": {
+      "texto": "Los Quemados",
+      "latitud": null,
+      "longitud": null,
+      "como_llegar_url": null
+    },
+    "contenido": {
+      "secciones": [
+        {
+          "titulo": "Qué estás viendo",
+          "visibilidad": "publica",
+          "contenido_markdown": "Equipamiento social del barrio de Los Quemados. Su presencia en el inventario reconoce que la cultura local también se expresa en espacios de encuentro, asociaciones y actividades comunitarias."
+        },
+        {
+          "titulo": "Información práctica",
+          "visibilidad": "publica",
+          "contenido_markdown": "- Denominación abreviada en el catálogo turístico: «C.S. Los Quemados».\n- La visita dependerá de la actividad programada y de las normas del centro.\n- Confirmar denominación oficial, dirección, funciones, agenda, accesibilidad y pertinencia definitiva dentro de la ruta turística."
+        }
+      ]
+    },
+    "media": {
+      "imagen_principal": null,
+      "galeria": [],
+      "estado": "placeholder"
+    },
+    "fuentes": [
+      "https://turismofuencalientedelapalma.com/lugares/"
+    ],
+    "estado": {
+      "inventario": "VERIFICADO",
+      "contenido": [
+        "base_oficial_disponible"
+      ],
+      "qr": "pendiente",
+      "prueba_movil": "pendiente",
+      "validacion_municipal": "pendiente"
+    },
+    "observaciones_internas": "El catálogo usa C.S. Los Quemados. Confirmar denominación exacta y pertinencia turística."
+  },
+  {
+    "id": "H052",
+    "nombre": "Centro de Interpretación de la Reserva Marina",
+    "slug": "centro-interpretacion-reserva-marina",
+    "url": "/hitos/centro-interpretacion-reserva-marina",
+    "categorias": [
+      "centro_interpretacion"
+    ],
+    "rutas": [
+      "R10"
+    ],
+    "orden_en_rutas": {
+      "R10": null
+    },
+    "ubicacion": {
+      "texto": "Faro antiguo de Fuencaliente",
+      "latitud": null,
+      "longitud": null,
+      "como_llegar_url": null
+    },
+    "contenido": {
+      "secciones": [
+        {
+          "titulo": "Qué estás viendo",
+          "visibilidad": "publica",
+          "contenido_markdown": "Centro situado en el antiguo faro de Fuencaliente y dedicado a acercar al visitante el valor del medio marino del sur de La Palma. La restauración del faro histórico permitió dar un nuevo uso cultural a este elemento del patrimonio marítimo."
+        },
+        {
+          "titulo": "Conoce este lugar",
+          "visibilidad": "publica",
+          "contenido_markdown": "Su ubicación junto a las salinas y los dos faros facilita una lectura conjunta de navegación, actividad humana y conservación del litoral. La página turística municipal señala que el faro antiguo fue restaurado en 2006 para albergar este centro."
+        },
+        {
+          "titulo": "Información práctica",
+          "visibilidad": "publica",
+          "contenido_markdown": "- Ubicación: faro histórico de Fuencaliente.\n- Situación operativa, contenidos expositivos, horario, precio, accesibilidad y reservas: deben confirmarse antes de publicar."
+        }
+      ]
+    },
+    "media": {
+      "imagen_principal": null,
+      "galeria": [],
+      "estado": "oficial_provisional"
+    },
+    "fuentes": [
+      "https://turismofuencalientedelapalma.com/fuencaliente/centros-y-museos/"
+    ],
+    "estado": {
+      "inventario": "VERIFICADO",
+      "contenido": [
+        "base_oficial_disponible",
+        "horarios_dinamicos"
+      ],
+      "qr": "pendiente",
+      "prueba_movil": "pendiente",
+      "validacion_municipal": "pendiente"
+    },
+    "observaciones_internas": "Confirmar situación operativa y horario antes de publicar."
+  },
+  {
+    "id": "H053",
+    "nombre": "Centro de Artesanía Artesol",
+    "slug": "centro-artesania-artesol",
+    "url": "/hitos/centro-artesania-artesol",
+    "categorias": [
+      "centro_artesania"
+    ],
+    "rutas": [
+      "R10"
+    ],
+    "orden_en_rutas": {
+      "R10": null
+    },
+    "ubicacion": {
+      "texto": "Fuencaliente de La Palma",
+      "latitud": null,
+      "longitud": null,
+      "como_llegar_url": null
+    },
+    "contenido": {
+      "secciones": [
+        {
+          "titulo": "Qué estás viendo",
+          "visibilidad": "publica",
+          "contenido_markdown": "Espacio dedicado a mostrar y acercar la artesanía local en Los Canarios. La ficha permite integrar oficios, técnicas y piezas elaboradas en la isla dentro del relato cultural de Fuencaliente."
+        },
+        {
+          "titulo": "Conoce este lugar",
+          "visibilidad": "publica",
+          "contenido_markdown": "Artesol puede funcionar como escaparate del trabajo artesano y como punto de contacto con creadores y productos locales. La versión definitiva deberá concretar qué disciplinas y servicios se ofrecen actualmente, evitando presentar como permanente una programación cambiante."
+        },
+        {
+          "titulo": "Información práctica",
+          "visibilidad": "publica",
+          "contenido_markdown": "- Ubicación general: carretera general, Los Canarios.\n- Existen discrepancias entre fuentes sobre el número exacto de la dirección.\n- Apertura, ventas, talleres, contacto, accesibilidad y dirección completa: pendientes de confirmación."
+        }
+      ]
+    },
+    "media": {
+      "imagen_principal": null,
+      "galeria": [],
+      "estado": "oficial_provisional"
+    },
+    "fuentes": [
+      "https://turismofuencalientedelapalma.com/fuencaliente/centros-y-museos/"
+    ],
+    "estado": {
+      "inventario": "VERIFICADO",
+      "contenido": [
+        "base_oficial_disponible",
+        "horarios_dinamicos"
+      ],
+      "qr": "pendiente",
+      "prueba_movil": "pendiente",
+      "validacion_municipal": "pendiente"
+    },
+    "observaciones_internas": "Confirmar situación operativa y horario antes de publicar."
+  },
+  {
+    "id": "H054",
+    "nombre": "D.O.P. Vinos La Palma",
+    "slug": "dop-vinos-la-palma",
+    "url": "/hitos/dop-vinos-la-palma",
+    "categorias": [
+      "centro_vitivinicola"
+    ],
+    "rutas": [
+      "R10",
+      "R11"
+    ],
+    "orden_en_rutas": {
+      "R10": null,
+      "R11": null
+    },
+    "ubicacion": {
+      "texto": "Fuencaliente de La Palma",
+      "latitud": null,
+      "longitud": null,
+      "como_llegar_url": null
+    },
+    "contenido": {
+      "secciones": [
+        {
+          "titulo": "Qué estás viendo",
+          "visibilidad": "publica",
+          "contenido_markdown": "La Denominación de Origen Protegida Vinos La Palma representa el sistema de reconocimiento y control de los vinos elaborados bajo sus condiciones. Su presencia en Fuencaliente permite introducir variedades locales, territorio, elaboración y protección del patrimonio vitivinícola."
+        },
+        {
+          "titulo": "Información práctica",
+          "visibilidad": "publica",
+          "contenido_markdown": "- Función concreta del punto, dirección, atención al público y horarios: pendientes de confirmación directa.\n- No presentar el lugar como museo o bodega visitable sin validación."
+        },
+        {
+          "titulo": "Pendiente",
+          "visibilidad": "interna",
+          "contenido_markdown": "Nombre institucional completo, servicios al visitante, contacto y fotografías autorizadas."
+        }
+      ]
+    },
+    "media": {
+      "imagen_principal": null,
+      "galeria": [],
+      "estado": "oficial_provisional"
+    },
+    "fuentes": [
+      "https://turismofuencalientedelapalma.com/fuencaliente/centros-y-museos/"
+    ],
+    "estado": {
+      "inventario": "VERIFICADO",
+      "contenido": [
+        "base_oficial_disponible",
+        "horarios_dinamicos"
+      ],
+      "qr": "pendiente",
+      "prueba_movil": "pendiente",
+      "validacion_municipal": "pendiente"
+    },
+    "observaciones_internas": "Pertenencia a R11 propuesta. Confirmar nombre institucional y función que se mostrará."
+  },
+  {
+    "id": "H055",
+    "nombre": "Bodegas Carballo",
+    "slug": "bodegas-carballo",
+    "url": "/hitos/bodegas-carballo",
+    "categorias": [
+      "bodega"
+    ],
+    "rutas": [
+      "R11"
+    ],
+    "orden_en_rutas": {
+      "R11": null
+    },
+    "ubicacion": {
+      "texto": "Fuencaliente de La Palma",
+      "latitud": null,
+      "longitud": null,
+      "como_llegar_url": null
+    },
+    "contenido": {
+      "secciones": [
+        {
+          "titulo": "Qué estás viendo",
+          "visibilidad": "publica",
+          "contenido_markdown": "Bodegas Carballo es un proyecto familiar formalizado en 1989, aunque su vínculo con la viticultura se remonta, según la información municipal, a finales del siglo XIX. Su historia está estrechamente relacionada con los viñedos de Llanos Negros."
+        },
+        {
+          "titulo": "Conoce este lugar",
+          "visibilidad": "publica",
+          "contenido_markdown": "La bodega permite interpretar la continuidad entre cultivo familiar, paisaje volcánico y elaboración de vino. Su ficha debe centrarse en esa trayectoria y en la relación con el territorio, evitando incorporar catálogos, premios o condiciones de visita que no hayan sido actualizados."
+        },
+        {
+          "titulo": "Información práctica",
+          "visibilidad": "publica",
+          "contenido_markdown": "- Dirección, visitas, degustación, venta y accesibilidad: pendientes de confirmación con la bodega.\n- Coordenadas: pendientes de validación."
+        }
+      ]
+    },
+    "media": {
+      "imagen_principal": null,
+      "galeria": [],
+      "estado": "oficial_disponible"
+    },
+    "fuentes": [
+      "https://turismofuencalientedelapalma.com/enoturismo/"
+    ],
+    "estado": {
+      "inventario": "VERIFICADO",
+      "contenido": [
+        "base_oficial_disponible",
+        "visitas_y_horarios_dinamicos"
+      ],
+      "qr": "pendiente",
+      "prueba_movil": "pendiente",
+      "validacion_municipal": "pendiente"
+    },
+    "observaciones_internas": null
+  },
+  {
+    "id": "H056",
+    "nombre": "Bodegas Teneguía",
+    "slug": "bodegas-teneguia",
+    "url": "/hitos/bodegas-teneguia",
+    "categorias": [
+      "bodega"
+    ],
+    "rutas": [
+      "R11"
+    ],
+    "orden_en_rutas": {
+      "R11": null
+    },
+    "ubicacion": {
+      "texto": "Los Canarios",
+      "latitud": null,
+      "longitud": null,
+      "como_llegar_url": null
+    },
+    "contenido": {
+      "secciones": [
+        {
+          "titulo": "Qué estás viendo",
+          "visibilidad": "publica",
+          "contenido_markdown": "Bodegas Teneguía recoge la tradición vitivinícola de Fuencaliente y el trabajo de generaciones que han cultivado la vid en terrenos volcánicos. Fundada como cooperativa en 1947, es uno de los principales referentes del vino del municipio y de la conservación de variedades tradicionales."
+        },
+        {
+          "titulo": "Conoce este lugar",
+          "visibilidad": "publica",
+          "contenido_markdown": "La historia de Bodegas Teneguía está vinculada a la adaptación de la población de Fuencaliente a un territorio marcado por el volcanismo, la escasez de agua y las pendientes. La cooperativa nació en 1947 y reúne el conocimiento acumulado por familias dedicadas al cultivo y a la elaboración de vino.\n\nEntre las variedades asociadas al sur de La Palma destaca la malvasía aromática, cultivada tradicionalmente sobre suelos cubiertos de picón. Este material volcánico ayuda a conservar la humedad y forma parte de un paisaje agrícola muy reconocible. El trabajo en viñedos de difícil acceso y la vendimia manual explican parte del valor cultural de estos vinos, más allá de su elaboración.\n\nLa bodega permite relacionar patrimonio agrícola, paisaje volcánico, economía local y cultura del vino dentro de una misma parada."
+        },
+        {
+          "titulo": "Información práctica",
+          "visibilidad": "publica",
+          "contenido_markdown": "- **Dirección publicada:** calle Antonio Francisco Hernández Santos, 10, Los Canarios.\n- **Visitas, venta y degustación:** consultar directamente con la bodega; los horarios y precios publicados pueden cambiar.\n- **Coordenadas:** pendientes de validación cartográfica.\n- **Accesibilidad:** pendiente de confirmar."
+        },
+        {
+          "titulo": "Recomendaciones",
+          "visibilidad": "publica",
+          "contenido_markdown": "- Confirmar previamente la disponibilidad de visitas.\n- El consumo de alcohol debe ser responsable y está reservado a personas adultas.\n- Si se continúa una ruta en vehículo, designar una persona conductora que no consuma alcohol."
+        },
+        {
+          "titulo": "Control interno",
+          "visibilidad": "interna",
+          "contenido_markdown": "- La demo puede reutilizar provisionalmente el material ya existente en la página Caminarte de Bodegas Teneguía, comprobando autoría y vigencia.\n- No publicar horarios, precios o número de familias socias sin actualización y fecha."
+        },
+        {
+          "titulo": "Fuentes de trabajo",
+          "visibilidad": "interna",
+          "contenido_markdown": "- Turismo de Fuencaliente, enoturismo: https://turismofuencalientedelapalma.com/enoturismo/\n- Turismo de Fuencaliente, ficha de la bodega: https://turismofuencalientedelapalma.com/fuencaliente/bodegas-teneguia/\n- Referencia funcional Caminarte: https://herrumbrevivo.github.io/bodegas-teneguia/"
+        }
+      ]
+    },
+    "media": {
+      "imagen_principal": null,
+      "galeria": [],
+      "estado": "oficial_disponible"
+    },
+    "fuentes": [
+      "https://turismofuencalientedelapalma.com/enoturismo/"
+    ],
+    "estado": {
+      "inventario": "VERIFICADO",
+      "contenido": [
+        "base_oficial_disponible",
+        "visitas_y_horarios_dinamicos"
+      ],
+      "qr": "pendiente",
+      "prueba_movil": "pendiente",
+      "validacion_municipal": "pendiente"
+    },
+    "observaciones_internas": null
+  },
+  {
+    "id": "H057",
+    "nombre": "Bodega Victoria Torres",
+    "slug": "bodega-victoria-torres",
+    "url": "/hitos/bodega-victoria-torres",
+    "categorias": [
+      "bodega"
+    ],
+    "rutas": [
+      "R11"
+    ],
+    "orden_en_rutas": {
+      "R11": null
+    },
+    "ubicacion": {
+      "texto": "Fuencaliente de La Palma",
+      "latitud": null,
+      "longitud": null,
+      "como_llegar_url": null
+    },
+    "contenido": {
+      "secciones": [
+        {
+          "titulo": "Qué estás viendo",
+          "visibilidad": "publica",
+          "contenido_markdown": "Bodega Victoria Torres es una pequeña bodega familiar en la que coinciden varias generaciones dedicadas al cultivo de la vid y a la elaboración de vino. La información turística municipal sitúa el inicio de esta etapa familiar en 1975."
+        },
+        {
+          "titulo": "Conoce este lugar",
+          "visibilidad": "publica",
+          "contenido_markdown": "Su incorporación permite mostrar la escala artesanal y familiar de parte de la viticultura de Fuencaliente. La ficha definitiva debe construirse con información facilitada por la propia bodega sobre viñedos, variedades, forma de elaboración y posibilidades reales de visita."
+        },
+        {
+          "titulo": "Información práctica",
+          "visibilidad": "publica",
+          "contenido_markdown": "- Visitas, venta, contacto, dirección y accesibilidad: pendientes de confirmación directa.\n- No acudir sin cita mientras no se publique expresamente lo contrario."
+        }
+      ]
+    },
+    "media": {
+      "imagen_principal": null,
+      "galeria": [],
+      "estado": "oficial_disponible"
+    },
+    "fuentes": [
+      "https://turismofuencalientedelapalma.com/enoturismo/"
+    ],
+    "estado": {
+      "inventario": "VERIFICADO",
+      "contenido": [
+        "base_oficial_disponible",
+        "visitas_y_horarios_dinamicos"
+      ],
+      "qr": "pendiente",
+      "prueba_movil": "pendiente",
+      "validacion_municipal": "pendiente"
+    },
+    "observaciones_internas": null
+  },
+  {
+    "id": "H058",
+    "nombre": "Mil7ochentaynueve",
+    "slug": "mil7ochentaynueve",
+    "url": "/hitos/mil7ochentaynueve",
+    "categorias": [
+      "bodega"
+    ],
+    "rutas": [
+      "R11"
+    ],
+    "orden_en_rutas": {
+      "R11": null
+    },
+    "ubicacion": {
+      "texto": "Calle Esteban Acosta Gómez, Los Canarios",
+      "latitud": null,
+      "longitud": null,
+      "como_llegar_url": null
+    },
+    "contenido": {
+      "secciones": [
+        {
+          "titulo": "Qué estás viendo",
+          "visibilidad": "publica",
+          "contenido_markdown": "Mil7ochentaynueve es una pequeña bodega de Fuencaliente dedicada al cultivo de variedades canarias y a la elaboración de vino. El proyecto comenzó en 2008 y está acogido a la Denominación de Origen Vinos La Palma desde 2012, según la información turística municipal."
+        },
+        {
+          "titulo": "Conoce este lugar",
+          "visibilidad": "publica",
+          "contenido_markdown": "La bodega presenta una forma de producción ligada al territorio y a las variedades locales. Su ficha puede explicar el origen del nombre comercial, la relación con sus parcelas y su filosofía de elaboración cuando esos contenidos sean confirmados por sus responsables."
+        },
+        {
+          "titulo": "Información práctica",
+          "visibilidad": "publica",
+          "contenido_markdown": "- Dirección publicada: calle Esteban Acosta Gómez, 76, Los Canarios.\n- La fuente municipal antigua indica visitas concertadas; debe revalidarse.\n- Contacto y accesibilidad: pendientes de actualización."
+        }
+      ]
+    },
+    "media": {
+      "imagen_principal": null,
+      "galeria": [],
+      "estado": "oficial_disponible"
+    },
+    "fuentes": [
+      "https://turismofuencalientedelapalma.com/enoturismo/",
+      "https://turismofuencalientedelapalma.com/fuencaliente/eduardo-justo-perez-hernandez-winery/?lang=en"
+    ],
+    "estado": {
+      "inventario": "VERIFICADO",
+      "contenido": [
+        "base_oficial_disponible",
+        "visitas_concertadas_a_revalidar"
+      ],
+      "qr": "pendiente",
+      "prueba_movil": "pendiente",
+      "validacion_municipal": "pendiente"
+    },
+    "observaciones_internas": "La fuente antigua la identifica como bodega de Eduardo Justo Pérez Hernández. Confirmar nombre comercial definitivo."
+  },
+  {
+    "id": "H059",
+    "nombre": "Bodega La Casa del Volcán",
+    "slug": "bodega-casa-del-volcan",
+    "url": "/hitos/bodega-casa-del-volcan",
+    "categorias": [
+      "bodega"
+    ],
+    "rutas": [
+      "R11"
+    ],
+    "orden_en_rutas": {
+      "R11": null
+    },
+    "ubicacion": {
+      "texto": "Calle Los Volcanes, Los Canarios",
+      "latitud": null,
+      "longitud": null,
+      "como_llegar_url": null
+    },
+    "contenido": {
+      "secciones": [
+        {
+          "titulo": "Qué estás viendo",
+          "visibilidad": "publica",
+          "contenido_markdown": "La Casa del Volcán elabora vino de forma artesanal y con mínima intervención. La información municipal destaca un blanco seco elaborado con la variedad conocida localmente como bujariego y cultivada en las inmediaciones de la bodega."
+        },
+        {
+          "titulo": "Conoce este lugar",
+          "visibilidad": "publica",
+          "contenido_markdown": "Esta parada permite relacionar una variedad tradicional con las condiciones de cultivo de Fuencaliente y con una elaboración de pequeña escala. La ficha definitiva debe confirmar directamente con la bodega los vinos actuales, el origen de las uvas y las condiciones de visita o venta."
+        },
+        {
+          "titulo": "Información práctica",
+          "visibilidad": "publica",
+          "contenido_markdown": "- Dirección publicada: calle Los Volcanes, 23, Los Canarios.\n- Visitas, venta, horarios y accesibilidad: pendientes de confirmación."
+        }
+      ]
+    },
+    "media": {
+      "imagen_principal": null,
+      "galeria": [],
+      "estado": "oficial_disponible"
+    },
+    "fuentes": [
+      "https://turismofuencalientedelapalma.com/enoturismo/"
+    ],
+    "estado": {
+      "inventario": "VERIFICADO",
+      "contenido": [
+        "base_oficial_disponible",
+        "visitas_y_horarios_dinamicos"
+      ],
+      "qr": "pendiente",
+      "prueba_movil": "pendiente",
+      "validacion_municipal": "pendiente"
+    },
+    "observaciones_internas": null
+  },
+  {
+    "id": "H060",
+    "nombre": "Fuente del Vino",
+    "slug": "fuente-del-vino",
+    "url": "/hitos/fuente-del-vino",
+    "categorias": [
+      "patrimonio_vitivinicola"
+    ],
+    "rutas": [
+      "R10",
+      "R11"
+    ],
+    "orden_en_rutas": {
+      "R10": null,
+      "R11": null
+    },
+    "ubicacion": {
+      "texto": "Los Canarios",
+      "latitud": null,
+      "longitud": null,
+      "como_llegar_url": null
+    },
+    "contenido": {
+      "secciones": [
+        {
+          "titulo": "Qué estás viendo",
+          "visibilidad": "publica",
+          "contenido_markdown": "La Fuente del Vino forma parte del patrimonio vitivinícola incluido en el catálogo turístico de Fuencaliente. Su presencia en la ruta ayuda a trasladar la cultura del vino al espacio público y a reconocer su importancia dentro de la identidad municipal."
+        },
+        {
+          "titulo": "Información práctica",
+          "visibilidad": "publica",
+          "contenido_markdown": "- No es una bodega ni debe presentarse como punto de degustación.\n- Ubicación exacta, historia, autoría, funcionamiento y coordenadas: pendientes de documentación."
+        },
+        {
+          "titulo": "Pendiente",
+          "visibilidad": "interna",
+          "contenido_markdown": "No ampliar el texto hasta obtener una fuente municipal específica o una inspección del elemento."
+        }
+      ]
+    },
+    "media": {
+      "imagen_principal": null,
+      "galeria": [],
+      "estado": "oficial_provisional"
+    },
+    "fuentes": [
+      "https://turismofuencalientedelapalma.com/lugares/"
+    ],
+    "estado": {
+      "inventario": "VERIFICADO",
+      "contenido": [
+        "base_oficial_disponible"
+      ],
+      "qr": "pendiente",
+      "prueba_movil": "pendiente",
+      "validacion_municipal": "pendiente"
+    },
+    "observaciones_internas": "No es una bodega. Contenido, historia y coordenadas pendientes."
+  },
+  {
+    "id": "H061",
+    "nombre": "Lagar tradicional de tea",
+    "slug": "lagar-tradicional-tea",
+    "url": "/hitos/lagar-tradicional-tea",
+    "categorias": [
+      "patrimonio_vitivinicola"
+    ],
+    "rutas": [
+      "R10",
+      "R11"
+    ],
+    "orden_en_rutas": {
+      "R10": null,
+      "R11": null
+    },
+    "ubicacion": {
+      "texto": "Fuencaliente de La Palma",
+      "latitud": null,
+      "longitud": null,
+      "como_llegar_url": null
+    },
+    "contenido": {
+      "secciones": [
+        {
+          "titulo": "Qué estás viendo",
+          "visibilidad": "publica",
+          "contenido_markdown": "El lagar tradicional de tea representa una de las herramientas históricas utilizadas para transformar la uva en mosto. Su estructura permite explicar técnicas de elaboración anteriores a la mecanización y la importancia de la madera de tea en la cultura material de La Palma."
+        },
+        {
+          "titulo": "Información práctica",
+          "visibilidad": "publica",
+          "contenido_markdown": "- No es una bodega visitable por sí misma.\n- Ubicación, antigüedad, propiedad, estado de conservación y acceso: pendientes de validación."
+        },
+        {
+          "titulo": "Pendiente",
+          "visibilidad": "interna",
+          "contenido_markdown": "Solicitar ficha patrimonial o información municipal antes de atribuirle fecha, propietario o funcionamiento concreto."
+        }
+      ]
+    },
+    "media": {
+      "imagen_principal": null,
+      "galeria": [],
+      "estado": "oficial_provisional"
+    },
+    "fuentes": [
+      "https://turismofuencalientedelapalma.com/lugares/"
+    ],
+    "estado": {
+      "inventario": "VERIFICADO",
+      "contenido": [
+        "base_oficial_disponible"
+      ],
+      "qr": "pendiente",
+      "prueba_movil": "pendiente",
+      "validacion_municipal": "pendiente"
+    },
+    "observaciones_internas": "No es una bodega. Autoría, fecha, ubicación y acceso pendientes."
+  },
+  {
+    "id": "H062",
+    "nombre": "Llanos Negros",
+    "slug": "llanos-negros",
+    "url": "/hitos/llanos-negros",
+    "categorias": [
+      "paisaje_vitivinicola"
+    ],
+    "rutas": [
+      "R03",
+      "R11"
+    ],
+    "orden_en_rutas": {
+      "R03": null,
+      "R11": null
+    },
+    "ubicacion": {
+      "texto": "Llanos Negros",
+      "latitud": null,
+      "longitud": null,
+      "como_llegar_url": null
+    },
+    "contenido": {
+      "secciones": [
+        {
+          "titulo": "Qué estás viendo",
+          "visibilidad": "publica",
+          "contenido_markdown": "Llanos Negros es uno de los paisajes vitivinícolas más representativos de Fuencaliente. La información municipal destaca esta zona como principal espacio de cultivo insular de la malvasía, una variedad histórica estrechamente vinculada al sur de La Palma."
+        },
+        {
+          "titulo": "Conoce este lugar",
+          "visibilidad": "publica",
+          "contenido_markdown": "Las viñas se cultivan sobre terrenos cubiertos de picón volcánico, que ayuda a conservar la humedad. El paisaje refleja el esfuerzo necesario para mantener la agricultura en pendientes, suelos jóvenes y condiciones secas."
+        },
+        {
+          "titulo": "Información práctica",
+          "visibilidad": "publica",
+          "contenido_markdown": "- No entrar en parcelas privadas ni tocar cultivos.\n- Falta definir un punto público y seguro de interpretación para situar el QR."
+        },
+        {
+          "titulo": "Pendiente",
+          "visibilidad": "interna",
+          "contenido_markdown": "Delimitación, coordenadas, propiedad, fotografía panorámica y revisión agronómica."
+        }
+      ]
+    },
+    "media": {
+      "imagen_principal": null,
+      "galeria": [],
+      "estado": "placeholder"
+    },
+    "fuentes": [
+      "https://turismofuencalientedelapalma.com/enoturismo/"
+    ],
+    "estado": {
+      "inventario": "PROPUESTA",
+      "contenido": [
+        "base_oficial_disponible",
+        "delimitacion_pendiente"
+      ],
+      "qr": "pendiente",
+      "prueba_movil": "pendiente",
+      "validacion_municipal": "pendiente"
+    },
+    "observaciones_internas": "La web municipal lo identifica como zona principal del cultivo de malvasía. Falta definir un punto físico para el QR."
+  },
+  {
+    "id": "H063",
+    "nombre": "Las Machuqueras",
+    "slug": "las-machuqueras",
+    "url": "/hitos/las-machuqueras",
+    "categorias": [
+      "paisaje_vitivinicola"
+    ],
+    "rutas": [
+      "R11"
+    ],
+    "orden_en_rutas": {
+      "R11": null
+    },
+    "ubicacion": {
+      "texto": "Las Machuqueras",
+      "latitud": null,
+      "longitud": null,
+      "como_llegar_url": null
+    },
+    "contenido": {
+      "secciones": [
+        {
+          "titulo": "Qué estás viendo",
+          "visibilidad": "publica",
+          "contenido_markdown": "Las Machuqueras es un paisaje vitivinícola asociado a terrenos transformados por la erupción del Teneguía de 1971. La continuidad del cultivo de la vid en este entorno muestra la capacidad de adaptación de la agricultura de Fuencaliente."
+        },
+        {
+          "titulo": "Conoce este lugar",
+          "visibilidad": "publica",
+          "contenido_markdown": "La zona permite explicar cómo las familias viticultoras han trabajado sobre suelos volcánicos recientes y cómo la vid forma parte de la recuperación productiva y paisajística del territorio."
+        },
+        {
+          "titulo": "Información práctica",
+          "visibilidad": "publica",
+          "contenido_markdown": "- No acceder a fincas privadas ni alterar muros, picón o cultivos.\n- Falta definir un punto público y seguro para la interpretación."
+        },
+        {
+          "titulo": "Pendiente",
+          "visibilidad": "interna",
+          "contenido_markdown": "Delimitación, coordenadas, contenido agronómico y fotografía autorizada."
+        }
+      ]
+    },
+    "media": {
+      "imagen_principal": null,
+      "galeria": [],
+      "estado": "placeholder"
+    },
+    "fuentes": [
+      "https://turismofuencalientedelapalma.com/enoturismo/"
+    ],
+    "estado": {
+      "inventario": "PROPUESTA",
+      "contenido": [
+        "base_oficial_disponible",
+        "delimitacion_pendiente"
+      ],
+      "qr": "pendiente",
+      "prueba_movil": "pendiente",
+      "validacion_municipal": "pendiente"
+    },
+    "observaciones_internas": "La web municipal destaca su cultivo sobre suelos de la erupción de 1971. Falta definir un punto físico para el QR."
+  }
+]

@@ -1,0 +1,605 @@
+[
+  {
+    "id": "R01",
+    "nombre": "Ruta de la Décima",
+    "slug": "ruta-de-la-decima",
+    "url": "/rutas/ruta-de-la-decima",
+    "color": null,
+    "color_estado": "pendiente_de_recuperar",
+    "seleccion_estado": "10 puntos de la primera fase verificados y una ampliación de 2026 pendiente de orden definitivo",
+    "contenido": {
+      "secciones": [
+        {
+          "titulo": "Entradilla",
+          "visibilidad": "publica",
+          "contenido_markdown": "Una ruta por los paisajes de Fuencaliente a través de la décima, una composición poética de diez versos profundamente vinculada a la tradición oral de Canarias. Cada parada une las palabras de los versadores con un rincón concreto del municipio."
+        },
+        {
+          "titulo": "Descubre la ruta",
+          "visibilidad": "publica",
+          "contenido_markdown": "La iniciativa **Rincones y paisajes de la Décima** lleva esta forma de expresión popular fuera de los escenarios y la integra en miradores, espacios naturales y lugares de encuentro. En cada punto, una placa dedica una décima al paisaje o al entorno que el visitante tiene delante.\n\nLa primera fase, presentada en 2024, distribuyó diez placas desde Los Canarios hasta la costa. En 2026 se incorporó al Mirador de Las Indias una nueva décima de Miguel Martín Méndez, acompañada por una escultura de Gustavo Díaz. La ruta permite descubrir al mismo tiempo poesía, tradición, paisaje y creación contemporánea."
+        },
+        {
+          "titulo": "Paradas",
+          "visibilidad": "publica",
+          "contenido_markdown": "1. Mirador de Los Canarios.\n2. Punto de Información Turística de Plaza Minerva.\n3. Volcán de San Antonio.\n4. Mirador de Los Jablitos.\n5. Parque Fuente de Los Quemados.\n6. Mirador de Los Espigones.\n7. Mirador de Las Calderetitas.\n8. Mirador de La Zamora.\n9. Mirador de El Faro.\n10. Mirador de Puntalarga.\n11. Mirador de Las Indias — orden definitivo pendiente."
+        },
+        {
+          "titulo": "Antes de comenzar",
+          "visibilidad": "publica",
+          "contenido_markdown": "- No se trata todavía de un recorrido lineal con distancia y duración verificadas.\n- Los puntos están repartidos por distintas zonas del municipio y algunos requieren desplazamiento por carretera.\n- Cada ficha permite abrir la ubicación y consultar las demás rutas que pasan por el mismo lugar."
+        },
+        {
+          "titulo": "Control interno",
+          "visibilidad": "interna",
+          "contenido_markdown": "- Recuperar mediante fotografías o documentación municipal los textos y autores de las diez placas iniciales.\n- Confirmar el orden y la incorporación formal del Mirador de Las Indias.\n- Nombre conflictivo: la noticia de 2024 escribe «Las Celderitas» y el catálogo turístico «Las Calderetitas»."
+        }
+      ]
+    },
+    "hito_ids": [
+      "H001",
+      "H002",
+      "H003",
+      "H004",
+      "H005",
+      "H006",
+      "H007",
+      "H008",
+      "H009",
+      "H010",
+      "H011"
+    ],
+    "estado": {
+      "contenido": "demo_preparada",
+      "trazado_gpx": "pendiente",
+      "validacion_municipal": "pendiente"
+    }
+  },
+  {
+    "id": "R02",
+    "nombre": "Ruta de las Esculturas",
+    "slug": "ruta-de-las-esculturas",
+    "url": "/rutas/ruta-de-las-esculturas",
+    "color": null,
+    "color_estado": "pendiente_de_recuperar",
+    "seleccion_estado": "Inventario artístico provisional pendiente de ampliación y validación municipal",
+    "contenido": {
+      "secciones": [
+        {
+          "titulo": "Entradilla",
+          "visibilidad": "publica",
+          "contenido_markdown": "El arte forma parte del paisaje cotidiano de Fuencaliente. Esta ruta reúne esculturas y monumentos instalados en espacios públicos para reconocer la relación del municipio con el senderismo, la viticultura, el mar y su propia identidad cultural."
+        },
+        {
+          "titulo": "Descubre la ruta",
+          "visibilidad": "publica",
+          "contenido_markdown": "Las obras se encuentran en parques, miradores, zonas costeras y calles de Los Canarios. Algunas homenajean a colectivos que han marcado la vida del municipio; otras transforman materiales naturales o recuperados en piezas vinculadas al lugar donde se exhiben.\n\nLa ruta también permite conocer la creación de artistas fuencalenteros como Gustavo Díaz y Juan Manuel Hernández Lorenzo, «Juanito». Cada ficha puede incorporar autoría, materiales, proceso creativo, significado y relación con el entorno cuando esa información se encuentre documentada."
+        },
+        {
+          "titulo": "Paradas actuales",
+          "visibilidad": "publica",
+          "contenido_markdown": "- El Caminante.\n- Monumento al Viticultor.\n- Águila del parque de La Fajana.\n- Escultura dedicada a las costas de Puntalarga.\n- Escultura del Mirador de Las Indias."
+        },
+        {
+          "titulo": "Antes de comenzar",
+          "visibilidad": "publica",
+          "contenido_markdown": "- El inventario artístico todavía no puede considerarse definitivo.\n- Algunas obras carecen por ahora de título o ficha técnica confirmada.\n- La ruta se ampliará cuando el Ayuntamiento facilite nuevas localizaciones o datos."
+        },
+        {
+          "titulo": "Control interno",
+          "visibilidad": "interna",
+          "contenido_markdown": "- Solicitar al Ayuntamiento y a los artistas título, año, materiales y coordenadas.\n- Decidir si el Monumento al Viticultor y el Paseo de la Fama funcionan también como esculturas o permanecen en categorías separadas."
+        }
+      ]
+    },
+    "hito_ids": [
+      "H011",
+      "H012",
+      "H013",
+      "H014",
+      "H015"
+    ],
+    "estado": {
+      "contenido": "demo_preparada",
+      "trazado_gpx": "pendiente",
+      "validacion_municipal": "pendiente"
+    }
+  },
+  {
+    "id": "R03",
+    "nombre": "Áreas emblemáticas de Fuencaliente",
+    "slug": "areas-emblematicas",
+    "url": "/rutas/areas-emblematicas",
+    "color": null,
+    "color_estado": "pendiente_de_recuperar",
+    "seleccion_estado": "Selección editorial provisional pendiente de validación municipal",
+    "contenido": {
+      "secciones": [
+        {
+          "titulo": "Entradilla",
+          "visibilidad": "publica",
+          "contenido_markdown": "Una selección de lugares que ayudan a comprender Fuencaliente: volcanes, viñedos, patrimonio, costa, pinares y núcleos habitados. Es una puerta de entrada general al municipio para quien lo visita por primera vez."
+        },
+        {
+          "titulo": "Descubre la ruta",
+          "visibilidad": "publica",
+          "contenido_markdown": "Fuencaliente se caracteriza por sus fuertes contrastes. En pocos kilómetros, el paisaje pasa del pinar y las zonas de cultivo a los campos de lava y el océano. La historia del municipio también está marcada por la adaptación de sus habitantes a las erupciones, la escasez de agua y el trabajo agrícola.\n\nEsta ruta conecta algunos de los lugares que mejor resumen esa identidad: Los Canarios, los volcanes de San Antonio y Teneguía, el Roque Teneguía, los faros, las salinas, la Fuente Santa y los paisajes vitivinícolas. No pretende sustituir las rutas temáticas, sino ofrecer una visión inicial y enlazar después con ellas."
+        },
+        {
+          "titulo": "Paradas provisionales",
+          "visibilidad": "publica",
+          "contenido_markdown": "- Los Canarios.\n- Volcán de San Antonio.\n- Volcán Teneguía.\n- Roque Teneguía.\n- Faros de Fuencaliente.\n- Salinas de Fuencaliente.\n- Fuente Santa.\n- Playa de Echentive.\n- Pino de la Virgen.\n- Mirador de Las Indias.\n- Llanos Negros."
+        },
+        {
+          "titulo": "Antes de comenzar",
+          "visibilidad": "publica",
+          "contenido_markdown": "- Los lugares se encuentran repartidos entre la cumbre, las medianías y la costa.\n- No se presenta como un itinerario peatonal continuo.\n- Se recomienda elegir varias paradas según el tiempo disponible y consultar sus accesos individualmente."
+        },
+        {
+          "titulo": "Control interno",
+          "visibilidad": "interna",
+          "contenido_markdown": "- Toda la selección es una propuesta editorial para la demo y necesita validación municipal.\n- Después de validar las paradas, ordenar por zonas o crear una propuesta de medio día/día completo."
+        }
+      ]
+    },
+    "hito_ids": [
+      "H003",
+      "H011",
+      "H017",
+      "H018",
+      "H019",
+      "H020",
+      "H021",
+      "H022",
+      "H023",
+      "H024",
+      "H062"
+    ],
+    "estado": {
+      "contenido": "demo_preparada",
+      "trazado_gpx": "pendiente",
+      "validacion_municipal": "pendiente"
+    }
+  },
+  {
+    "id": "R04",
+    "nombre": "Ruta de los Volcanes",
+    "slug": "ruta-de-los-volcanes",
+    "url": "/rutas/ruta-de-los-volcanes",
+    "color": null,
+    "color_estado": "pendiente_de_recuperar",
+    "seleccion_estado": "Núcleo temático documentado; orden, accesos y trazados pendientes de revisión",
+    "contenido": {
+      "secciones": [
+        {
+          "titulo": "Entradilla",
+          "visibilidad": "publica",
+          "contenido_markdown": "Fuencaliente es uno de los mejores lugares de La Palma para observar cómo el volcanismo transforma el territorio. Esta ruta conecta centros de interpretación, conos volcánicos, campos de lava y enclaves costeros relacionados con distintas erupciones."
+        },
+        {
+          "titulo": "Descubre la ruta",
+          "visibilidad": "publica",
+          "contenido_markdown": "La actividad volcánica explica buena parte del relieve, la historia y la economía del municipio. Sus huellas pueden reconocerse en el Volcán de San Antonio, el Teneguía, el Volcán de Martín y la Caldera del Búcaro, pero también en la formación de nuevas costas, el cultivo de la vid sobre picón y el relato de la Fuente Santa.\n\nEl Centro de Visitantes del Volcán de San Antonio ofrece el contexto necesario para interpretar estos procesos. El GR-131 permite recorrer parte del paisaje a pie, mientras que otros puntos deben visitarse siguiendo accesos y recomendaciones específicas. La ruta temática reúne todos estos elementos sin afirmar que constituyan un único recorrido senderista continuo."
+        },
+        {
+          "titulo": "Paradas",
+          "visibilidad": "publica",
+          "contenido_markdown": "- Centro de Visitantes del Volcán de San Antonio.\n- Volcán de San Antonio.\n- Roque Teneguía.\n- Volcán Teneguía.\n- Caldera del Búcaro.\n- Volcán de Martín.\n- GR-131 Ruta de los Volcanes."
+        },
+        {
+          "titulo": "Antes de comenzar",
+          "visibilidad": "publica",
+          "contenido_markdown": "- Consultar cierres, alertas meteorológicas y riesgo de incendio.\n- Permanecer en senderos habilitados y no retirar materiales volcánicos.\n- Llevar agua, protección solar y calzado adecuado.\n- Horarios, tarifas y accesos deben consultarse en sus fuentes oficiales."
+        },
+        {
+          "titulo": "Control interno",
+          "visibilidad": "interna",
+          "contenido_markdown": "- Revisión geológica especializada antes de la publicación definitiva.\n- No confundir la ruta temática con el trazado del GR-131.\n- Incorporar GPX solo desde una fuente oficial o validada."
+        }
+      ]
+    },
+    "hito_ids": [
+      "H003",
+      "H021",
+      "H022",
+      "H025",
+      "H026",
+      "H027",
+      "H035"
+    ],
+    "estado": {
+      "contenido": "demo_preparada",
+      "trazado_gpx": "pendiente",
+      "validacion_municipal": "pendiente"
+    }
+  },
+  {
+    "id": "R05",
+    "nombre": "Ruta de los Miradores",
+    "slug": "ruta-de-los-miradores",
+    "url": "/rutas/ruta-de-los-miradores",
+    "color": null,
+    "color_estado": "pendiente_de_recuperar",
+    "seleccion_estado": "Miradores documentados; orden geográfico y localizaciones exactas pendientes",
+    "contenido": {
+      "secciones": [
+        {
+          "titulo": "Entradilla",
+          "visibilidad": "publica",
+          "contenido_markdown": "Diez balcones para contemplar los contrastes de Fuencaliente: pinares, volcanes, viñedos, barrios, acantilados y océano. Cada mirador ofrece una lectura diferente del paisaje del extremo sur de La Palma."
+        },
+        {
+          "titulo": "Descubre la ruta",
+          "visibilidad": "publica",
+          "contenido_markdown": "La red de miradores permite comprender la transición entre las medianías y la costa. Algunos se abren sobre Los Canarios y el entorno volcánico; otros muestran los barrios occidentales, las zonas agrícolas o la línea litoral. Varios forman parte también de la Ruta de la Décima y permiten combinar la observación del paisaje con la poesía tradicional.\n\nEl Mirador de Las Indias añade además una escultura y una décima, convirtiéndose en uno de los ejemplos más completos del carácter transversal del proyecto. La ruta se plantea por ahora como un conjunto de puntos geolocalizados, no como un recorrido lineal cerrado."
+        },
+        {
+          "titulo": "Miradores",
+          "visibilidad": "publica",
+          "contenido_markdown": "- Mirador de Los Canarios.\n- Mirador de Los Jablitos.\n- Mirador de Los Espigones.\n- Mirador de Las Calderetitas.\n- Mirador de La Zamora.\n- Mirador de El Faro.\n- Mirador de Puntalarga.\n- Mirador de Las Indias.\n- Mirador de La Fajana.\n- Mirador de El Charco."
+        },
+        {
+          "titulo": "Antes de comenzar",
+          "visibilidad": "publica",
+          "contenido_markdown": "- Consultar cada ficha para comprobar acceso y estacionamiento.\n- No detenerse ni caminar por zonas no habilitadas de la carretera.\n- Respetar propiedades, cultivos y señalización.\n- La visibilidad depende de la meteorología."
+        },
+        {
+          "titulo": "Control interno",
+          "visibilidad": "interna",
+          "contenido_markdown": "- Geolocalizar y ordenar los diez puntos.\n- Comprobar si La Zamora, El Faro y Puntalarga disponen de infraestructura de mirador independiente de las placas de la Décima."
+        }
+      ]
+    },
+    "hito_ids": [
+      "H001",
+      "H004",
+      "H006",
+      "H007",
+      "H008",
+      "H009",
+      "H010",
+      "H011",
+      "H028",
+      "H029"
+    ],
+    "estado": {
+      "contenido": "demo_preparada",
+      "trazado_gpx": "pendiente",
+      "validacion_municipal": "pendiente"
+    }
+  },
+  {
+    "id": "R06",
+    "nombre": "Paseo de la Transvulcania",
+    "slug": "paseo-de-la-transvulcania",
+    "url": "/rutas/paseo-de-la-transvulcania",
+    "color": null,
+    "color_estado": "pendiente_de_recuperar",
+    "seleccion_estado": "Modelado como un único hito-conjunto para la demo",
+    "contenido": {
+      "secciones": [
+        {
+          "titulo": "Entradilla",
+          "visibilidad": "publica",
+          "contenido_markdown": "Un homenaje a quienes han dejado su huella en una de las grandes pruebas deportivas de La Palma. El Paseo de la Fama conecta Fuencaliente con la historia, la exigencia y la dimensión humana de la Transvulcania."
+        },
+        {
+          "titulo": "Descubre la ruta",
+          "visibilidad": "publica",
+          "contenido_markdown": "La Transvulcania atraviesa algunos de los paisajes más exigentes y reconocibles de la isla. El Paseo de la Fama recuerda a deportistas que han alcanzado los puestos más destacados de la prueba desde 2016 y ofrece un punto desde el que acercarse a su trayectoria.\n\nPara la demo, el paseo funciona como un único conjunto. La página podrá incorporar una galería o relación de homenajeados cuando se disponga del inventario completo de placas, años y resultados. Así se evita crear numerosos QR para elementos que forman parte de una misma experiencia física."
+        },
+        {
+          "titulo": "Parada",
+          "visibilidad": "publica",
+          "contenido_markdown": "- Paseo de la Fama de la Transvulcania."
+        },
+        {
+          "titulo": "Antes de comenzar",
+          "visibilidad": "publica",
+          "contenido_markdown": "- Consultar la página oficial del evento para recorridos, distancias y fechas actuales.\n- El paseo puede visitarse independientemente de la celebración de la prueba."
+        },
+        {
+          "titulo": "Control interno",
+          "visibilidad": "interna",
+          "contenido_markdown": "- Solicitar inventario de personas homenajeadas y fotografías de las placas.\n- Mantener un solo QR; usar subfichas internas si el volumen de contenido lo requiere."
+        }
+      ]
+    },
+    "hito_ids": [
+      "H016"
+    ],
+    "estado": {
+      "contenido": "demo_preparada",
+      "trazado_gpx": "pendiente",
+      "validacion_municipal": "pendiente"
+    }
+  },
+  {
+    "id": "R07",
+    "nombre": "Senderos de Fuencaliente",
+    "slug": "senderos-de-fuencaliente",
+    "url": "/rutas/senderos-de-fuencaliente",
+    "color": null,
+    "color_estado": "pendiente_de_recuperar",
+    "seleccion_estado": "Cinco rutas municipales y el GR-131 documentados; estado y GPX son datos dinámicos",
+    "contenido": {
+      "secciones": [
+        {
+          "titulo": "Entradilla",
+          "visibilidad": "publica",
+          "contenido_markdown": "Seis recorridos para caminar entre pinares, volcanes, viñedos, barrios y costa. La red seleccionada reúne cinco rutas turísticas municipales con salida en Los Canarios y el tramo del GR-131 conocido como Ruta de los Volcanes."
+        },
+        {
+          "titulo": "Descubre la ruta",
+          "visibilidad": "publica",
+          "contenido_markdown": "Caminar permite apreciar cómo cambia el paisaje de Fuencaliente en pocos kilómetros. Desde Plaza Minerva parten recorridos hacia El Charco, La Zamora, Puntalarga, El Faro y El Puertito. A ellos se suma el GR-131, que conecta el núcleo de Los Canarios con el paisaje volcánico del sur.\n\nCada sendero necesita su propia ficha con trazado, distancia, desnivel, duración, dificultad y recomendaciones. Como los cierres pueden cambiar por obras, desprendimientos, incendios o condiciones meteorológicas, el estado de cada recorrido debe consultarse siempre en la fuente oficial antes de salir."
+        },
+        {
+          "titulo": "Senderos",
+          "visibilidad": "publica",
+          "contenido_markdown": "- T.1 Los Canarios–El Charco.\n- T.2 Los Canarios–La Zamora.\n- T.3 Los Canarios–Puntalarga.\n- T.4 Los Canarios–El Faro.\n- T.5 Los Canarios–El Puertito.\n- GR-131 Ruta de los Volcanes."
+        },
+        {
+          "titulo": "Elementos relacionados",
+          "visibilidad": "publica",
+          "contenido_markdown": "- El Caminante.\n- Área recreativa Fuente de Los Roques.\n- Pino de Santo Domingo.\n- Iglesia de San Antonio Abad."
+        },
+        {
+          "titulo": "Seguridad",
+          "visibilidad": "publica",
+          "contenido_markdown": "- Consultar el estado del sendero el mismo día.\n- Llevar agua, protección solar, abrigo ligero y calzado apropiado.\n- Descargar el trazado antes de comenzar y no depender únicamente de la cobertura móvil.\n- En caso de emergencia, llamar al 112."
+        },
+        {
+          "titulo": "Control interno",
+          "visibilidad": "interna",
+          "contenido_markdown": "- Extraer los datos y GPX de los seis folletos oficiales.\n- No mostrar como vigentes líneas de autobús u horarios sin revisión fechada."
+        }
+      ]
+    },
+    "hito_ids": [
+      "H012",
+      "H030",
+      "H031",
+      "H032",
+      "H033",
+      "H034",
+      "H035",
+      "H036"
+    ],
+    "estado": {
+      "contenido": "demo_preparada",
+      "trazado_gpx": "pendiente",
+      "validacion_municipal": "pendiente"
+    }
+  },
+  {
+    "id": "R08",
+    "nombre": "Áreas recreativas",
+    "slug": "areas-recreativas",
+    "url": "/rutas/areas-recreativas",
+    "color": null,
+    "color_estado": "pendiente_de_recuperar",
+    "seleccion_estado": "Espacios documentados; servicios y restricciones requieren consulta actualizada",
+    "contenido": {
+      "secciones": [
+        {
+          "titulo": "Entradilla",
+          "visibilidad": "publica",
+          "contenido_markdown": "Espacios para descansar y disfrutar del entorno natural de Fuencaliente. La ruta reúne áreas de estancia, parques y puntos del pinar con equipamientos y características diferentes."
+        },
+        {
+          "titulo": "Descubre la ruta",
+          "visibilidad": "publica",
+          "contenido_markdown": "Desde pequeñas zonas de descanso próximas a Los Canarios hasta áreas situadas en pleno pinar, estos lugares permiten hacer una pausa durante una excursión o pasar parte del día en contacto con la naturaleza. Algunos cuentan con mesas, bancos, aseos, aparcamiento, juegos infantiles o fogones, pero los servicios deben comprobarse antes de la visita.\n\nLas restricciones de uso pueden variar, especialmente durante episodios de altas temperaturas o riesgo de incendio. La ficha de cada área debe diferenciar claramente los servicios confirmados, las condiciones de acceso y las normas vigentes."
+        },
+        {
+          "titulo": "Espacios",
+          "visibilidad": "publica",
+          "contenido_markdown": "- Mirador/área recreativa de Los Canarios.\n- Parque Fuente de Los Quemados.\n- Área recreativa Fuente de Los Roques.\n- Pino de Santo Domingo.\n- Área de descanso de Los Canarios.\n- El Pinalejo.\n- Área recreativa de Puntalarga.\n- Área recreativa Llano del Tanque.\n- Pino de la Virgen."
+        },
+        {
+          "titulo": "Antes de comenzar",
+          "visibilidad": "publica",
+          "contenido_markdown": "- Consultar restricciones por riesgo de incendio.\n- No utilizar fogones fuera de las condiciones autorizadas.\n- Llevar agua propia y retirar todos los residuos.\n- Comprobar el estado de las pistas forestales."
+        },
+        {
+          "titulo": "Control interno",
+          "visibilidad": "interna",
+          "contenido_markdown": "- Validar los servicios de las nueve áreas y fechar la revisión.\n- Resolver la posible duplicación del Mirador de Los Canarios en el catálogo municipal."
+        }
+      ]
+    },
+    "hito_ids": [
+      "H001",
+      "H005",
+      "H024",
+      "H036",
+      "H037",
+      "H038",
+      "H039",
+      "H040",
+      "H041"
+    ],
+    "estado": {
+      "contenido": "demo_preparada",
+      "trazado_gpx": "pendiente",
+      "validacion_municipal": "pendiente"
+    }
+  },
+  {
+    "id": "R09",
+    "nombre": "Playas",
+    "slug": "playas",
+    "url": "/rutas/playas",
+    "color": null,
+    "color_estado": "pendiente_de_recuperar",
+    "seleccion_estado": "Enclaves costeros documentados; seguridad, accesos y servicios son dinámicos",
+    "contenido": {
+      "secciones": [
+        {
+          "titulo": "Entradilla",
+          "visibilidad": "publica",
+          "contenido_markdown": "Una costa de origen volcánico formada por callaos, arenas oscuras, pequeñas calas y núcleos pesqueros. Esta ruta permite recorrer algunos de los principales enclaves litorales de Fuencaliente."
+        },
+        {
+          "titulo": "Descubre la ruta",
+          "visibilidad": "publica",
+          "contenido_markdown": "Las erupciones han construido y transformado la costa sur de La Palma. La Playa de Echentive es uno de los ejemplos más recientes: se formó cuando las lavas del Teneguía alcanzaron el océano en 1971. En otros puntos, las playas conviven con acantilados, casetas, pequeñas zonas habitadas y paisajes agrícolas.\n\nEl recorrido reúne el entorno de los faros, Las Cabras, Echentive, Puntalarga, El Puertito y La Zamora. No todas las playas tienen los mismos servicios, accesos o condiciones de baño, por lo que es necesario consultar cada ficha y los avisos oficiales."
+        },
+        {
+          "titulo": "Paradas",
+          "visibilidad": "publica",
+          "contenido_markdown": "- Entorno de los Faros de Fuencaliente.\n- Playa de Las Cabras.\n- Playa de Echentive.\n- Puntalarga.\n- El Puertito.\n- La Zamora."
+        },
+        {
+          "titulo": "Seguridad",
+          "visibilidad": "publica",
+          "contenido_markdown": "- Consultar el estado del mar y las alertas meteorológicas.\n- Extremar la precaución en playas sin vigilancia.\n- Utilizar calzado adecuado sobre callaos y terreno volcánico.\n- No situarse bajo acantilados o taludes inestables.\n- Respetar las indicaciones y cierres de acceso."
+        },
+        {
+          "titulo": "Control interno",
+          "visibilidad": "interna",
+          "contenido_markdown": "- Validar servicios, accesibilidad, estacionamiento y vigilancia de cada enclave.\n- Confirmar el nombre público «Puntalarga» o «Playa de Puntalarga»."
+        }
+      ]
+    },
+    "hito_ids": [
+      "H015",
+      "H018",
+      "H023",
+      "H042",
+      "H043",
+      "H044",
+      "H045"
+    ],
+    "estado": {
+      "contenido": "demo_preparada",
+      "trazado_gpx": "pendiente",
+      "validacion_municipal": "pendiente"
+    }
+  },
+  {
+    "id": "R10",
+    "nombre": "Puntos de interés cultural",
+    "slug": "puntos-de-interes-cultural",
+    "url": "/rutas/puntos-de-interes-cultural",
+    "color": null,
+    "color_estado": "pendiente_de_recuperar",
+    "seleccion_estado": "Selección amplia para la demo pendiente de depuración municipal",
+    "contenido": {
+      "secciones": [
+        {
+          "titulo": "Entradilla",
+          "visibilidad": "publica",
+          "contenido_markdown": "Iglesias, centros culturales, patrimonio marítimo, arqueología, tradición y arte público. Esta ruta reúne lugares que ayudan a conocer la historia y la vida cultural de Fuencaliente más allá de sus paisajes naturales."
+        },
+        {
+          "titulo": "Descubre la ruta",
+          "visibilidad": "publica",
+          "contenido_markdown": "El patrimonio de Fuencaliente refleja la adaptación de sus habitantes a un territorio volcánico y su relación con el mar, la agricultura y las tradiciones. La Iglesia de San Antonio Abad permite acercarse a la evolución histórica de Los Canarios; los faros y el Centro de Interpretación de la Reserva Marina hablan de la costa; el Roque Teneguía conserva valores geológicos, botánicos y arqueológicos.\n\nLa ruta incluye también centros culturales, artesanía, monumentos y elementos relacionados con el vino. Su amplitud permite organizar el contenido por categorías y añadir nuevos puntos en el futuro sin modificar la estructura general del sistema."
+        },
+        {
+          "titulo": "Paradas provisionales",
+          "visibilidad": "publica",
+          "contenido_markdown": "- Iglesia de San Antonio Abad.\n- Iglesia de Santa Cecilia.\n- Iglesia Nuestra Señora Madre de la Iglesia.\n- Centro Cultural de Los Canarios.\n- Centro Cultural de Las Indias.\n- Centro Social de Los Quemados.\n- Centro de Interpretación de la Reserva Marina.\n- Centro de Artesanía Artesol.\n- D.O.P. Vinos La Palma.\n- Faros de Fuencaliente.\n- Salinas de Fuencaliente.\n- Fuente Santa.\n- Roque Teneguía.\n- Paseo de la Fama de la Transvulcania.\n- Monumento al Viticultor.\n- Fuente del Vino.\n- Lagar tradicional de tea.\n- Pino de la Virgen."
+        },
+        {
+          "titulo": "Antes de comenzar",
+          "visibilidad": "publica",
+          "contenido_markdown": "- Los horarios de templos y centros pueden cambiar.\n- Algunos lugares no disponen de visita interior regular.\n- El Roque Teneguía es un espacio sensible: no tocar ni remarcar grabados y respetar las medidas de protección."
+        },
+        {
+          "titulo": "Control interno",
+          "visibilidad": "interna",
+          "contenido_markdown": "- Validar la selección con el Ayuntamiento y decidir qué centros tienen interés suficiente para QR físico.\n- Organizar filtros: patrimonio religioso, marítimo, arqueológico, vitivinícola, arte y tradiciones."
+        }
+      ]
+    },
+    "hito_ids": [
+      "H013",
+      "H016",
+      "H018",
+      "H019",
+      "H020",
+      "H022",
+      "H024",
+      "H046",
+      "H047",
+      "H048",
+      "H049",
+      "H050",
+      "H051",
+      "H052",
+      "H053",
+      "H054",
+      "H060",
+      "H061"
+    ],
+    "estado": {
+      "contenido": "demo_preparada",
+      "trazado_gpx": "pendiente",
+      "validacion_municipal": "pendiente"
+    }
+  },
+  {
+    "id": "R11",
+    "nombre": "Ruta de las Bodegas",
+    "slug": "ruta-de-las-bodegas",
+    "url": "/rutas/ruta-de-las-bodegas",
+    "color": "#8B1E3F",
+    "color_estado": "confirmado",
+    "seleccion_estado": "Bodegas, patrimonio y paisajes vitivinícolas reunidos en una ruta editable",
+    "contenido": {
+      "secciones": [
+        {
+          "titulo": "Entradilla",
+          "visibilidad": "publica",
+          "contenido_markdown": "Una ruta para conocer el vino de Fuencaliente desde el territorio: bodegas familiares y cooperativas, lagares, monumentos y viñedos cultivados sobre suelos volcánicos. Su color identificativo es el granate vino **#8B1E3F**."
+        },
+        {
+          "titulo": "Descubre la ruta",
+          "visibilidad": "publica",
+          "contenido_markdown": "La viticultura forma parte de la historia y el paisaje de Fuencaliente desde hace generaciones. Variedades tradicionales como la malvasía se cultivan sobre terrenos cubiertos de picón, en parcelas donde buena parte del trabajo continúa realizándose manualmente.\n\nLa ruta reúne las cinco bodegas que aparecen actualmente en la sección municipal de enoturismo y añade elementos que ayudan a interpretar el conjunto: el Monumento al Viticultor, la Fuente del Vino, el lagar tradicional de tea, la D.O.P. Vinos La Palma y los paisajes de Llanos Negros y Las Machuqueras.\n\nQue un punto forme parte de la ruta no significa que sea una bodega abierta al público. Las visitas, degustaciones, horarios y ventas deben confirmarse directamente con cada establecimiento."
+        },
+        {
+          "titulo": "Bodegas",
+          "visibilidad": "publica",
+          "contenido_markdown": "- Bodegas Carballo.\n- Bodegas Teneguía.\n- Bodega Victoria Torres.\n- Mil7ochentaynueve.\n- Bodega La Casa del Volcán."
+        },
+        {
+          "titulo": "Patrimonio y paisaje del vino",
+          "visibilidad": "publica",
+          "contenido_markdown": "- Monumento al Viticultor.\n- Fuente del Vino.\n- Lagar tradicional de tea.\n- D.O.P. Vinos La Palma.\n- Llanos Negros.\n- Las Machuqueras."
+        },
+        {
+          "titulo": "Antes de comenzar",
+          "visibilidad": "publica",
+          "contenido_markdown": "- Concertar las visitas cuando sea necesario.\n- No asumir que todas las bodegas ofrecen degustación o venta directa.\n- Consumir alcohol con responsabilidad y solo si se es mayor de edad.\n- Si se utiliza un vehículo, la persona conductora no debe consumir alcohol.\n- Respetar viñedos y propiedades privadas."
+        },
+        {
+          "titulo": "Control interno",
+          "visibilidad": "interna",
+          "contenido_markdown": "- Mantener el nombre decidido «Ruta de las Bodegas».\n- Confirmar contactos, horarios, accesibilidad y condiciones de visita con cada bodega.\n- Definir puntos físicos seguros desde los que interpretar Llanos Negros y Las Machuqueras."
+        }
+      ]
+    },
+    "hito_ids": [
+      "H013",
+      "H054",
+      "H055",
+      "H056",
+      "H057",
+      "H058",
+      "H059",
+      "H060",
+      "H061",
+      "H062",
+      "H063"
+    ],
+    "estado": {
+      "contenido": "demo_preparada",
+      "trazado_gpx": "pendiente",
+      "validacion_municipal": "pendiente"
+    }
+  }
+]

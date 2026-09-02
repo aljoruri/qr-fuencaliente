@@ -1,0 +1,330 @@
+[
+  {
+    "id": "aguas_termales",
+    "nombre": "Aguas termales",
+    "hito_ids": [
+      "H020"
+    ]
+  },
+  {
+    "id": "area_de_estancia",
+    "nombre": "Área de estancia",
+    "hito_ids": [
+      "H024"
+    ]
+  },
+  {
+    "id": "area_descanso",
+    "nombre": "Área de descanso",
+    "hito_ids": [
+      "H038",
+      "H039"
+    ]
+  },
+  {
+    "id": "area_recreativa",
+    "nombre": "Área recreativa",
+    "hito_ids": [
+      "H001",
+      "H005",
+      "H036",
+      "H037",
+      "H040",
+      "H041"
+    ]
+  },
+  {
+    "id": "arqueologia",
+    "nombre": "arqueologia",
+    "hito_ids": [
+      "H022"
+    ]
+  },
+  {
+    "id": "arte_publico",
+    "nombre": "arte publico",
+    "hito_ids": [
+      "H011",
+      "H013"
+    ]
+  },
+  {
+    "id": "barrio",
+    "nombre": "Barrio",
+    "hito_ids": [
+      "H017"
+    ]
+  },
+  {
+    "id": "bien_interes_cultural",
+    "nombre": "bien interes cultural",
+    "hito_ids": [
+      "H048"
+    ]
+  },
+  {
+    "id": "bodega",
+    "nombre": "Bodega",
+    "hito_ids": [
+      "H055",
+      "H056",
+      "H057",
+      "H058",
+      "H059"
+    ]
+  },
+  {
+    "id": "casco_urbano",
+    "nombre": "Casco urbano",
+    "hito_ids": [
+      "H017"
+    ]
+  },
+  {
+    "id": "centro_artesania",
+    "nombre": "Centro de artesanía",
+    "hito_ids": [
+      "H053"
+    ]
+  },
+  {
+    "id": "centro_cultural",
+    "nombre": "Centro cultural o social",
+    "hito_ids": [
+      "H049",
+      "H050",
+      "H051"
+    ]
+  },
+  {
+    "id": "centro_interpretacion",
+    "nombre": "Centro de interpretación",
+    "hito_ids": [
+      "H027",
+      "H052"
+    ]
+  },
+  {
+    "id": "centro_vitivinicola",
+    "nombre": "centro vitivinicola",
+    "hito_ids": [
+      "H054"
+    ]
+  },
+  {
+    "id": "escultura",
+    "nombre": "Escultura",
+    "hito_ids": [
+      "H012"
+    ]
+  },
+  {
+    "id": "escultura_madera",
+    "nombre": "Escultura en madera",
+    "hito_ids": [
+      "H014"
+    ]
+  },
+  {
+    "id": "escultura_reciclaje",
+    "nombre": "Escultura con materiales recuperados",
+    "hito_ids": [
+      "H015"
+    ]
+  },
+  {
+    "id": "geologia",
+    "nombre": "geologia",
+    "hito_ids": [
+      "H022"
+    ]
+  },
+  {
+    "id": "iglesia",
+    "nombre": "Iglesia",
+    "hito_ids": [
+      "H046",
+      "H047",
+      "H048"
+    ]
+  },
+  {
+    "id": "literatura",
+    "nombre": "literatura",
+    "hito_ids": [
+      "H011"
+    ]
+  },
+  {
+    "id": "mirador",
+    "nombre": "Mirador",
+    "hito_ids": [
+      "H001",
+      "H004",
+      "H006",
+      "H007",
+      "H008",
+      "H009",
+      "H010",
+      "H011",
+      "H028",
+      "H029"
+    ]
+  },
+  {
+    "id": "monumento",
+    "nombre": "Monumento",
+    "hito_ids": [
+      "H013"
+    ]
+  },
+  {
+    "id": "monumento_deportivo",
+    "nombre": "monumento deportivo",
+    "hito_ids": [
+      "H016"
+    ]
+  },
+  {
+    "id": "naturaleza",
+    "nombre": "Naturaleza",
+    "hito_ids": [
+      "H024",
+      "H037"
+    ]
+  },
+  {
+    "id": "nucleo_costero",
+    "nombre": "Núcleo costero",
+    "hito_ids": [
+      "H043",
+      "H044"
+    ]
+  },
+  {
+    "id": "oficina_turismo",
+    "nombre": "Oficina de información turística",
+    "hito_ids": [
+      "H002"
+    ]
+  },
+  {
+    "id": "paisaje",
+    "nombre": "Paisaje",
+    "hito_ids": [
+      "H019"
+    ]
+  },
+  {
+    "id": "paisaje_vitivinicola",
+    "nombre": "Paisaje vitivinícola",
+    "hito_ids": [
+      "H062",
+      "H063"
+    ]
+  },
+  {
+    "id": "paisaje_volcanico",
+    "nombre": "paisaje volcanico",
+    "hito_ids": [
+      "H023"
+    ]
+  },
+  {
+    "id": "parque",
+    "nombre": "parque",
+    "hito_ids": [
+      "H005"
+    ]
+  },
+  {
+    "id": "patrimonio",
+    "nombre": "Patrimonio",
+    "hito_ids": [
+      "H046",
+      "H047"
+    ]
+  },
+  {
+    "id": "patrimonio_historico",
+    "nombre": "Patrimonio histórico",
+    "hito_ids": [
+      "H020"
+    ]
+  },
+  {
+    "id": "patrimonio_industrial",
+    "nombre": "Patrimonio industrial",
+    "hito_ids": [
+      "H019"
+    ]
+  },
+  {
+    "id": "patrimonio_marítimo",
+    "nombre": "Patrimonio marítimo",
+    "hito_ids": [
+      "H018"
+    ]
+  },
+  {
+    "id": "patrimonio_vitivinicola",
+    "nombre": "Patrimonio vitivinícola",
+    "hito_ids": [
+      "H060",
+      "H061"
+    ]
+  },
+  {
+    "id": "playa",
+    "nombre": "Playa",
+    "hito_ids": [
+      "H023",
+      "H042",
+      "H043",
+      "H044",
+      "H045"
+    ]
+  },
+  {
+    "id": "recorrido_urbano",
+    "nombre": "recorrido urbano",
+    "hito_ids": [
+      "H016"
+    ]
+  },
+  {
+    "id": "sendero",
+    "nombre": "Sendero",
+    "hito_ids": [
+      "H030",
+      "H031",
+      "H032",
+      "H033",
+      "H034"
+    ]
+  },
+  {
+    "id": "sendero_gran_recorrido",
+    "nombre": "sendero gran recorrido",
+    "hito_ids": [
+      "H035"
+    ]
+  },
+  {
+    "id": "tradicion",
+    "nombre": "Tradición",
+    "hito_ids": [
+      "H024"
+    ]
+  },
+  {
+    "id": "volcan",
+    "nombre": "Volcán",
+    "hito_ids": [
+      "H003",
+      "H021",
+      "H025",
+      "H026"
+    ]
+  }
+]
