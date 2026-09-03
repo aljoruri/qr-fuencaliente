@@ -1,7 +1,9 @@
 import fs from "node:fs";
 
 const rutas = JSON.parse(fs.readFileSync(new URL("../app/data/rutas.json", import.meta.url), "utf8"));
-const hitos = JSON.parse(fs.readFileSync(new URL("../app/data/hitos.json", import.meta.url), "utf8"));
+const hitosBase = JSON.parse(fs.readFileSync(new URL("../app/data/hitos.json", import.meta.url), "utf8"));
+const edicionesTransvulcania = JSON.parse(fs.readFileSync(new URL("../app/data/transvulcania-ediciones.json", import.meta.url), "utf8"));
+const hitos = [...hitosBase, ...edicionesTransvulcania];
 const quote = (value) => `"${String(value).replaceAll('"', '""')}"`;
 
 const rows = [

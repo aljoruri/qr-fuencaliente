@@ -1,0 +1,1027 @@
+[
+  {
+    "id": "H065",
+    "nombre": "Transvulcania 2009",
+    "slug": "transvulcania-2009",
+    "url": "/hitos/transvulcania-2009",
+    "categorias": [
+      "edicion_transvulcania"
+    ],
+    "rutas": [
+      "R06"
+    ],
+    "orden_en_rutas": {
+      "R06": 2
+    },
+    "ubicacion": {
+      "texto": "Paseo de la Fama de la Transvulcania, Los Canarios",
+      "latitud": null,
+      "longitud": null,
+      "como_llegar_url": null
+    },
+    "contenido": {
+      "secciones": [
+        {
+          "titulo": "La edición",
+          "visibilidad": "publica",
+          "contenido_markdown": "Esta ficha recuerda la edición de **2009** de la Transvulcania y a quienes vencieron en su ultramaratón, la modalidad principal de la prueba. Forma parte del recorrido histórico del Paseo de la Fama en Fuencaliente."
+        },
+        {
+          "titulo": "Ganadores de la ultramaratón",
+          "visibilidad": "publica",
+          "contenido_markdown": "- **Categoría masculina:** Salvador Calvo — 9:00:36.\\n- **Categoría femenina:** Marta Prat — 13:37:51."
+        },
+        {
+          "titulo": "Memoria de la prueba",
+          "visibilidad": "publica",
+          "contenido_markdown": "La Transvulcania ha evolucionado con el paso de los años, incorporando modalidades y cambios organizativos. Esta ficha utiliza el resultado de la ultramaratón como referencia histórica común para poder comparar todas las ediciones celebradas."
+        },
+        {
+          "titulo": "Información práctica",
+          "visibilidad": "publica",
+          "contenido_markdown": "- Esta es una ficha histórica digital integrada en el Paseo de la Fama, no una indicación de que exista un QR físico independiente para cada año.\\n- Recorridos, distancias y modalidades pueden variar entre ediciones.\\n- Para información actual de la prueba debe consultarse la web oficial de Transvulcania."
+        }
+      ]
+    },
+    "media": {
+      "imagen_principal": null,
+      "galeria": [],
+      "estado": "placeholder"
+    },
+    "fuentes": [
+      "https://transvulcania.com/palmares/"
+    ],
+    "estado": {
+      "inventario": "VERIFICADO",
+      "contenido": [
+        "edicion_confirmada",
+        "ganadores_ultramaraton_documentados"
+      ],
+      "qr": "pendiente",
+      "prueba_movil": "pendiente",
+      "validacion_municipal": "pendiente"
+    },
+    "observaciones_internas": "Edición 2009. Ganadores y tiempos de la ultramaratón contrastados con el palmarés o la crónica oficial."
+  },
+  {
+    "id": "H066",
+    "nombre": "Transvulcania 2010",
+    "slug": "transvulcania-2010",
+    "url": "/hitos/transvulcania-2010",
+    "categorias": [
+      "edicion_transvulcania"
+    ],
+    "rutas": [
+      "R06"
+    ],
+    "orden_en_rutas": {
+      "R06": 3
+    },
+    "ubicacion": {
+      "texto": "Paseo de la Fama de la Transvulcania, Los Canarios",
+      "latitud": null,
+      "longitud": null,
+      "como_llegar_url": null
+    },
+    "contenido": {
+      "secciones": [
+        {
+          "titulo": "La edición",
+          "visibilidad": "publica",
+          "contenido_markdown": "Esta ficha recuerda la edición de **2010** de la Transvulcania y a quienes vencieron en su ultramaratón, la modalidad principal de la prueba. Forma parte del recorrido histórico del Paseo de la Fama en Fuencaliente."
+        },
+        {
+          "titulo": "Ganadores de la ultramaratón",
+          "visibilidad": "publica",
+          "contenido_markdown": "- **Categoría masculina:** Miguel Heras — 8:09:32.\\n- **Categoría femenina:** Nerea Martínez — 10:53:33."
+        },
+        {
+          "titulo": "Memoria de la prueba",
+          "visibilidad": "publica",
+          "contenido_markdown": "La Transvulcania ha evolucionado con el paso de los años, incorporando modalidades y cambios organizativos. Esta ficha utiliza el resultado de la ultramaratón como referencia histórica común para poder comparar todas las ediciones celebradas."
+        },
+        {
+          "titulo": "Información práctica",
+          "visibilidad": "publica",
+          "contenido_markdown": "- Esta es una ficha histórica digital integrada en el Paseo de la Fama, no una indicación de que exista un QR físico independiente para cada año.\\n- Recorridos, distancias y modalidades pueden variar entre ediciones.\\n- Para información actual de la prueba debe consultarse la web oficial de Transvulcania."
+        }
+      ]
+    },
+    "media": {
+      "imagen_principal": null,
+      "galeria": [],
+      "estado": "placeholder"
+    },
+    "fuentes": [
+      "https://transvulcania.com/palmares/"
+    ],
+    "estado": {
+      "inventario": "VERIFICADO",
+      "contenido": [
+        "edicion_confirmada",
+        "ganadores_ultramaraton_documentados"
+      ],
+      "qr": "pendiente",
+      "prueba_movil": "pendiente",
+      "validacion_municipal": "pendiente"
+    },
+    "observaciones_internas": "Edición 2010. Ganadores y tiempos de la ultramaratón contrastados con el palmarés o la crónica oficial."
+  },
+  {
+    "id": "H067",
+    "nombre": "Transvulcania 2011",
+    "slug": "transvulcania-2011",
+    "url": "/hitos/transvulcania-2011",
+    "categorias": [
+      "edicion_transvulcania"
+    ],
+    "rutas": [
+      "R06"
+    ],
+    "orden_en_rutas": {
+      "R06": 4
+    },
+    "ubicacion": {
+      "texto": "Paseo de la Fama de la Transvulcania, Los Canarios",
+      "latitud": null,
+      "longitud": null,
+      "como_llegar_url": null
+    },
+    "contenido": {
+      "secciones": [
+        {
+          "titulo": "La edición",
+          "visibilidad": "publica",
+          "contenido_markdown": "Esta ficha recuerda la edición de **2011** de la Transvulcania y a quienes vencieron en su ultramaratón, la modalidad principal de la prueba. Forma parte del recorrido histórico del Paseo de la Fama en Fuencaliente."
+        },
+        {
+          "titulo": "Ganadores de la ultramaratón",
+          "visibilidad": "publica",
+          "contenido_markdown": "- **Categoría masculina:** Miguel Heras — 7:32:11.\\n- **Categoría femenina:** Mónica Aguilera — 10:00:03."
+        },
+        {
+          "titulo": "Memoria de la prueba",
+          "visibilidad": "publica",
+          "contenido_markdown": "La Transvulcania ha evolucionado con el paso de los años, incorporando modalidades y cambios organizativos. Esta ficha utiliza el resultado de la ultramaratón como referencia histórica común para poder comparar todas las ediciones celebradas."
+        },
+        {
+          "titulo": "Información práctica",
+          "visibilidad": "publica",
+          "contenido_markdown": "- Esta es una ficha histórica digital integrada en el Paseo de la Fama, no una indicación de que exista un QR físico independiente para cada año.\\n- Recorridos, distancias y modalidades pueden variar entre ediciones.\\n- Para información actual de la prueba debe consultarse la web oficial de Transvulcania."
+        }
+      ]
+    },
+    "media": {
+      "imagen_principal": null,
+      "galeria": [],
+      "estado": "placeholder"
+    },
+    "fuentes": [
+      "https://transvulcania.com/palmares/"
+    ],
+    "estado": {
+      "inventario": "VERIFICADO",
+      "contenido": [
+        "edicion_confirmada",
+        "ganadores_ultramaraton_documentados"
+      ],
+      "qr": "pendiente",
+      "prueba_movil": "pendiente",
+      "validacion_municipal": "pendiente"
+    },
+    "observaciones_internas": "Edición 2011. Ganadores y tiempos de la ultramaratón contrastados con el palmarés o la crónica oficial."
+  },
+  {
+    "id": "H068",
+    "nombre": "Transvulcania 2012",
+    "slug": "transvulcania-2012",
+    "url": "/hitos/transvulcania-2012",
+    "categorias": [
+      "edicion_transvulcania"
+    ],
+    "rutas": [
+      "R06"
+    ],
+    "orden_en_rutas": {
+      "R06": 5
+    },
+    "ubicacion": {
+      "texto": "Paseo de la Fama de la Transvulcania, Los Canarios",
+      "latitud": null,
+      "longitud": null,
+      "como_llegar_url": null
+    },
+    "contenido": {
+      "secciones": [
+        {
+          "titulo": "La edición",
+          "visibilidad": "publica",
+          "contenido_markdown": "Esta ficha recuerda la edición de **2012** de la Transvulcania y a quienes vencieron en su ultramaratón, la modalidad principal de la prueba. Forma parte del recorrido histórico del Paseo de la Fama en Fuencaliente."
+        },
+        {
+          "titulo": "Ganadores de la ultramaratón",
+          "visibilidad": "publica",
+          "contenido_markdown": "- **Categoría masculina:** Dakota Jones — 6:59:07.\\n- **Categoría femenina:** Anna Frost — 8:11:31."
+        },
+        {
+          "titulo": "Memoria de la prueba",
+          "visibilidad": "publica",
+          "contenido_markdown": "La Transvulcania ha evolucionado con el paso de los años, incorporando modalidades y cambios organizativos. Esta ficha utiliza el resultado de la ultramaratón como referencia histórica común para poder comparar todas las ediciones celebradas."
+        },
+        {
+          "titulo": "Información práctica",
+          "visibilidad": "publica",
+          "contenido_markdown": "- Esta es una ficha histórica digital integrada en el Paseo de la Fama, no una indicación de que exista un QR físico independiente para cada año.\\n- Recorridos, distancias y modalidades pueden variar entre ediciones.\\n- Para información actual de la prueba debe consultarse la web oficial de Transvulcania."
+        }
+      ]
+    },
+    "media": {
+      "imagen_principal": null,
+      "galeria": [],
+      "estado": "placeholder"
+    },
+    "fuentes": [
+      "https://transvulcania.com/palmares/"
+    ],
+    "estado": {
+      "inventario": "VERIFICADO",
+      "contenido": [
+        "edicion_confirmada",
+        "ganadores_ultramaraton_documentados"
+      ],
+      "qr": "pendiente",
+      "prueba_movil": "pendiente",
+      "validacion_municipal": "pendiente"
+    },
+    "observaciones_internas": "Edición 2012. Ganadores y tiempos de la ultramaratón contrastados con el palmarés o la crónica oficial."
+  },
+  {
+    "id": "H069",
+    "nombre": "Transvulcania 2013",
+    "slug": "transvulcania-2013",
+    "url": "/hitos/transvulcania-2013",
+    "categorias": [
+      "edicion_transvulcania"
+    ],
+    "rutas": [
+      "R06"
+    ],
+    "orden_en_rutas": {
+      "R06": 6
+    },
+    "ubicacion": {
+      "texto": "Paseo de la Fama de la Transvulcania, Los Canarios",
+      "latitud": null,
+      "longitud": null,
+      "como_llegar_url": null
+    },
+    "contenido": {
+      "secciones": [
+        {
+          "titulo": "La edición",
+          "visibilidad": "publica",
+          "contenido_markdown": "Esta ficha recuerda la edición de **2013** de la Transvulcania y a quienes vencieron en su ultramaratón, la modalidad principal de la prueba. Forma parte del recorrido histórico del Paseo de la Fama en Fuencaliente."
+        },
+        {
+          "titulo": "Ganadores de la ultramaratón",
+          "visibilidad": "publica",
+          "contenido_markdown": "- **Categoría masculina:** Kilian Jornet — 6:54:09.\\n- **Categoría femenina:** Emelie Forsberg — 8:13:22."
+        },
+        {
+          "titulo": "Memoria de la prueba",
+          "visibilidad": "publica",
+          "contenido_markdown": "La Transvulcania ha evolucionado con el paso de los años, incorporando modalidades y cambios organizativos. Esta ficha utiliza el resultado de la ultramaratón como referencia histórica común para poder comparar todas las ediciones celebradas."
+        },
+        {
+          "titulo": "Información práctica",
+          "visibilidad": "publica",
+          "contenido_markdown": "- Esta es una ficha histórica digital integrada en el Paseo de la Fama, no una indicación de que exista un QR físico independiente para cada año.\\n- Recorridos, distancias y modalidades pueden variar entre ediciones.\\n- Para información actual de la prueba debe consultarse la web oficial de Transvulcania."
+        }
+      ]
+    },
+    "media": {
+      "imagen_principal": null,
+      "galeria": [],
+      "estado": "placeholder"
+    },
+    "fuentes": [
+      "https://transvulcania.com/palmares/"
+    ],
+    "estado": {
+      "inventario": "VERIFICADO",
+      "contenido": [
+        "edicion_confirmada",
+        "ganadores_ultramaraton_documentados"
+      ],
+      "qr": "pendiente",
+      "prueba_movil": "pendiente",
+      "validacion_municipal": "pendiente"
+    },
+    "observaciones_internas": "Edición 2013. Ganadores y tiempos de la ultramaratón contrastados con el palmarés o la crónica oficial."
+  },
+  {
+    "id": "H070",
+    "nombre": "Transvulcania 2014",
+    "slug": "transvulcania-2014",
+    "url": "/hitos/transvulcania-2014",
+    "categorias": [
+      "edicion_transvulcania"
+    ],
+    "rutas": [
+      "R06"
+    ],
+    "orden_en_rutas": {
+      "R06": 7
+    },
+    "ubicacion": {
+      "texto": "Paseo de la Fama de la Transvulcania, Los Canarios",
+      "latitud": null,
+      "longitud": null,
+      "como_llegar_url": null
+    },
+    "contenido": {
+      "secciones": [
+        {
+          "titulo": "La edición",
+          "visibilidad": "publica",
+          "contenido_markdown": "Esta ficha recuerda la edición de **2014** de la Transvulcania y a quienes vencieron en su ultramaratón, la modalidad principal de la prueba. Forma parte del recorrido histórico del Paseo de la Fama en Fuencaliente."
+        },
+        {
+          "titulo": "Ganadores de la ultramaratón",
+          "visibilidad": "publica",
+          "contenido_markdown": "- **Categoría masculina:** Luis Alberto Hernando — 6:55:41.\\n- **Categoría femenina:** Anna Frost — 8:10:41."
+        },
+        {
+          "titulo": "Memoria de la prueba",
+          "visibilidad": "publica",
+          "contenido_markdown": "La Transvulcania ha evolucionado con el paso de los años, incorporando modalidades y cambios organizativos. Esta ficha utiliza el resultado de la ultramaratón como referencia histórica común para poder comparar todas las ediciones celebradas."
+        },
+        {
+          "titulo": "Información práctica",
+          "visibilidad": "publica",
+          "contenido_markdown": "- Esta es una ficha histórica digital integrada en el Paseo de la Fama, no una indicación de que exista un QR físico independiente para cada año.\\n- Recorridos, distancias y modalidades pueden variar entre ediciones.\\n- Para información actual de la prueba debe consultarse la web oficial de Transvulcania."
+        }
+      ]
+    },
+    "media": {
+      "imagen_principal": null,
+      "galeria": [],
+      "estado": "placeholder"
+    },
+    "fuentes": [
+      "https://transvulcania.com/palmares/"
+    ],
+    "estado": {
+      "inventario": "VERIFICADO",
+      "contenido": [
+        "edicion_confirmada",
+        "ganadores_ultramaraton_documentados"
+      ],
+      "qr": "pendiente",
+      "prueba_movil": "pendiente",
+      "validacion_municipal": "pendiente"
+    },
+    "observaciones_internas": "Edición 2014. Ganadores y tiempos de la ultramaratón contrastados con el palmarés o la crónica oficial."
+  },
+  {
+    "id": "H071",
+    "nombre": "Transvulcania 2015",
+    "slug": "transvulcania-2015",
+    "url": "/hitos/transvulcania-2015",
+    "categorias": [
+      "edicion_transvulcania"
+    ],
+    "rutas": [
+      "R06"
+    ],
+    "orden_en_rutas": {
+      "R06": 8
+    },
+    "ubicacion": {
+      "texto": "Paseo de la Fama de la Transvulcania, Los Canarios",
+      "latitud": null,
+      "longitud": null,
+      "como_llegar_url": null
+    },
+    "contenido": {
+      "secciones": [
+        {
+          "titulo": "La edición",
+          "visibilidad": "publica",
+          "contenido_markdown": "Esta ficha recuerda la edición de **2015** de la Transvulcania y a quienes vencieron en su ultramaratón, la modalidad principal de la prueba. Forma parte del recorrido histórico del Paseo de la Fama en Fuencaliente."
+        },
+        {
+          "titulo": "Ganadores de la ultramaratón",
+          "visibilidad": "publica",
+          "contenido_markdown": "- **Categoría masculina:** Luis Alberto Hernando — 6:52:39.\\n- **Categoría femenina:** Emelie Forsberg — 8:32:59."
+        },
+        {
+          "titulo": "Memoria de la prueba",
+          "visibilidad": "publica",
+          "contenido_markdown": "La Transvulcania ha evolucionado con el paso de los años, incorporando modalidades y cambios organizativos. Esta ficha utiliza el resultado de la ultramaratón como referencia histórica común para poder comparar todas las ediciones celebradas."
+        },
+        {
+          "titulo": "Información práctica",
+          "visibilidad": "publica",
+          "contenido_markdown": "- Esta es una ficha histórica digital integrada en el Paseo de la Fama, no una indicación de que exista un QR físico independiente para cada año.\\n- Recorridos, distancias y modalidades pueden variar entre ediciones.\\n- Para información actual de la prueba debe consultarse la web oficial de Transvulcania."
+        }
+      ]
+    },
+    "media": {
+      "imagen_principal": null,
+      "galeria": [],
+      "estado": "placeholder"
+    },
+    "fuentes": [
+      "https://transvulcania.com/palmares/"
+    ],
+    "estado": {
+      "inventario": "VERIFICADO",
+      "contenido": [
+        "edicion_confirmada",
+        "ganadores_ultramaraton_documentados"
+      ],
+      "qr": "pendiente",
+      "prueba_movil": "pendiente",
+      "validacion_municipal": "pendiente"
+    },
+    "observaciones_internas": "Edición 2015. Ganadores y tiempos de la ultramaratón contrastados con el palmarés o la crónica oficial."
+  },
+  {
+    "id": "H072",
+    "nombre": "Transvulcania 2016",
+    "slug": "transvulcania-2016",
+    "url": "/hitos/transvulcania-2016",
+    "categorias": [
+      "edicion_transvulcania"
+    ],
+    "rutas": [
+      "R06"
+    ],
+    "orden_en_rutas": {
+      "R06": 9
+    },
+    "ubicacion": {
+      "texto": "Paseo de la Fama de la Transvulcania, Los Canarios",
+      "latitud": null,
+      "longitud": null,
+      "como_llegar_url": null
+    },
+    "contenido": {
+      "secciones": [
+        {
+          "titulo": "La edición",
+          "visibilidad": "publica",
+          "contenido_markdown": "Esta ficha recuerda la edición de **2016** de la Transvulcania y a quienes vencieron en su ultramaratón, la modalidad principal de la prueba. Forma parte del recorrido histórico del Paseo de la Fama en Fuencaliente."
+        },
+        {
+          "titulo": "Ganadores de la ultramaratón",
+          "visibilidad": "publica",
+          "contenido_markdown": "- **Categoría masculina:** Luis Alberto Hernando — 7:04:44.\\n- **Categoría femenina:** Ida Nilsson — 8:14:18."
+        },
+        {
+          "titulo": "Memoria de la prueba",
+          "visibilidad": "publica",
+          "contenido_markdown": "La Transvulcania ha evolucionado con el paso de los años, incorporando modalidades y cambios organizativos. Esta ficha utiliza el resultado de la ultramaratón como referencia histórica común para poder comparar todas las ediciones celebradas."
+        },
+        {
+          "titulo": "Información práctica",
+          "visibilidad": "publica",
+          "contenido_markdown": "- Esta es una ficha histórica digital integrada en el Paseo de la Fama, no una indicación de que exista un QR físico independiente para cada año.\\n- Recorridos, distancias y modalidades pueden variar entre ediciones.\\n- Para información actual de la prueba debe consultarse la web oficial de Transvulcania."
+        }
+      ]
+    },
+    "media": {
+      "imagen_principal": null,
+      "galeria": [],
+      "estado": "placeholder"
+    },
+    "fuentes": [
+      "https://transvulcania.com/palmares/"
+    ],
+    "estado": {
+      "inventario": "VERIFICADO",
+      "contenido": [
+        "edicion_confirmada",
+        "ganadores_ultramaraton_documentados"
+      ],
+      "qr": "pendiente",
+      "prueba_movil": "pendiente",
+      "validacion_municipal": "pendiente"
+    },
+    "observaciones_internas": "Edición 2016. Ganadores y tiempos de la ultramaratón contrastados con el palmarés o la crónica oficial."
+  },
+  {
+    "id": "H073",
+    "nombre": "Transvulcania 2017",
+    "slug": "transvulcania-2017",
+    "url": "/hitos/transvulcania-2017",
+    "categorias": [
+      "edicion_transvulcania"
+    ],
+    "rutas": [
+      "R06"
+    ],
+    "orden_en_rutas": {
+      "R06": 10
+    },
+    "ubicacion": {
+      "texto": "Paseo de la Fama de la Transvulcania, Los Canarios",
+      "latitud": null,
+      "longitud": null,
+      "como_llegar_url": null
+    },
+    "contenido": {
+      "secciones": [
+        {
+          "titulo": "La edición",
+          "visibilidad": "publica",
+          "contenido_markdown": "Esta ficha recuerda la edición de **2017** de la Transvulcania y a quienes vencieron en su ultramaratón, la modalidad principal de la prueba. Forma parte del recorrido histórico del Paseo de la Fama en Fuencaliente."
+        },
+        {
+          "titulo": "Ganadores de la ultramaratón",
+          "visibilidad": "publica",
+          "contenido_markdown": "- **Categoría masculina:** Tim Freriks — 7:02:03.\\n- **Categoría femenina:** Ida Nilsson — 8:04:17."
+        },
+        {
+          "titulo": "Memoria de la prueba",
+          "visibilidad": "publica",
+          "contenido_markdown": "La Transvulcania ha evolucionado con el paso de los años, incorporando modalidades y cambios organizativos. Esta ficha utiliza el resultado de la ultramaratón como referencia histórica común para poder comparar todas las ediciones celebradas."
+        },
+        {
+          "titulo": "Información práctica",
+          "visibilidad": "publica",
+          "contenido_markdown": "- Esta es una ficha histórica digital integrada en el Paseo de la Fama, no una indicación de que exista un QR físico independiente para cada año.\\n- Recorridos, distancias y modalidades pueden variar entre ediciones.\\n- Para información actual de la prueba debe consultarse la web oficial de Transvulcania."
+        }
+      ]
+    },
+    "media": {
+      "imagen_principal": null,
+      "galeria": [],
+      "estado": "placeholder"
+    },
+    "fuentes": [
+      "https://transvulcania.com/palmares/"
+    ],
+    "estado": {
+      "inventario": "VERIFICADO",
+      "contenido": [
+        "edicion_confirmada",
+        "ganadores_ultramaraton_documentados"
+      ],
+      "qr": "pendiente",
+      "prueba_movil": "pendiente",
+      "validacion_municipal": "pendiente"
+    },
+    "observaciones_internas": "Edición 2017. Ganadores y tiempos de la ultramaratón contrastados con el palmarés o la crónica oficial."
+  },
+  {
+    "id": "H074",
+    "nombre": "Transvulcania 2018",
+    "slug": "transvulcania-2018",
+    "url": "/hitos/transvulcania-2018",
+    "categorias": [
+      "edicion_transvulcania"
+    ],
+    "rutas": [
+      "R06"
+    ],
+    "orden_en_rutas": {
+      "R06": 11
+    },
+    "ubicacion": {
+      "texto": "Paseo de la Fama de la Transvulcania, Los Canarios",
+      "latitud": null,
+      "longitud": null,
+      "como_llegar_url": null
+    },
+    "contenido": {
+      "secciones": [
+        {
+          "titulo": "La edición",
+          "visibilidad": "publica",
+          "contenido_markdown": "Esta ficha recuerda la edición de **2018** de la Transvulcania y a quienes vencieron en su ultramaratón, la modalidad principal de la prueba. Forma parte del recorrido histórico del Paseo de la Fama en Fuencaliente."
+        },
+        {
+          "titulo": "Ganadores de la ultramaratón",
+          "visibilidad": "publica",
+          "contenido_markdown": "- **Categoría masculina:** Pere Aurell — 7:37:26.\\n- **Categoría femenina:** Ida Nilsson — 8:40:43."
+        },
+        {
+          "titulo": "Memoria de la prueba",
+          "visibilidad": "publica",
+          "contenido_markdown": "La Transvulcania ha evolucionado con el paso de los años, incorporando modalidades y cambios organizativos. Esta ficha utiliza el resultado de la ultramaratón como referencia histórica común para poder comparar todas las ediciones celebradas."
+        },
+        {
+          "titulo": "Información práctica",
+          "visibilidad": "publica",
+          "contenido_markdown": "- Esta es una ficha histórica digital integrada en el Paseo de la Fama, no una indicación de que exista un QR físico independiente para cada año.\\n- Recorridos, distancias y modalidades pueden variar entre ediciones.\\n- Para información actual de la prueba debe consultarse la web oficial de Transvulcania."
+        }
+      ]
+    },
+    "media": {
+      "imagen_principal": null,
+      "galeria": [],
+      "estado": "placeholder"
+    },
+    "fuentes": [
+      "https://transvulcania.com/palmares/"
+    ],
+    "estado": {
+      "inventario": "VERIFICADO",
+      "contenido": [
+        "edicion_confirmada",
+        "ganadores_ultramaraton_documentados"
+      ],
+      "qr": "pendiente",
+      "prueba_movil": "pendiente",
+      "validacion_municipal": "pendiente"
+    },
+    "observaciones_internas": "Edición 2018. Ganadores y tiempos de la ultramaratón contrastados con el palmarés o la crónica oficial."
+  },
+  {
+    "id": "H075",
+    "nombre": "Transvulcania 2019",
+    "slug": "transvulcania-2019",
+    "url": "/hitos/transvulcania-2019",
+    "categorias": [
+      "edicion_transvulcania"
+    ],
+    "rutas": [
+      "R06"
+    ],
+    "orden_en_rutas": {
+      "R06": 12
+    },
+    "ubicacion": {
+      "texto": "Paseo de la Fama de la Transvulcania, Los Canarios",
+      "latitud": null,
+      "longitud": null,
+      "como_llegar_url": null
+    },
+    "contenido": {
+      "secciones": [
+        {
+          "titulo": "La edición",
+          "visibilidad": "publica",
+          "contenido_markdown": "Esta ficha recuerda la edición de **2019** de la Transvulcania y a quienes vencieron en su ultramaratón, la modalidad principal de la prueba. Forma parte del recorrido histórico del Paseo de la Fama en Fuencaliente."
+        },
+        {
+          "titulo": "Ganadores de la ultramaratón",
+          "visibilidad": "publica",
+          "contenido_markdown": "- **Categoría masculina:** Thibaut Garrivier — 7:11:04.\\n- **Categoría femenina:** Ragna Debats — 8:09:25."
+        },
+        {
+          "titulo": "Memoria de la prueba",
+          "visibilidad": "publica",
+          "contenido_markdown": "La Transvulcania ha evolucionado con el paso de los años, incorporando modalidades y cambios organizativos. Esta ficha utiliza el resultado de la ultramaratón como referencia histórica común para poder comparar todas las ediciones celebradas."
+        },
+        {
+          "titulo": "Información práctica",
+          "visibilidad": "publica",
+          "contenido_markdown": "- Esta es una ficha histórica digital integrada en el Paseo de la Fama, no una indicación de que exista un QR físico independiente para cada año.\\n- Recorridos, distancias y modalidades pueden variar entre ediciones.\\n- Para información actual de la prueba debe consultarse la web oficial de Transvulcania."
+        }
+      ]
+    },
+    "media": {
+      "imagen_principal": null,
+      "galeria": [],
+      "estado": "placeholder"
+    },
+    "fuentes": [
+      "https://transvulcania.com/palmares/"
+    ],
+    "estado": {
+      "inventario": "VERIFICADO",
+      "contenido": [
+        "edicion_confirmada",
+        "ganadores_ultramaraton_documentados"
+      ],
+      "qr": "pendiente",
+      "prueba_movil": "pendiente",
+      "validacion_municipal": "pendiente"
+    },
+    "observaciones_internas": "Edición 2019. Ganadores y tiempos de la ultramaratón contrastados con el palmarés o la crónica oficial."
+  },
+  {
+    "id": "H076",
+    "nombre": "Transvulcania 2022",
+    "slug": "transvulcania-2022",
+    "url": "/hitos/transvulcania-2022",
+    "categorias": [
+      "edicion_transvulcania"
+    ],
+    "rutas": [
+      "R06"
+    ],
+    "orden_en_rutas": {
+      "R06": 13
+    },
+    "ubicacion": {
+      "texto": "Paseo de la Fama de la Transvulcania, Los Canarios",
+      "latitud": null,
+      "longitud": null,
+      "como_llegar_url": null
+    },
+    "contenido": {
+      "secciones": [
+        {
+          "titulo": "La edición",
+          "visibilidad": "publica",
+          "contenido_markdown": "Esta ficha recuerda la edición de **2022** de la Transvulcania y a quienes vencieron en su ultramaratón, la modalidad principal de la prueba. Forma parte del recorrido histórico del Paseo de la Fama en Fuencaliente."
+        },
+        {
+          "titulo": "Ganadores de la ultramaratón",
+          "visibilidad": "publica",
+          "contenido_markdown": "- **Categoría masculina:** Petter Engdahl — 7:10:29.\\n- **Categoría femenina:** Abby Hall — 8:29:10."
+        },
+        {
+          "titulo": "Memoria de la prueba",
+          "visibilidad": "publica",
+          "contenido_markdown": "La Transvulcania ha evolucionado con el paso de los años, incorporando modalidades y cambios organizativos. Esta ficha utiliza el resultado de la ultramaratón como referencia histórica común para poder comparar todas las ediciones celebradas."
+        },
+        {
+          "titulo": "Información práctica",
+          "visibilidad": "publica",
+          "contenido_markdown": "- Esta es una ficha histórica digital integrada en el Paseo de la Fama, no una indicación de que exista un QR físico independiente para cada año.\\n- Recorridos, distancias y modalidades pueden variar entre ediciones.\\n- Para información actual de la prueba debe consultarse la web oficial de Transvulcania."
+        }
+      ]
+    },
+    "media": {
+      "imagen_principal": null,
+      "galeria": [],
+      "estado": "placeholder"
+    },
+    "fuentes": [
+      "https://transvulcania.com/palmares/"
+    ],
+    "estado": {
+      "inventario": "VERIFICADO",
+      "contenido": [
+        "edicion_confirmada",
+        "ganadores_ultramaraton_documentados"
+      ],
+      "qr": "pendiente",
+      "prueba_movil": "pendiente",
+      "validacion_municipal": "pendiente"
+    },
+    "observaciones_internas": "Edición 2022. Ganadores y tiempos de la ultramaratón contrastados con el palmarés o la crónica oficial."
+  },
+  {
+    "id": "H077",
+    "nombre": "Transvulcania 2023",
+    "slug": "transvulcania-2023",
+    "url": "/hitos/transvulcania-2023",
+    "categorias": [
+      "edicion_transvulcania"
+    ],
+    "rutas": [
+      "R06"
+    ],
+    "orden_en_rutas": {
+      "R06": 14
+    },
+    "ubicacion": {
+      "texto": "Paseo de la Fama de la Transvulcania, Los Canarios",
+      "latitud": null,
+      "longitud": null,
+      "como_llegar_url": null
+    },
+    "contenido": {
+      "secciones": [
+        {
+          "titulo": "La edición",
+          "visibilidad": "publica",
+          "contenido_markdown": "Esta ficha recuerda la edición de **2023** de la Transvulcania y a quienes vencieron en su ultramaratón, la modalidad principal de la prueba. Forma parte del recorrido histórico del Paseo de la Fama en Fuencaliente."
+        },
+        {
+          "titulo": "Ganadores de la ultramaratón",
+          "visibilidad": "publica",
+          "contenido_markdown": "- **Categoría masculina:** Dakota Jones — 7:02:16.\\n- **Categoría femenina:** Martina Valmassoi — 9:09:13."
+        },
+        {
+          "titulo": "Memoria de la prueba",
+          "visibilidad": "publica",
+          "contenido_markdown": "La Transvulcania ha evolucionado con el paso de los años, incorporando modalidades y cambios organizativos. Esta ficha utiliza el resultado de la ultramaratón como referencia histórica común para poder comparar todas las ediciones celebradas."
+        },
+        {
+          "titulo": "Información práctica",
+          "visibilidad": "publica",
+          "contenido_markdown": "- Esta es una ficha histórica digital integrada en el Paseo de la Fama, no una indicación de que exista un QR físico independiente para cada año.\\n- Recorridos, distancias y modalidades pueden variar entre ediciones.\\n- Para información actual de la prueba debe consultarse la web oficial de Transvulcania."
+        }
+      ]
+    },
+    "media": {
+      "imagen_principal": null,
+      "galeria": [],
+      "estado": "placeholder"
+    },
+    "fuentes": [
+      "https://transvulcania.com/palmares/"
+    ],
+    "estado": {
+      "inventario": "VERIFICADO",
+      "contenido": [
+        "edicion_confirmada",
+        "ganadores_ultramaraton_documentados"
+      ],
+      "qr": "pendiente",
+      "prueba_movil": "pendiente",
+      "validacion_municipal": "pendiente"
+    },
+    "observaciones_internas": "Edición 2023. Ganadores y tiempos de la ultramaratón contrastados con el palmarés o la crónica oficial."
+  },
+  {
+    "id": "H078",
+    "nombre": "Transvulcania 2024",
+    "slug": "transvulcania-2024",
+    "url": "/hitos/transvulcania-2024",
+    "categorias": [
+      "edicion_transvulcania"
+    ],
+    "rutas": [
+      "R06"
+    ],
+    "orden_en_rutas": {
+      "R06": 15
+    },
+    "ubicacion": {
+      "texto": "Paseo de la Fama de la Transvulcania, Los Canarios",
+      "latitud": null,
+      "longitud": null,
+      "como_llegar_url": null
+    },
+    "contenido": {
+      "secciones": [
+        {
+          "titulo": "La edición",
+          "visibilidad": "publica",
+          "contenido_markdown": "Esta ficha recuerda la edición de **2024** de la Transvulcania y a quienes vencieron en su ultramaratón, la modalidad principal de la prueba. Forma parte del recorrido histórico del Paseo de la Fama en Fuencaliente."
+        },
+        {
+          "titulo": "Ganadores de la ultramaratón",
+          "visibilidad": "publica",
+          "contenido_markdown": "- **Categoría masculina:** Jonathan Albon — 7:03:10.\\n- **Categoría femenina:** Ruth Croft — 8:02:49."
+        },
+        {
+          "titulo": "Memoria de la prueba",
+          "visibilidad": "publica",
+          "contenido_markdown": "La Transvulcania ha evolucionado con el paso de los años, incorporando modalidades y cambios organizativos. Esta ficha utiliza el resultado de la ultramaratón como referencia histórica común para poder comparar todas las ediciones celebradas."
+        },
+        {
+          "titulo": "Información práctica",
+          "visibilidad": "publica",
+          "contenido_markdown": "- Esta es una ficha histórica digital integrada en el Paseo de la Fama, no una indicación de que exista un QR físico independiente para cada año.\\n- Recorridos, distancias y modalidades pueden variar entre ediciones.\\n- Para información actual de la prueba debe consultarse la web oficial de Transvulcania."
+        }
+      ]
+    },
+    "media": {
+      "imagen_principal": null,
+      "galeria": [],
+      "estado": "placeholder"
+    },
+    "fuentes": [
+      "https://transvulcania.com/palmares/"
+    ],
+    "estado": {
+      "inventario": "VERIFICADO",
+      "contenido": [
+        "edicion_confirmada",
+        "ganadores_ultramaraton_documentados"
+      ],
+      "qr": "pendiente",
+      "prueba_movil": "pendiente",
+      "validacion_municipal": "pendiente"
+    },
+    "observaciones_internas": "Edición 2024. Ganadores y tiempos de la ultramaratón contrastados con el palmarés o la crónica oficial."
+  },
+  {
+    "id": "H079",
+    "nombre": "Transvulcania 2025",
+    "slug": "transvulcania-2025",
+    "url": "/hitos/transvulcania-2025",
+    "categorias": [
+      "edicion_transvulcania"
+    ],
+    "rutas": [
+      "R06"
+    ],
+    "orden_en_rutas": {
+      "R06": 16
+    },
+    "ubicacion": {
+      "texto": "Paseo de la Fama de la Transvulcania, Los Canarios",
+      "latitud": null,
+      "longitud": null,
+      "como_llegar_url": null
+    },
+    "contenido": {
+      "secciones": [
+        {
+          "titulo": "La edición",
+          "visibilidad": "publica",
+          "contenido_markdown": "Esta ficha recuerda la edición de **2025** de la Transvulcania y a quienes vencieron en su ultramaratón, la modalidad principal de la prueba. Forma parte del recorrido histórico del Paseo de la Fama en Fuencaliente."
+        },
+        {
+          "titulo": "Ganadores de la ultramaratón",
+          "visibilidad": "publica",
+          "contenido_markdown": "- **Categoría masculina:** Peter Fraňo — 6:55:36.\\n- **Categoría femenina:** Anne-Lise Rousset Séguret — 8:18:17."
+        },
+        {
+          "titulo": "Memoria de la prueba",
+          "visibilidad": "publica",
+          "contenido_markdown": "La Transvulcania ha evolucionado con el paso de los años, incorporando modalidades y cambios organizativos. Esta ficha utiliza el resultado de la ultramaratón como referencia histórica común para poder comparar todas las ediciones celebradas."
+        },
+        {
+          "titulo": "Información práctica",
+          "visibilidad": "publica",
+          "contenido_markdown": "- Esta es una ficha histórica digital integrada en el Paseo de la Fama, no una indicación de que exista un QR físico independiente para cada año.\\n- Recorridos, distancias y modalidades pueden variar entre ediciones.\\n- Para información actual de la prueba debe consultarse la web oficial de Transvulcania."
+        }
+      ]
+    },
+    "media": {
+      "imagen_principal": null,
+      "galeria": [],
+      "estado": "placeholder"
+    },
+    "fuentes": [
+      "https://transvulcania.com/palmares/"
+    ],
+    "estado": {
+      "inventario": "VERIFICADO",
+      "contenido": [
+        "edicion_confirmada",
+        "ganadores_ultramaraton_documentados"
+      ],
+      "qr": "pendiente",
+      "prueba_movil": "pendiente",
+      "validacion_municipal": "pendiente"
+    },
+    "observaciones_internas": "Edición 2025. Ganadores y tiempos de la ultramaratón contrastados con el palmarés o la crónica oficial."
+  },
+  {
+    "id": "H080",
+    "nombre": "Transvulcania 2026",
+    "slug": "transvulcania-2026",
+    "url": "/hitos/transvulcania-2026",
+    "categorias": [
+      "edicion_transvulcania"
+    ],
+    "rutas": [
+      "R06"
+    ],
+    "orden_en_rutas": {
+      "R06": 17
+    },
+    "ubicacion": {
+      "texto": "Paseo de la Fama de la Transvulcania, Los Canarios",
+      "latitud": null,
+      "longitud": null,
+      "como_llegar_url": null
+    },
+    "contenido": {
+      "secciones": [
+        {
+          "titulo": "La edición",
+          "visibilidad": "publica",
+          "contenido_markdown": "Esta ficha recuerda la edición de **2026** de la Transvulcania y a quienes vencieron en su ultramaratón, la modalidad principal de la prueba. Forma parte del recorrido histórico del Paseo de la Fama en Fuencaliente."
+        },
+        {
+          "titulo": "Ganadores de la ultramaratón",
+          "visibilidad": "publica",
+          "contenido_markdown": "- **Categoría masculina:** David Sinclair — 6:32:24.\\n- **Categoría femenina:** Blandine L’Hirondel — 7:43:47."
+        },
+        {
+          "titulo": "Memoria de la prueba",
+          "visibilidad": "publica",
+          "contenido_markdown": "La decimosexta edición quedó marcada por dos nuevos récords absolutos en la ultramaratón. David Sinclair rebajó el registro masculino y Blandine L’Hirondel estableció una nueva mejor marca femenina."
+        },
+        {
+          "titulo": "Información práctica",
+          "visibilidad": "publica",
+          "contenido_markdown": "- Esta es una ficha histórica digital integrada en el Paseo de la Fama, no una indicación de que exista un QR físico independiente para cada año.\\n- Recorridos, distancias y modalidades pueden variar entre ediciones.\\n- Para información actual de la prueba debe consultarse la web oficial de Transvulcania."
+        }
+      ]
+    },
+    "media": {
+      "imagen_principal": null,
+      "galeria": [],
+      "estado": "placeholder"
+    },
+    "fuentes": [
+      "https://transvulcania.com/en/the-2026-adidas-transvulcania-was-the-best-edition-in-its-history/"
+    ],
+    "estado": {
+      "inventario": "VERIFICADO",
+      "contenido": [
+        "edicion_confirmada",
+        "ganadores_ultramaraton_documentados"
+      ],
+      "qr": "pendiente",
+      "prueba_movil": "pendiente",
+      "validacion_municipal": "pendiente"
+    },
+    "observaciones_internas": "Edición 2026. Ganadores y tiempos de la ultramaratón contrastados con el palmarés o la crónica oficial."
+  }
+]
+

@@ -6,9 +6,6 @@ const basePath = process.env.NEXT_PUBLIC_BASE_PATH ?? "";
 export const metadata: Metadata = {
   title: "Rutas de Fuencaliente",
   description: "Descubre las rutas, senderos, paisajes y lugares de interés de Fuencaliente de La Palma.",
-  other: {
-    "codex-preview": "development",
-  },
   icons: {
     icon: `${basePath}/favicon.svg`,
     shortcut: `${basePath}/favicon.svg`,

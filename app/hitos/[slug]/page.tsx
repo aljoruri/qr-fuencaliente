@@ -6,6 +6,7 @@ import { MarkdownText } from "../../components/markdown-text";
 import { PhotoHero } from "../../components/photo-hero";
 import { RouteBands } from "../../components/route-bands";
 import { SectionLabel } from "../../components/section-label";
+import { SiteFooter } from "../../components/site-footer";
 import { SiteHeader } from "../../components/site-header";
 import { getHito, getHitoById, getRutaById, hitos, publicSections } from "../../lib/data";
 import { assetPath } from "../../lib/paths";
@@ -57,7 +58,7 @@ export default async function HitoPage({ params }: Props) {
         </nav>
         <nav className="back-block"><a href={assetPath("/#rutas")}><ChevronLeft size={17} /> Ver todas las rutas</a></nav>
       </main>
-      <footer><b>Rutas de Fuencaliente</b><span>{hito.id} · Contenido provisional</span></footer>
+      <SiteFooter detail={`${hito.id} · Contenido provisional`} />
     </div>
   );
 }

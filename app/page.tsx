@@ -2,6 +2,7 @@ import { ChevronRight, MapPin } from "lucide-react";
 import { LanguageBar } from "./components/language-bar";
 import { PhotoHero } from "./components/photo-hero";
 import { SectionLabel } from "./components/section-label";
+import { SiteFooter } from "./components/site-footer";
 import { SiteHeader } from "./components/site-header";
 import { publicSections, routeAccent, rutas, sectionByTitle } from "./lib/data";
 import { assetPath } from "./lib/paths";
@@ -42,7 +43,7 @@ export default function Home() {
           <p>La información de esta demo es provisional y está preparada para validación municipal.</p>
         </section>
       </main>
-      <footer><b>Rutas de Fuencaliente</b><span>Sistema QR editable y ampliable</span></footer>
+      <SiteFooter detail="Rutas de Fuencaliente · Sistema QR editable y ampliable" />
     </div>
   );
 }

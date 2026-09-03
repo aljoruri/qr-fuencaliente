@@ -5,6 +5,7 @@ import { LanguageBar } from "../../components/language-bar";
 import { MarkdownText } from "../../components/markdown-text";
 import { PhotoHero } from "../../components/photo-hero";
 import { SectionLabel } from "../../components/section-label";
+import { SiteFooter } from "../../components/site-footer";
 import { SiteHeader } from "../../components/site-header";
 import { getHitoById, getRuta, publicSections, rutas } from "../../lib/data";
 import { assetPath } from "../../lib/paths";
@@ -50,7 +51,7 @@ export default async function RutaPage({ params }: Props) {
         </section>
         <nav className="back-block"><a href={assetPath("/#rutas")}><ChevronLeft size={17} /> Ver todas las rutas</a></nav>
       </main>
-      <footer><b>Rutas de Fuencaliente</b><span>{ruta.nombre}</span></footer>
+      <SiteFooter detail={ruta.nombre} />
     </div>
   );
 }

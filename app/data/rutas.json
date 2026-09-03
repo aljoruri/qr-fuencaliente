@@ -73,12 +73,12 @@
         {
           "titulo": "Descubre la ruta",
           "visibilidad": "publica",
-          "contenido_markdown": "Las obras se encuentran en parques, miradores, zonas costeras y calles de Los Canarios. Algunas homenajean a colectivos que han marcado la vida del municipio; otras transforman materiales naturales o recuperados en piezas vinculadas al lugar donde se exhiben.\n\nLa ruta también permite conocer la creación de artistas fuencalenteros como Gustavo Díaz y Juan Manuel Hernández Lorenzo, «Juanito». Cada ficha puede incorporar autoría, materiales, proceso creativo, significado y relación con el entorno cuando esa información se encuentre documentada."
+          "contenido_markdown": "Las obras se encuentran en parques, miradores, zonas costeras, calles de Los Canarios y el barrio de Los Quemados. Algunas homenajean a colectivos y tradiciones que han marcado la vida del municipio; otras transforman materiales naturales o recuperados en piezas vinculadas al lugar donde se exhiben.\n\nLa ruta permite conocer creaciones de Gustavo Díaz, Juan Manuel Hernández Lorenzo, «Juanito», y Manuel Pereda de Castro. Cada ficha puede incorporar autoría, materiales, proceso creativo, significado y relación con el entorno cuando esa información se encuentre documentada."
         },
         {
           "titulo": "Paradas actuales",
           "visibilidad": "publica",
-          "contenido_markdown": "- El Caminante.\n- Monumento al Viticultor.\n- Águila del parque de La Fajana.\n- Escultura dedicada a las costas de Puntalarga.\n- Escultura del Mirador de Las Indias."
+          "contenido_markdown": "- El Caminante.\n- Monumento al Viticultor.\n- Águila del parque de La Fajana.\n- Escultura dedicada a las costas de Puntalarga.\n- Escultura del Mirador de Las Indias.\n- Escultura de los Caballos Fuscos."
         },
         {
           "titulo": "Antes de comenzar",
@@ -97,7 +97,8 @@
       "H012",
       "H013",
       "H014",
-      "H015"
+      "H015",
+      "H064"
     ],
     "estado": {
       "contenido": "demo_preparada",
@@ -123,12 +124,12 @@
         {
           "titulo": "Descubre la ruta",
           "visibilidad": "publica",
-          "contenido_markdown": "Fuencaliente se caracteriza por sus fuertes contrastes. En pocos kilómetros, el paisaje pasa del pinar y las zonas de cultivo a los campos de lava y el océano. La historia del municipio también está marcada por la adaptación de sus habitantes a las erupciones, la escasez de agua y el trabajo agrícola.\n\nEsta ruta conecta algunos de los lugares que mejor resumen esa identidad: Los Canarios, los volcanes de San Antonio y Teneguía, el Roque Teneguía, los faros, las salinas, la Fuente Santa y los paisajes vitivinícolas. No pretende sustituir las rutas temáticas, sino ofrecer una visión inicial y enlazar después con ellas."
+          "contenido_markdown": "Fuencaliente se caracteriza por sus fuertes contrastes. En pocos kilómetros, el paisaje pasa del pinar y las zonas de cultivo a los campos de lava y el océano. La historia del municipio también está marcada por la adaptación de sus habitantes a las erupciones, la escasez de agua y el trabajo agrícola.\n\nEsta ruta conecta algunos de los lugares que mejor resumen esa identidad: Los Canarios, los volcanes de San Antonio y Teneguía, el Roque Teneguía, los faros, las salinas y los paisajes vitivinícolas. No pretende sustituir las rutas temáticas, sino ofrecer una visión inicial y enlazar después con ellas."
         },
         {
           "titulo": "Paradas provisionales",
           "visibilidad": "publica",
-          "contenido_markdown": "- Los Canarios.\n- Volcán de San Antonio.\n- Volcán Teneguía.\n- Roque Teneguía.\n- Faros de Fuencaliente.\n- Salinas de Fuencaliente.\n- Fuente Santa.\n- Playa de Echentive.\n- Pino de la Virgen.\n- Mirador de Las Indias.\n- Llanos Negros."
+          "contenido_markdown": "- Los Canarios.\n- Volcán de San Antonio.\n- Volcán Teneguía.\n- Roque Teneguía.\n- Faros de Fuencaliente.\n- Salinas de Fuencaliente.\n- Playa de Echentive.\n- Pino de la Virgen.\n- Mirador de Las Indias.\n- Llanos Negros."
         },
         {
           "titulo": "Antes de comenzar",
@@ -148,7 +149,6 @@
       "H017",
       "H018",
       "H019",
-      "H020",
       "H021",
       "H022",
       "H023",
@@ -179,7 +179,7 @@
         {
           "titulo": "Descubre la ruta",
           "visibilidad": "publica",
-          "contenido_markdown": "La actividad volcánica explica buena parte del relieve, la historia y la economía del municipio. Sus huellas pueden reconocerse en el Volcán de San Antonio, el Teneguía, el Volcán de Martín y la Caldera del Búcaro, pero también en la formación de nuevas costas, el cultivo de la vid sobre picón y el relato de la Fuente Santa.\n\nEl Centro de Visitantes del Volcán de San Antonio ofrece el contexto necesario para interpretar estos procesos. El GR-131 permite recorrer parte del paisaje a pie, mientras que otros puntos deben visitarse siguiendo accesos y recomendaciones específicas. La ruta temática reúne todos estos elementos sin afirmar que constituyan un único recorrido senderista continuo."
+          "contenido_markdown": "La actividad volcánica explica buena parte del relieve, la historia y la economía del municipio. Sus huellas pueden reconocerse en el Volcán de San Antonio, el Teneguía, el Volcán de Martín y la Caldera del Búcaro, pero también en la formación de nuevas costas y en el cultivo de la vid sobre picón.\n\nEl Centro de Visitantes del Volcán de San Antonio ofrece el contexto necesario para interpretar estos procesos. El GR-131 permite recorrer parte del paisaje a pie, mientras que otros puntos deben visitarse siguiendo accesos y recomendaciones específicas. La ruta temática reúne todos estos elementos sin afirmar que constituyan un único recorrido senderista continuo."
         },
         {
           "titulo": "Paradas",
@@ -275,7 +275,7 @@
     "url": "/rutas/paseo-de-la-transvulcania",
     "color": null,
     "color_estado": "pendiente_de_recuperar",
-    "seleccion_estado": "Modelado como un único hito-conjunto para la demo",
+    "seleccion_estado": "Paseo general y una ficha histórica por cada una de las 16 ediciones celebradas",
     "contenido": {
       "secciones": [
         {
@@ -286,12 +286,12 @@
         {
           "titulo": "Descubre la ruta",
           "visibilidad": "publica",
-          "contenido_markdown": "La Transvulcania atraviesa algunos de los paisajes más exigentes y reconocibles de la isla. El Paseo de la Fama recuerda a deportistas que han alcanzado los puestos más destacados de la prueba desde 2016 y ofrece un punto desde el que acercarse a su trayectoria.\n\nPara la demo, el paseo funciona como un único conjunto. La página podrá incorporar una galería o relación de homenajeados cuando se disponga del inventario completo de placas, años y resultados. Así se evita crear numerosos QR para elementos que forman parte de una misma experiencia física."
+          "contenido_markdown": "La Transvulcania atraviesa algunos de los paisajes más exigentes y reconocibles de la isla. Desde su nacimiento en 2009, la prueba ha construido una historia deportiva estrechamente vinculada a Fuencaliente, punto de salida de la ultramaratón.\n\nLa ruta se organiza como una cronología: comienza con la ficha general del Paseo de la Fama y continúa con un hito digital para cada edición celebrada. Cada ficha identifica a los ganadores masculino y femenino de la ultramaratón y sus tiempos. No se incluyen 2020 ni 2021 porque las pruebas previstas para esos años no llegaron a celebrarse."
         },
         {
-          "titulo": "Parada",
+          "titulo": "Cronología",
           "visibilidad": "publica",
-          "contenido_markdown": "- Paseo de la Fama de la Transvulcania."
+          "contenido_markdown": "- Paseo de la Fama de la Transvulcania.\n- Ediciones celebradas entre 2009 y 2019.\n- Ediciones celebradas entre 2022 y 2026."
         },
         {
           "titulo": "Antes de comenzar",
@@ -301,12 +301,28 @@
         {
           "titulo": "Control interno",
           "visibilidad": "interna",
-          "contenido_markdown": "- Solicitar inventario de personas homenajeadas y fotografías de las placas.\n- Mantener un solo QR; usar subfichas internas si el volumen de contenido lo requiere."
+          "contenido_markdown": "- Solicitar inventario de placas y confirmar la correspondencia física entre homenajes y ediciones.\n- Mantener URL estable para cada edición y añadir en el futuro podios, modalidades o material audiovisual sin modificar el identificador.\n- Incorporar fotografías autorizadas de cada edición."
         }
       ]
     },
     "hito_ids": [
-      "H016"
+      "H016",
+      "H065",
+      "H066",
+      "H067",
+      "H068",
+      "H069",
+      "H070",
+      "H071",
+      "H072",
+      "H073",
+      "H074",
+      "H075",
+      "H076",
+      "H077",
+      "H078",
+      "H079",
+      "H080"
     ],
     "estado": {
       "contenido": "demo_preparada",
@@ -501,7 +517,7 @@
         {
           "titulo": "Paradas provisionales",
           "visibilidad": "publica",
-          "contenido_markdown": "- Iglesia de San Antonio Abad.\n- Iglesia de Santa Cecilia.\n- Iglesia Nuestra Señora Madre de la Iglesia.\n- Centro Cultural de Los Canarios.\n- Centro Cultural de Las Indias.\n- Centro Social de Los Quemados.\n- Centro de Interpretación de la Reserva Marina.\n- Centro de Artesanía Artesol.\n- D.O.P. Vinos La Palma.\n- Faros de Fuencaliente.\n- Salinas de Fuencaliente.\n- Fuente Santa.\n- Roque Teneguía.\n- Paseo de la Fama de la Transvulcania.\n- Monumento al Viticultor.\n- Fuente del Vino.\n- Lagar tradicional de tea.\n- Pino de la Virgen."
+          "contenido_markdown": "- Iglesia de San Antonio Abad.\n- Iglesia de Santa Cecilia.\n- Iglesia Nuestra Señora Madre de la Iglesia.\n- Centro Cultural de Los Canarios.\n- Centro Cultural de Las Indias.\n- Centro Social de Los Quemados.\n- Centro de Interpretación de la Reserva Marina.\n- Centro de Artesanía Artesol.\n- D.O.P. Vinos La Palma.\n- Faros de Fuencaliente.\n- Salinas de Fuencaliente.\n- Roque Teneguía.\n- Paseo de la Fama de la Transvulcania.\n- Monumento al Viticultor.\n- Fuente del Vino.\n- Lagar tradicional de tea.\n- Pino de la Virgen."
         },
         {
           "titulo": "Antes de comenzar",
@@ -520,7 +536,6 @@
       "H016",
       "H018",
       "H019",
-      "H020",
       "H022",
       "H024",
       "H046",

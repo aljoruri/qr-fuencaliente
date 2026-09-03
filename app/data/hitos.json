@@ -166,7 +166,7 @@
         {
           "titulo": "Conoce este lugar",
           "visibilidad": "publica",
-          "contenido_markdown": "El paisaje que rodea el Volcán de San Antonio está estrechamente vinculado a la actividad eruptiva histórica del sur de La Palma. Las erupciones modificaron el relieve, afectaron a antiguos terrenos de cultivo y contribuyeron a formar nuevas plataformas costeras. También están relacionadas con uno de los episodios más conocidos de la historia local: el sepultamiento de la Fuente Santa en el siglo XVII.\n\nJunto al volcán se encuentra el Centro de Visitantes, donde se interpreta el origen geológico de La Palma, los riesgos y beneficios asociados al vulcanismo y la erupción del Teneguía de 1971. Desde el recinto parte un recorrido por el borde del cráter hasta un mirador con vistas sobre la vertiente sur y oeste de la isla."
+          "contenido_markdown": "El paisaje que rodea el Volcán de San Antonio está estrechamente vinculado a la actividad eruptiva histórica del sur de La Palma. Las erupciones modificaron el relieve, afectaron a antiguos terrenos de cultivo y contribuyeron a formar nuevas plataformas costeras.\n\nJunto al volcán se encuentra el Centro de Visitantes, donde se interpreta el origen geológico de La Palma, los riesgos y beneficios asociados al vulcanismo y la erupción del Teneguía de 1971. Desde el recinto parte un recorrido por el borde del cráter hasta un mirador con vistas sobre la vertiente sur y oeste de la isla."
         },
         {
           "titulo": "La décima",
@@ -1047,12 +1047,12 @@
         {
           "titulo": "Conoce este lugar",
           "visibilidad": "publica",
-          "contenido_markdown": "La Transvulcania es una carrera de montaña que atraviesa algunos de los paisajes más representativos de La Palma. Su recorrido principal ha llegado a superar los setenta kilómetros y exige una gran preparación física, pero su identidad no depende solo de los corredores: también se ha construido con el apoyo de voluntariado, organización y público.\n\nEl Paseo de la Fama homenajea a deportistas que han alcanzado los puestos más destacados de la prueba desde 2016. Para la demo, el paseo se presenta como un único hito con una introducción general y un módulo destinado a reunir a las personas homenajeadas."
+          "contenido_markdown": "La Transvulcania es una carrera de montaña que atraviesa algunos de los paisajes más representativos de La Palma. Su recorrido principal ha llegado a superar los setenta kilómetros y exige una gran preparación física, pero su identidad no depende solo de los corredores: también se ha construido con el apoyo de voluntariado, organización y público.\n\nEsta ficha presenta el Paseo de la Fama como puerta de entrada a una cronología completa. Desde ella puede accederse a un hito digital independiente para cada edición celebrada desde 2009."
         },
         {
-          "titulo": "Deportistas homenajeados",
+          "titulo": "Las ediciones",
           "visibilidad": "publica",
-          "contenido_markdown": "**Listado completo, año y resultado:** pendientes de documentación oficial actualizada.\n\nNo se publicarán nombres ni marcas deportivas hasta disponer de una relación fiable que permita evitar omisiones o errores."
+          "contenido_markdown": "La cronología reúne **16 ediciones celebradas**: de 2009 a 2019 y de 2022 a 2026. Las fichas de 2020 y 2021 no se generan porque las pruebas previstas para esos años fueron canceladas.\n\nCada edición identifica a los ganadores masculino y femenino de la ultramaratón y sus tiempos según el palmarés y las crónicas oficiales."
         },
         {
           "titulo": "Información práctica",
@@ -1062,7 +1062,7 @@
         {
           "titulo": "Control interno",
           "visibilidad": "interna",
-          "contenido_markdown": "- Mantener una sola URL estable para el paseo.\n- Si el Ayuntamiento entrega el inventario de placas, modelar cada homenajeado como subelemento, no necesariamente como QR independiente.\n- No fijar la distancia vigente de la carrera en un texto permanente."
+          "contenido_markdown": "- Mantener una URL estable para el paseo y otra para cada edición.\n- Contrastar el inventario de placas físicas con la cronología digital.\n- No fijar como permanentes recorridos o distancias que hayan cambiado entre ediciones."
         },
         {
           "titulo": "Fuentes de trabajo",
@@ -1083,13 +1083,13 @@
       "inventario": "VERIFICADO",
       "contenido": [
         "base_oficial_disponible",
-        "listado_de_homenajeados_pendiente"
+      "cronologia_de_ediciones_incorporada"
       ],
       "qr": "pendiente",
       "prueba_movil": "pendiente",
       "validacion_municipal": "pendiente"
     },
-    "observaciones_internas": "Para la demo se trata como un hito único. Decidir después si cada homenajeado será subficha."
+  "observaciones_internas": "Hito introductorio. Las ediciones celebradas se modelan como fichas digitales H065-H080."
   },
   {
     "id": "H017",
@@ -1275,67 +1275,6 @@
     "observaciones_internas": "Pertenencia a R03 propuesta."
   },
   {
-    "id": "H020",
-    "nombre": "Fuente Santa",
-    "slug": "fuente-santa",
-    "url": "/hitos/fuente-santa",
-    "categorias": [
-      "patrimonio_historico",
-      "aguas_termales"
-    ],
-    "rutas": [
-      "R03",
-      "R10"
-    ],
-    "orden_en_rutas": {
-      "R03": null,
-      "R10": null
-    },
-    "ubicacion": {
-      "texto": "Costa sur de Fuencaliente",
-      "latitud": null,
-      "longitud": null,
-      "como_llegar_url": null
-    },
-    "contenido": {
-      "secciones": [
-        {
-          "titulo": "Qué estás viendo",
-          "visibilidad": "publica",
-          "contenido_markdown": "Fuente Santa es un manantial termal histórico situado en la costa de Fuencaliente. Fue conocido durante los siglos XVI y XVII, quedó sepultado por la erupción de 1677 y fue localizado de nuevo tras un prolongado trabajo de investigación y excavación."
-        },
-        {
-          "titulo": "Conoce este lugar",
-          "visibilidad": "publica",
-          "contenido_markdown": "La historia de la fuente reúne geología, memoria y búsqueda científica. La información municipal sitúa su redescubrimiento en 2005 y caracteriza sus aguas como termales, cloruradas sódicas y carbónicas. Esta descripción no debe convertirse en una recomendación sanitaria ni en promesas terapéuticas."
-        },
-        {
-          "titulo": "Información práctica",
-          "visibilidad": "publica",
-          "contenido_markdown": "- Entorno general: costa sur de Fuencaliente.\n- No presentar el enclave como balneario o lugar de baño abierto.\n- Acceso, situación operativa, régimen de visitas y coordenadas: pendientes de confirmación municipal."
-        }
-      ]
-    },
-    "media": {
-      "imagen_principal": null,
-      "galeria": [],
-      "estado": "oficial_provisional"
-    },
-    "fuentes": [
-      "https://turismofuencalientedelapalma.com/fuencaliente/fuente-santa/"
-    ],
-    "estado": {
-      "inventario": "VERIFICADO",
-      "contenido": [
-        "base_oficial_amplia_disponible"
-      ],
-      "qr": "pendiente",
-      "prueba_movil": "pendiente",
-      "validacion_municipal": "pendiente"
-    },
-    "observaciones_internas": "Acceso, estado actual y forma de visita pendientes de validar. Pertenencia a R03 propuesta."
-  },
-  {
     "id": "H021",
     "nombre": "Volcán Teneguía",
     "slug": "volcan-teneguia",
@@ -1503,7 +1442,7 @@
         {
           "titulo": "Conoce este lugar",
           "visibilidad": "publica",
-          "contenido_markdown": "Entre octubre y noviembre de 1971, las coladas del volcán Teneguía alcanzaron el mar y ampliaron la superficie de La Palma. Sobre ese nuevo terreno se formó la Playa de Echentive, un enclave que permite observar de manera directa cómo el volcanismo sigue construyendo el litoral de la isla.\n\nLa playa tiene aproximadamente 275 metros de longitud según la información turística municipal. En ella predominan los callaos y las gravas de distinto tamaño. En el entorno existen senderos y dos charcas naturales situadas al pie del acantilado, elementos de gran interés paisajístico.\n\nMuy cerca se encuentra la galería de la Fuente Santa, el histórico manantial termal que quedó sepultado por una erupción del siglo XVII y fue localizado de nuevo siglos después. La galería no debe presentarse como una visita pública sin confirmación oficial."
+          "contenido_markdown": "Entre octubre y noviembre de 1971, las coladas del volcán Teneguía alcanzaron el mar y ampliaron la superficie de La Palma. Sobre ese nuevo terreno se formó la Playa de Echentive, un enclave que permite observar de manera directa cómo el volcanismo sigue construyendo el litoral de la isla.\n\nLa playa tiene aproximadamente 275 metros de longitud según la información turística municipal. En ella predominan los callaos y las gravas de distinto tamaño. En el entorno existen senderos y dos charcas naturales situadas al pie del acantilado, elementos de gran interés paisajístico."
         },
         {
           "titulo": "Información práctica",
@@ -3961,5 +3900,66 @@
       "validacion_municipal": "pendiente"
     },
     "observaciones_internas": "La web municipal destaca su cultivo sobre suelos de la erupción de 1971. Falta definir un punto físico para el QR."
+  },
+  {
+    "id": "H064",
+    "nombre": "Escultura de los Caballos Fuscos",
+    "slug": "escultura-caballos-fuscos",
+    "url": "/hitos/escultura-caballos-fuscos",
+    "categorias": [
+      "escultura",
+      "arte_publico"
+    ],
+    "rutas": [
+      "R02"
+    ],
+    "orden_en_rutas": {
+      "R02": 6
+    },
+    "ubicacion": {
+      "texto": "Rotonda del cruce de Los Quemados, entre la LP-209 y la LP-2091",
+      "latitud": null,
+      "longitud": null,
+      "como_llegar_url": null
+    },
+    "contenido": {
+      "secciones": [
+        {
+          "titulo": "Qué estás viendo",
+          "visibilidad": "publica",
+          "contenido_markdown": "Esta escultura representa a los **Caballos Fuscos**, una de las tradiciones festivas más singulares de Fuencaliente y especialmente vinculada al barrio de Los Quemados. La obra fue realizada por el escultor Manuel Pereda de Castro."
+        },
+        {
+          "titulo": "Conoce este lugar",
+          "visibilidad": "publica",
+          "contenido_markdown": "Los Caballos Fuscos son figuras de apariencia equina confeccionadas tradicionalmente con telas, palos y otros materiales. Su danza se interpreta al compás de una polca durante las fiestas y forma parte de la memoria cultural del municipio.\n\nLa escultura traslada esa manifestación popular al espacio público y funciona como homenaje permanente a las personas que han cuidado y transmitido la tradición. Fue colocada en 2020 en la rotonda del cruce de Los Quemados, donde confluyen la carretera de Las Indias y el acceso hacia el barrio."
+        },
+        {
+          "titulo": "Información práctica",
+          "visibilidad": "publica",
+          "contenido_markdown": "- **Ubicación:** rotonda del cruce de Los Quemados, entre la LP-209 y la LP-2091.\n- **Autor:** Manuel Pereda de Castro.\n- **Instalación en su ubicación actual:** 2020.\n- Observar la pieza desde una zona segura y no acceder a la calzada ni al interior de la rotonda para fotografiarla."
+        }
+      ]
+    },
+    "media": {
+      "imagen_principal": null,
+      "galeria": [],
+      "estado": "placeholder"
+    },
+    "fuentes": [
+      "https://www.facebook.com/aytofuencaliente/posts/1313518432314617/",
+      "https://www.eldiario.es/canariasahora/lapalmaahora/municipios/escultura-caballos-fuscos-fuencaliente-luce-rotonda-quemados_1_6437644.html"
+    ],
+    "estado": {
+      "inventario": "VERIFICADO",
+      "contenido": [
+        "autor_y_ubicacion_documentados",
+        "fotografia_pendiente"
+      ],
+      "qr": "pendiente",
+      "prueba_movil": "pendiente",
+      "validacion_municipal": "pendiente"
+    },
+    "observaciones_internas": "Autor, ubicación e instalación documentados. Confirmar título oficial, materiales, año de creación y coordenadas antes de la versión definitiva."
   }
 ]

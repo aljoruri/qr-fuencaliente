@@ -15,8 +15,12 @@ async function collectFiles(directory) {
 
 const allFiles = await collectFiles(outputDirectory);
 const pages = allFiles.filter((file) => file.endsWith("index.html"));
-if (pages.length !== 75) {
-  throw new Error(`Se esperaban 75 páginas y se generaron ${pages.length}`);
+const rutas = JSON.parse(await readFile(path.resolve("app/data/rutas.json"), "utf8"));
+const hitos = JSON.parse(await readFile(path.resolve("app/data/hitos.json"), "utf8"));
+const edicionesTransvulcania = JSON.parse(await readFile(path.resolve("app/data/transvulcania-ediciones.json"), "utf8"));
+const expectedPages = 1 + rutas.length + hitos.length + edicionesTransvulcania.length;
+if (pages.length !== expectedPages) {
+  throw new Error(`Se esperaban ${expectedPages} páginas y se generaron ${pages.length}`);
 }
 
 const textFiles = allFiles.filter((file) => file.endsWith(".html") || file.endsWith(".rsc"));

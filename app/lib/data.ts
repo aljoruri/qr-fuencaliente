@@ -1,5 +1,6 @@
 import rutasData from "../data/rutas.json";
 import hitosData from "../data/hitos.json";
+import transvulcaniaEdicionesData from "../data/transvulcania-ediciones.json";
 
 export type ContentSection = {
   titulo: string;
@@ -46,7 +47,7 @@ export type Hito = {
 };
 
 export const rutas = rutasData as Ruta[];
-export const hitos = hitosData as Hito[];
+export const hitos = [...hitosData, ...transvulcaniaEdicionesData] as Hito[];
 
 export const getRuta = (slug: string) => rutas.find((ruta) => ruta.slug === slug);
 export const getHito = (slug: string) => hitos.find((hito) => hito.slug === slug);

@@ -1,12 +1,5 @@
 [
   {
-    "id": "aguas_termales",
-    "nombre": "Aguas termales",
-    "hito_ids": [
-      "H020"
-    ]
-  },
-  {
     "id": "area_de_estancia",
     "nombre": "Área de estancia",
     "hito_ids": [
@@ -45,7 +38,8 @@
     "nombre": "arte publico",
     "hito_ids": [
       "H011",
-      "H013"
+      "H013",
+      "H064"
     ]
   },
   {
@@ -115,7 +109,8 @@
     "id": "escultura",
     "nombre": "Escultura",
     "hito_ids": [
-      "H012"
+      "H012",
+      "H064"
     ]
   },
   {
@@ -130,6 +125,28 @@
     "nombre": "Escultura con materiales recuperados",
     "hito_ids": [
       "H015"
+    ]
+  },
+  {
+    "id": "edicion_transvulcania",
+    "nombre": "Edición de la Transvulcania",
+    "hito_ids": [
+      "H065",
+      "H066",
+      "H067",
+      "H068",
+      "H069",
+      "H070",
+      "H071",
+      "H072",
+      "H073",
+      "H074",
+      "H075",
+      "H076",
+      "H077",
+      "H078",
+      "H079",
+      "H080"
     ]
   },
   {
@@ -243,13 +260,6 @@
     "hito_ids": [
       "H046",
       "H047"
-    ]
-  },
-  {
-    "id": "patrimonio_historico",
-    "nombre": "Patrimonio histórico",
-    "hito_ids": [
-      "H020"
     ]
   },
   {
