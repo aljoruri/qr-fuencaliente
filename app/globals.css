@@ -114,6 +114,8 @@ button, a { -webkit-tap-highlight-color: transparent; }
 .prose-copy p { margin: 0 0 13px; }.prose-copy p:last-child { margin-bottom: 0; }
 .prose-copy ul, .prose-copy ol { padding-left: 21px; margin: 10px 0; display: grid; gap: 8px; }
 .prose-copy strong { font-weight: 600; color: var(--marron); }
+.prose-copy a { color: var(--marron); font-weight: 600; text-decoration-color: var(--dorado); text-underline-offset: 3px; }
+.prose-copy a:hover { color: var(--vino); }
 .prose-copy blockquote { margin: 14px 0; padding: 12px 14px; border-left: 2px solid var(--dorado); color: var(--gris); background: rgba(200,168,75,.07); }
 
 .route-list, .poi-list { display: flex; flex-direction: column; gap: 9px; }

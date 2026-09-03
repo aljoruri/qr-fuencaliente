@@ -725,12 +725,17 @@
         {
           "titulo": "La décima",
           "visibilidad": "publica",
-          "contenido_markdown": "**Autor:** Miguel Martín Méndez  \n**Texto:** pendiente de transcripción o entrega municipal.  \n**Audio:** pendiente de confirmar."
+          "contenido_markdown": "**Autor:** Miguel Martín Méndez\n\nSi has llegado hasta aquí\nmira hacia el horizonte\nteniendo detrás el monte\ny Las Indias frente a ti.\nYo en este pueblo nací\nfrente a un mar de vinagreras;\nal fondo, las plataneras\ndonde el sol, en el ocaso,\nenvía un rojo chispazo\nencima de las tederas."
         },
         {
           "titulo": "La escultura",
           "visibilidad": "publica",
-          "contenido_markdown": "**Autor:** Gustavo Díaz  \n**Título:** pendiente de confirmar.  \n**Materiales y fecha:** pendientes de ficha técnica."
+          "contenido_markdown": "**Autor:** Gustavo Díaz\n**Título:** pendiente de confirmar.\n\nLa obra reúne una piedra volcánica natural y una figura de ave construida a partir de piezas metálicas reutilizadas. Sus formas mecánicas, unidas mediante soldadura, contrastan con la textura irregular de la roca sobre la que se posa.\n\nEn uno de los laterales, un brazo y una mano de escala humana parecen abrazar el soporte. Esta presencia introduce un vínculo directo entre la persona, la creación artística y el paisaje que rodea el mirador. La pieza establece así un diálogo visual entre naturaleza, reutilización de materiales y presencia humana.\n\nEsta descripción se basa en la observación de la obra. Los materiales concretos, el título y la interpretación del autor quedan pendientes de incorporar desde su ficha técnica."
+        },
+        {
+          "titulo": "Vídeo de la inauguración",
+          "visibilidad": "publica",
+          "contenido_markdown": "[Ver el vídeo de la inauguración en YouTube](https://www.youtube.com/watch?v=upKmJOaQHAE)\n\nVídeo cortesía de **El Time**."
         },
         {
           "titulo": "Información práctica",
@@ -740,12 +745,12 @@
         {
           "titulo": "Control interno",
           "visibilidad": "interna",
-          "contenido_markdown": "- Utilizar como fotografía provisional una imagen institucional de la inauguración, sujeta a autorización.\n- Es el mejor QR para demostrar franjas múltiples y módulos diferentes en una sola ficha.\n- Confirmar el título de la obra de Gustavo Díaz antes de la versión definitiva."
+          "contenido_markdown": "- La décima ha sido transcrita de la placa fotografiada en el mirador.\n- La descripción de la escultura se basa en la observación de la obra; confirmar con Gustavo Díaz el título, los materiales y su interpretación antes de la versión definitiva.\n- Confirmar la autorización y el crédito de las fotografías antes de su publicación definitiva.\n- Es un buen QR para demostrar franjas múltiples y módulos diferentes en una sola ficha."
         },
         {
           "titulo": "Fuentes de trabajo",
           "visibilidad": "interna",
-          "contenido_markdown": "- Ayuntamiento de Fuencaliente, 7 de agosto de 2026: https://fuencalientedelapalma.es/2026/08/07/fuencaliente-inaugura-el-nuevo-mirador-de-las-indias-un-nuevo-referente-paisajistico-y-cultural/"
+          "contenido_markdown": "- Ayuntamiento de Fuencaliente, 7 de agosto de 2026: https://fuencalientedelapalma.es/2026/08/07/fuencaliente-inaugura-el-nuevo-mirador-de-las-indias-un-nuevo-referente-paisajistico-y-cultural/\n- El Time, «Fuencaliente inaugura el nuevo Mirador de Las Indias»: https://www.eltime.es/economia/129-campo-palmero/59643-fuencaliente-inaugura-el-nuevo-mirador-de-las-indias.html\n- Vídeo de la inauguración, cortesía de El Time: https://www.youtube.com/watch?v=upKmJOaQHAE\n- Fotografías de la obra y de la placa de la décima aportadas para esta ficha."
         }
       ]
     },
@@ -755,20 +760,24 @@
       "estado": "oficial_disponible"
     },
     "fuentes": [
-      "https://fuencalientedelapalma.es/2026/08/07/fuencaliente-inaugura-el-nuevo-mirador-de-las-indias-un-nuevo-referente-paisajistico-y-cultural/"
+      "https://fuencalientedelapalma.es/2026/08/07/fuencaliente-inaugura-el-nuevo-mirador-de-las-indias-un-nuevo-referente-paisajistico-y-cultural/",
+      "https://www.eltime.es/economia/129-campo-palmero/59643-fuencaliente-inaugura-el-nuevo-mirador-de-las-indias.html",
+      "https://www.youtube.com/watch?v=upKmJOaQHAE"
     ],
     "estado": {
       "inventario": "VERIFICADO",
       "contenido": [
         "base_oficial_disponible",
-        "decima_identificada",
-        "autor_escultura_identificado"
+        "decima_transcrita",
+        "autor_escultura_identificado",
+        "descripcion_visual_escultura",
+        "video_inauguracion_enlazado"
       ],
       "qr": "pendiente",
       "prueba_movil": "pendiente",
       "validacion_municipal": "pendiente"
     },
-    "observaciones_internas": "Inaugurado el 07/08/2026. Décima de Miguel Martín Méndez y escultura de Gustavo Díaz. Confirmar título de la escultura y orden en R01."
+    "observaciones_internas": "Inaugurado el 07/08/2026. Décima de Miguel Martín Méndez transcrita de la placa. Escultura de Gustavo Díaz descrita mediante observación; confirmar título, materiales e interpretación. Vídeo de la inauguración enlazado con crédito a El Time. Confirmar orden en R01."
   },
   {
     "id": "H012",
