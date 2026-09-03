@@ -3,6 +3,7 @@ import { notFound } from "next/navigation";
 import { ChevronLeft, ChevronRight, MapPin } from "lucide-react";
 import { LanguageBar } from "../../components/language-bar";
 import { MarkdownText } from "../../components/markdown-text";
+import { OfflineDownload } from "../../components/offline-download";
 import { PhotoHero } from "../../components/photo-hero";
 import { SectionLabel } from "../../components/section-label";
 import { SiteFooter } from "../../components/site-footer";
@@ -31,6 +32,11 @@ export default async function RutaPage({ params }: Props) {
       <main>
         <PhotoHero src={assetPath(`/fotos/rutas/${ruta.slug}.jpg`)} filename={photoFilename} title={ruta.nombre} subtitle={`${ruta.hito_ids.length} ${ruta.hito_ids.length === 1 ? "parada" : "paradas"} · Fuencaliente de La Palma`} />
         <LanguageBar />
+        <OfflineDownload
+          selection={`route:${ruta.slug}`}
+          title="Guarda esta ruta"
+          description="Descarga sus paradas y fotografías disponibles para consultarlas durante el recorrido sin cobertura."
+        />
         {intro && <section className="mobile-section"><SectionLabel>Sobre la ruta</SectionLabel><MarkdownText value={intro.contenido_markdown} /></section>}
         {detailSections.map((section) => <section className="mobile-section" key={section.titulo}><SectionLabel>{section.titulo}</SectionLabel><MarkdownText value={section.contenido_markdown} /></section>)}
         <section className="mobile-section">

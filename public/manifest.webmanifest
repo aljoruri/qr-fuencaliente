@@ -1,0 +1,20 @@
+{
+  "name": "Rutas de Fuencaliente de La Palma",
+  "short_name": "Fuencaliente",
+  "description": "Rutas, senderos y lugares de interés de Fuencaliente de La Palma.",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#faf6f0",
+  "theme_color": "#2c1a0e",
+  "lang": "es",
+  "icons": [
+    {
+      "src": "identidad/escudo-ayuntamiento-fuencaliente.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

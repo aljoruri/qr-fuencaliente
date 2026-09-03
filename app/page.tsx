@@ -1,5 +1,6 @@
 import { ChevronRight, MapPin } from "lucide-react";
 import { LanguageBar } from "./components/language-bar";
+import { OfflineDownload } from "./components/offline-download";
 import { PhotoHero } from "./components/photo-hero";
 import { SectionLabel } from "./components/section-label";
 import { SiteFooter } from "./components/site-footer";
@@ -14,6 +15,7 @@ export default function Home() {
       <main>
         <PhotoHero src={assetPath("/fotos/portada.jpg")} filename="public/fotos/portada.jpg" title="Rutas de Fuencaliente" subtitle="La Palma · volcanes, costa, cultura y tradición" />
         <LanguageBar />
+        <OfflineDownload />
         <section className="mobile-section intro-section">
           <SectionLabel>Descubre el municipio</SectionLabel>
           <p>Recorre Fuencaliente a través de sus paisajes, senderos y lugares de interés. Cada punto abre una ficha propia y permite continuar por todas las rutas a las que pertenece.</p>

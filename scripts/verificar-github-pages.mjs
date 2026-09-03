@@ -45,4 +45,16 @@ for (const file of textFiles) {
 
 await access(path.join(outputDirectory, ".nojekyll"));
 await access(path.join(outputDirectory, "assets"));
+await access(path.join(outputDirectory, "sw.js"));
+await access(path.join(outputDirectory, "manifest.webmanifest"));
+
+const offlineManifest = JSON.parse(await readFile(path.join(outputDirectory, "offline-manifest.json"), "utf8"));
+if (!offlineManifest.files.includes(`${basePath}/`) || offlineManifest.files.length < pages.length) {
+  throw new Error("El manifiesto offline no contiene todas las páginas exportadas");
+}
+for (const ruta of rutas) {
+  if (!Array.isArray(offlineManifest.routes[ruta.slug]) || offlineManifest.routes[ruta.slug].length === 0) {
+    throw new Error(`Falta la descarga offline para ${ruta.slug}`);
+  }
+}
 console.log(`Exportación verificada: ${pages.length} páginas bajo ${basePath}`);
